@@ -1,3 +1,3 @@
-company_name,city,country,jc_member_years,jc_verified,jc_badges,services_shown,services_more,tagline,orders_count,orders_value_usd,profile_url,contact_person,email,phone,website,source_date
-1UP CARGO,Los Angeles,United States,18,Yes,JC Elite,"FCL; LCL; Air Freight; Customs Clearance; Truck",+9,1UP Your Supply Chain,11,13000+,,,,,,2026-10-20
-CU TRANSPORT INC.,Los Angeles,United States,15,No,"JC Dangerous Goods; JC Elite; JC Projects","Special Container; Hazardous Cargo; Warehousing; FBA; Customs Clearance",+8,One Stop Solution Your Transport Requirements,1,7000,,,,,,2026-10-20
+company_name,member_id,city,country,address,established,company_size,website,jc_member_years,jc_verified,jc_badges,services,core_ports,tagline,orders_count,orders_value_usd,profile_url,contact_person,email,phone,source_date
+1UP CARGO,,Los Angeles,United States,,,,,18,Yes,JC Elite,"FCL; LCL; Air Freight; Customs Clearance; Truck (+9)",,1UP Your Supply Chain,11,13000+,,,,,2026-10-20
+CU TRANSPORT INC.,106904,Los Angeles,United States,"19885 Harrison Ave, Los Angeles",1997,11-50,www.cutrans.com,15,No,"JC Dangerous Goods; JC Elite; JC Projects","Special Container; Hazardous Cargo; Break Bulk; Warehousing; FBA; Customs Clearance",Los Angeles; New York,One Stop Solution Your Transport Requirements,1,7000,https://www.jctrans.com/en/company/kmpe251/,,,,2026-10-20
