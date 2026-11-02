@@ -1,0 +1,63 @@
+# Mỗi campaign = 1 thị trường mục tiêu. Agent chạy web search theo `country` + `focus`.
+# target_count: số công ty MỚI muốn thu thập mỗi lần chạy.
+# preferred_sources: gợi ý nguồn công khai để agent bắt đầu (agent vẫn tự tìm thêm).
+
+[campaigns.us_transpacific]
+country = "United States"
+focus = "NVOCCs and forwarders importing sea/air cargo from Vietnam or Southeast Asia (furniture, apparel, footwear, electronics)"
+target_count = 15
+cities = ["Los Angeles", "Long Beach", "New York / New Jersey", "Chicago", "Houston", "Savannah"]
+preferred_sources = [
+  "NCBFAA member directory (public pages)",
+  "Company 'agents/network' pages mentioning Vietnam",
+  "News on China+1 sourcing shifts to Vietnam",
+]
+
+[campaigns.germany_sea_air]
+country = "Germany"
+focus = "Spediteure with Asia-Europe sea/air services, LCL import consolidation from Asia"
+target_count = 15
+cities = ["Hamburg", "Bremen", "Frankfurt", "Munich", "Düsseldorf"]
+preferred_sources = ["DSLV member list", "transport logistic Munich exhibitor list", "Hamburg port forwarder listings"]
+
+[campaigns.netherlands_belgium]
+country = "Netherlands"
+focus = "Forwarders around Rotterdam/Antwerp gateway handling Asia imports for EU distribution"
+target_count = 10
+cities = ["Rotterdam", "Amsterdam", "Venlo"]
+preferred_sources = ["FENEX member list", "Port of Rotterdam logistics directory"]
+
+[campaigns.japan]
+country = "Japan"
+focus = "Japanese forwarders (乙仲/フォワーダー) with Vietnam or ASEAN services, seafood/garment/electronics"
+target_count = 10
+cities = ["Tokyo", "Yokohama", "Osaka", "Nagoya", "Fukuoka"]
+preferred_sources = ["JIFFA member list", "Company sites with 'ベトナム' service pages"]
+
+[campaigns.korea]
+country = "South Korea"
+focus = "Korean forwarders (포워딩) shipping to/from Vietnam, especially Hai Phong and HCMC"
+target_count = 10
+cities = ["Seoul", "Busan", "Incheon"]
+preferred_sources = ["KIFFA member list"]
+
+[campaigns.australia]
+country = "Australia"
+focus = "Forwarders and customs brokers importing from Vietnam / Southeast Asia"
+target_count = 10
+cities = ["Sydney", "Melbourne", "Brisbane", "Perth"]
+preferred_sources = ["Freight & Trade Alliance (FTA) members", "CBFCA member list"]
+
+[campaigns.uk]
+country = "United Kingdom"
+focus = "UK forwarders with Far East/Asia import services, LCL consolidations from Asia"
+target_count = 10
+cities = ["London", "Felixstowe", "Southampton", "Manchester"]
+preferred_sources = ["BIFA member directory", "Multimodal exhibitor list"]
+
+[campaigns.india]
+country = "India"
+focus = "Indian forwarders with Vietnam/ASEAN lanes, project cargo and break-bulk"
+target_count = 10
+cities = ["Mumbai", "Chennai", "Delhi", "Kolkata"]
+preferred_sources = ["FFFAI member directory"]

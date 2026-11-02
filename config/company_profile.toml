@@ -1,0 +1,26 @@
+# Hồ sơ công ty của bạn - agent dùng để chấm điểm mức phù hợp và viết email.
+# SỬA các giá trị dưới đây cho đúng thực tế. Agent chỉ được dùng dịch vụ/thế mạnh liệt kê ở đây,
+# không tự bịa thêm.
+
+[company]
+name = "YOUR COMPANY LOGISTICS JSC"
+website = "https://www.your-company.com.vn"
+sender_name = "Nguyen Van A"
+sender_title = "Overseas Business Development Manager"
+sender_email = "overseas@your-company.com.vn"
+offices = ["Ho Chi Minh City", "Hai Phong", "Ha Noi", "Da Nang"]
+services = [
+  "Sea freight FCL/LCL export from HCMC (Cat Lai, Cai Mep), Hai Phong, Da Nang",
+  "Import door delivery and customs clearance in Vietnam",
+  "Air freight export/import via SGN and HAN",
+  "Weekly LCL consolidation to main Asian, EU and US gateways",
+  "Cross-border trucking Vietnam - China / Cambodia / Laos",
+  "Warehousing, CFS, fumigation, C/O and phytosanitary documentation",
+]
+strengths = [
+  "Local agent for FOB / EXW pick-ups at factories across North and South Vietnam",
+  "Fast quotation (same business day) and English-speaking ops team",
+  "Experience with furniture, garments, footwear, coffee and agricultural cargo",
+]
+networks = []  # ví dụ: ["WCA", "JCtrans", "FIATA"]
+extra_context = ""
