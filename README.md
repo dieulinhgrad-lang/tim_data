@@ -46,6 +46,27 @@ python -m forwarder_agent set-status alpha-logistics.de do_not_contact
 python -m forwarder_agent stats
 ```
 
+### Google AI + Claude: kiểm tra agent có tuyến nhập/xuất Việt Nam
+
+```bash
+pip install google-genai
+export GEMINI_API_KEY=...            # Google AI Studio
+python -m forwarder_agent -v discover --campaign china --provider both   # Claude + Gemini cùng tìm agent
+python -m forwarder_agent -v check-lanes --country China                 # kiểm tra tuyến VN
+python -m forwarder_agent -v qualify --requalify                         # chấm lại theo kết quả tuyến
+python -m forwarder_agent push-sheets --country China
+```
+
+- **Gemini (Google Search grounding)** và **Claude (web search)** nghiên cứu độc lập cùng một câu hỏi:
+  agent có chuyển hàng **vào** Việt Nam, **ra khỏi** Việt Nam, cả hai, hay không? Có tìm bằng tiếng địa phương
+  (VD tiếng Trung: 越南专线, 越南进口).
+- **Claude đối chiếu** hai kết quả và chỉ công nhận thông tin có URL nguồn. Kết quả gồm chiều tuyến, phương thức,
+  cảng/cửa khẩu VN, có văn phòng tại VN không, độ tin cậy (cao/trung bình/thấp), hai nguồn có khớp nhau không,
+  và tóm tắt tiếng Việt.
+- Không có `GEMINI_API_KEY` thì chỉ chạy Claude (`--providers claude`).
+- Trên Sheet có thêm 7 cột "Tuyến VN: …". Tab tạo bằng phiên bản cũ phải chèn 7 cột sau cột
+  "Bằng chứng tuyến Việt Nam" trước khi đẩy; agent sẽ dừng và báo lỗi thay vì ghi lệch cột.
+
 ### Đẩy lên Google Sheets (mỗi quốc gia một tab)
 
 ```bash

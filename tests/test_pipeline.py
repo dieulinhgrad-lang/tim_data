@@ -161,6 +161,9 @@ class FakeWS:
     def col_values(self, col):
         return [r[col - 1] for r in self.rows]
 
+    def row_values(self, row):
+        return self.rows[row - 1]
+
     def update(self, values, range_name):
         row = int("".join(ch for ch in range_name.split(":")[0] if ch.isdigit()))
         while len(self.rows) < row:
@@ -199,7 +202,7 @@ def test_push_to_sheets_one_tab_per_country_and_upsert(store):
         score=70, tier=Tier.B, is_forwarder=True, vietnam_fit="x", recommended_services=[], outreach_angle="y",
         red_flags=[], reasons=[]))
     assert push_to_sheets(ss, store_records(store), only_country="china") == {"China": (0, 1)}
-    assert len(china.rows) == 2 and china.rows[1][14] == 70 and china.rows[1][-1] == "Đã gọi điện"
+    assert len(china.rows) == 2 and china.rows[1][HEADER.index("Điểm")] == 70 and china.rows[1][-1] == "Đã gọi điện"
 
 
 def test_company_website_required():
@@ -216,3 +219,91 @@ def test_discovery_rejects_directory_listing(store, profile):
     assert saved == []
     result = client.beta.messages.calls[1]["messages"][2]["content"][0]
     assert result["is_error"] and "OWN website" in result["content"]
+
+
+# ---------------- Vietnam lane check (Google AI + Claude) ----------------
+from forwarder_agent.google_ai import GroundedResearch
+from forwarder_agent.models import Confidence, DiscoveredCompany, DiscoveredList, LaneDirection, LaneEvidence, VietnamLaneCheck
+from forwarder_agent.vietnam_lanes import check_lead, research_prompt, run_lane_checks
+
+
+LANE = VietnamLaneCheck(
+    direction=LaneDirection.BOTH, modes=["cross-border road", "sea LCL"], vn_gateways=["Huu Nghi", "Cat Lai"],
+    counterpart_gateways=["Pingxiang"], commodities=["electronics"], frequency_hint="daily trucks",
+    has_vietnam_office=False, vietnam_partners=[],
+    evidence=[LaneEvidence(claim="China-Vietnam line", url="https://sino56.cn/vn", source="company_site")],
+    confidence=Confidence.HIGH, sources_agree=True, summary_vi="Có tuyến cả hai chiều.",
+)
+
+
+class FakeGeminiModels:
+    def __init__(self, text="Gemini notes", uris=("https://sino56.cn/vn",)):
+        self.text, self.uris, self.calls = text, uris, []
+
+    def generate_content(self, model, contents, config):
+        self.calls.append(contents)
+        chunks = [NS(web=NS(uri=u, title="t", domain=None)) for u in self.uris]
+        meta = NS(web_search_queries=["q"], grounding_chunks=chunks)
+        return NS(text=self.text, candidates=[NS(grounding_metadata=meta)])
+
+
+class LaneClaude(FakeMessages):
+    def parse(self, **kw):
+        self.calls.append(kw)
+        if kw["output_format"] is VietnamLaneCheck:
+            return NS(parsed_output=LANE, stop_reason="end_turn")
+        if kw["output_format"] is DiscoveredList:
+            return NS(parsed_output=self.discovered, stop_reason="end_turn")
+        return super().parse(**kw)
+
+
+def test_research_prompt_uses_local_language_terms():
+    lead = Lead.model_validate(lead_input("Sino", "sino56.cn", "China"))
+    p = research_prompt(lead)
+    assert "越南专线" in p and "site:sino56.cn" in p
+
+
+def test_check_lead_combines_gemini_and_claude(store):
+    lead = Lead.model_validate(lead_input("Sino", "sino56.cn", "China"))
+    claude = NS(beta=NS(messages=LaneClaude([([NS(type="text", text="Claude notes", citations=None)], "end_turn")])))
+    gemini = NS(models=FakeGeminiModels())
+    result = check_lead(lead, ("gemini", "claude"), claude_client=claude, gemini_client=gemini)
+    assert result.direction == LaneDirection.BOTH
+    judge_input = claude.beta.messages.calls[-1]["messages"][0]["content"]
+    assert "Google Gemini" in judge_input and "Claude + web search" in judge_input and "https://sino56.cn/vn" in judge_input
+
+
+def test_run_lane_checks_stores_and_exports(store):
+    store.upsert_lead(Lead.model_validate(lead_input("Sino", "sino56.cn", "China")))
+    claude = NS(beta=NS(messages=LaneClaude([])))
+    assert run_lane_checks(store, providers=("claude",), claude_client=claude) == 1
+    assert store.lane_check("sino56.cn").direction == LaneDirection.BOTH
+    assert run_lane_checks(store, providers=("claude",), claude_client=claude) == 0  # already checked
+    row = dict(store_records(store))["China"]
+    assert row[HEADER.index("Tuyến VN: chiều")] == "Cả nhập & xuất"
+    assert row[HEADER.index("Tuyến VN: độ tin cậy")] == "Cao"
+
+
+def test_gemini_discovery_requires_own_website(store, profile):
+    from forwarder_agent.discovery import run_gemini_discovery
+    found = DiscoveredList(companies=[
+        DiscoveredCompany(company_name="Good", website="https://good56.cn", city="Shenzhen", networks=[],
+                          vietnam_evidence="Vietnam line", general_emails=[], phones=[], source_urls=[]),
+        DiscoveredCompany(company_name="NoSite", website=None, city=None, networks=["WCA"], vietnam_evidence=None,
+                          general_emails=[], phones=[], source_urls=[]),
+        DiscoveredCompany(company_name="Listing", website="https://x.en.made-in-china.com", city=None, networks=[],
+                          vietnam_evidence=None, general_emails=[], phones=[], source_urls=[]),
+    ])
+    msgs = LaneClaude([])
+    msgs.discovered = found
+    saved = run_gemini_discovery(Campaign(key="cn", country="China", focus="x", target_count=5), profile, store,
+                                 claude_client=NS(beta=NS(messages=msgs)), gemini_client=NS(models=FakeGeminiModels()))
+    assert saved == ["good56.cn"]
+
+
+def test_sheet_with_old_layout_is_not_overwritten(store):
+    store.upsert_lead(Lead.model_validate(lead_input("Sino", "sino56.cn", "China")))
+    ss = FakeSpreadsheet()
+    ss.tabs.append(FakeWS("China", [["Domain", "Công ty", "old layout"]]))
+    with pytest.raises(ValueError, match="older column layout"):
+        push_to_sheets(ss, store_records(store))

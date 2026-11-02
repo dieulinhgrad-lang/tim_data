@@ -6,7 +6,7 @@ import logging
 
 from .config import CompanyProfile
 from .llm import check_refusal, common_kwargs, make_client
-from .models import Lead, LeadStatus, Qualification
+from .models import Lead, LeadStatus, Qualification, VietnamLaneCheck
 from .store import LeadStore, lead_from_row
 
 log = logging.getLogger(__name__)
@@ -29,19 +29,25 @@ Network membership is a plus, not a requirement: do not reject a company only be
 If the lead already has its own office/subsidiary in Vietnam, add it as a red flag (they may only need us for \
 overflow, specific regions or Vietnam-origin export) and deduct 15 points.
 
+When a verified lane check is given: direction both = full 30 points for the Vietnam criterion; one direction \
+with high/medium confidence = 25; low confidence = 15; none = 0 (and add a red flag); unknown = judge from other data.
+
 Tiers: A >= 75, B 55-74, C 35-54, D < 35. Set is_forwarder=false and tier D for shippers, carriers, \
 software vendors, directories, or Vietnam-headquartered companies.
 Be skeptical: only credit facts present in the lead data. Write all fields in English."""
 
 
-def qualify_lead(lead: Lead, profile: CompanyProfile, client=None) -> Qualification:
+def qualify_lead(lead: Lead, profile: CompanyProfile, client=None, lane: VietnamLaneCheck | None = None) -> Qualification:
     client = client or make_client()
+    lane_block = ("\n\nVerified Vietnam trade-lane check (prefer this over the lead's own vietnam_evidence):\n"
+                  + lane.model_dump_json(indent=2)) if lane else ""
     response = client.beta.messages.parse(
         max_tokens=8000,
         system=SYSTEM_PROMPT.format(profile=profile.as_prompt()),
         messages=[{
             "role": "user",
-            "content": "Qualify this lead:\n\n" + lead.model_dump_json(indent=2, exclude={"status", "created_at"}),
+            "content": "Qualify this lead:\n\n" + lead.model_dump_json(indent=2, exclude={"status", "created_at"})
+            + lane_block,
         }],
         output_format=Qualification,
         **common_kwargs("medium"),
@@ -50,14 +56,18 @@ def qualify_lead(lead: Lead, profile: CompanyProfile, client=None) -> Qualificat
     return response.parsed_output
 
 
-def run_qualification(store: LeadStore, profile: CompanyProfile, client=None, limit: int | None = None) -> int:
+def run_qualification(store: LeadStore, profile: CompanyProfile, client=None, limit: int | None = None,
+                      requalify: bool = False) -> int:
+    """Score NEW leads (and, with requalify=True, re-score QUALIFIED ones, e.g. after a lane check)."""
     client = client or make_client()
     rows = store.by_status(LeadStatus.NEW, limit=limit)
+    if requalify:
+        rows += store.by_status(LeadStatus.QUALIFIED, limit=limit)
     done = 0
     for row in rows:
         lead = lead_from_row(row)
         try:
-            q = qualify_lead(lead, profile, client)
+            q = qualify_lead(lead, profile, client, store.lane_check(row["domain"]))
         except Exception as e:  # keep going; one bad lead must not stop the batch
             log.error("Qualification failed for %s: %s", row["domain"], e)
             continue

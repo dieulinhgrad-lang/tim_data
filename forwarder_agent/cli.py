@@ -9,6 +9,9 @@
     python -m forwarder_agent import-csv my_list.csv --campaign fair_2026
     python -m forwarder_agent set-status abc-logistics.de contacted
     python -m forwarder_agent stats
+    python -m forwarder_agent discover --campaign china --provider both      # Claude + Google Gemini
+    python -m forwarder_agent check-lanes --country China                     # có tuyến nhập/xuất VN không?
+    python -m forwarder_agent qualify --requalify                             # chấm lại sau khi kiểm tra tuyến
     python -m forwarder_agent push-sheets --sheet-id <ID> [--country China]   # mỗi quốc gia 1 tab
 """
 
@@ -73,10 +76,18 @@ def main(argv: list[str] | None = None) -> None:
         sp.add_argument("--country")
         sp.add_argument("--focus")
         sp.add_argument("--max", type=int, help="target number of new companies")
+        sp.add_argument("--provider", choices=["claude", "gemini", "both"], default="claude",
+                        help="who searches: Claude web search, Google Gemini + Google Search, or both")
 
     add_campaign_args(sub.add_parser("discover", help="tìm forwarder mới bằng web search"))
     sp = sub.add_parser("qualify", help="chấm điểm lead mới")
     sp.add_argument("--limit", type=int)
+    sp.add_argument("--requalify", action="store_true", help="chấm lại cả lead đã chấm")
+    sp = sub.add_parser("check-lanes", help="kiểm tra agent có tuyến nhập/xuất Việt Nam (Google AI + Claude)")
+    sp.add_argument("--country")
+    sp.add_argument("--limit", type=int)
+    sp.add_argument("--recheck", action="store_true", help="kiểm tra lại cả lead đã kiểm tra")
+    sp.add_argument("--providers", default="gemini,claude", help="gemini,claude | gemini | claude")
     sp = sub.add_parser("draft", help="soạn email nháp cho lead đạt điểm")
     sp.add_argument("--min-score", type=int, default=55)
     sp.add_argument("--limit", type=int)
@@ -84,6 +95,7 @@ def main(argv: list[str] | None = None) -> None:
     add_campaign_args(sp)
     sp.add_argument("--all-campaigns", action="store_true")
     sp.add_argument("--min-score", type=int, default=55)
+    sp.add_argument("--providers", default="gemini,claude", help="lane-check researchers")
     sp.add_argument("--sheet-id", help="also push results to this Google Sheet (or set GOOGLE_SHEETS_ID)")
     sp.add_argument("--credentials", help="service-account JSON (or GOOGLE_APPLICATION_CREDENTIALS)")
     sp = sub.add_parser("push-sheets", help="đẩy dữ liệu lên Google Sheets, mỗi quốc gia một tab")
@@ -106,9 +118,18 @@ def main(argv: list[str] | None = None) -> None:
     store = LeadStore(args.db)
     out_dir = Path(args.out_dir)
 
-    if args.cmd in {"discover", "qualify", "draft", "run"}:
+    def discover(c):
+        found = []
+        if args.provider in ("claude", "both"):
+            found += run_discovery(c, profile, store, client)
+        if args.provider in ("gemini", "both"):
+            found += run_gemini_discovery(c, profile, store, client)
+        return sorted(set(found))
+
+    if args.cmd in {"discover", "qualify", "draft", "run", "check-lanes"}:
         # import lazily so export/stats work without the anthropic package configured
-        from .discovery import run_discovery
+        from .discovery import run_discovery, run_gemini_discovery
+        from .vietnam_lanes import run_lane_checks
         from .llm import make_client
         from .outreach import run_outreach
         from .qualify import run_qualification
@@ -118,10 +139,14 @@ def main(argv: list[str] | None = None) -> None:
 
     if args.cmd == "discover":
         c = _campaign_from_args(args)
-        saved = run_discovery(c, profile, store, client)
+        saved = discover(c)
         print(f"[{c.key}] saved {len(saved)} companies: {', '.join(saved)}")
+    elif args.cmd == "check-lanes":
+        n = run_lane_checks(store, providers=args.providers.split(","), country=args.country, limit=args.limit,
+                            recheck=args.recheck, claude_client=client)
+        print(f"Checked Vietnam lanes for {n} leads")
     elif args.cmd == "qualify":
-        print(f"Qualified {run_qualification(store, profile, client, limit=args.limit)} leads")
+        print(f"Qualified {run_qualification(store, profile, client, limit=args.limit, requalify=args.requalify)} leads")
     elif args.cmd == "draft":
         print(f"Drafted {run_outreach(store, profile, client, min_score=args.min_score, limit=args.limit)} emails")
     elif args.cmd == "run":
@@ -129,8 +154,10 @@ def main(argv: list[str] | None = None) -> None:
             _campaign_from_args(args)
         ]
         for c in campaigns:
-            saved = run_discovery(c, profile, store, client)
+            saved = discover(c)
             print(f"[{c.key}] saved {len(saved)} companies")
+            n = run_lane_checks(store, providers=args.providers.split(","), country=c.country, claude_client=client)
+            print(f"[{c.key}] checked Vietnam lanes for {n} leads")
         print(f"Qualified {run_qualification(store, profile, client)} leads")
         print(f"Drafted {run_outreach(store, profile, client, min_score=args.min_score)} emails")
         _export(store, out_dir)

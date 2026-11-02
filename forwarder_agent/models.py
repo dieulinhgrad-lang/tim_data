@@ -119,3 +119,57 @@ class EmailDraft(BaseModel):
     follow_up_2: str = Field(description="Final short follow-up for ~12 business days later")
     recipient_email: str | None = Field(description="Best public email to send to, or null if none found")
     notes_vi: str = Field(description="Ghi chú tiếng Việt cho sales: vì sao chọn góc tiếp cận này, cần kiểm tra gì")
+
+
+# ---------------- Vietnam trade-lane verification ----------------
+class LaneDirection(str, Enum):
+    IMPORT_TO_VN = "import_to_vn"      # hàng từ nước của agent / thế giới VÀO Việt Nam
+    EXPORT_FROM_VN = "export_from_vn"  # hàng từ Việt Nam RA nước của agent / thế giới
+    BOTH = "both"
+    NONE = "none"                      # không thấy tuyến Việt Nam
+    UNKNOWN = "unknown"                # không đủ dữ liệu
+
+
+class Confidence(str, Enum):
+    HIGH = "high"      # trang của chính công ty nói rõ, hoặc 2 nguồn độc lập trùng khớp
+    MEDIUM = "medium"  # 1 nguồn đáng tin, hoặc suy ra rõ ràng
+    LOW = "low"        # gián tiếp / mâu thuẫn
+
+
+class LaneEvidence(BaseModel):
+    claim: str = Field(description="What the source says, short quote or paraphrase")
+    url: str
+    source: str = Field(description="'company_site', 'directory', 'news', 'linkedin', 'other'")
+
+
+class VietnamLaneCheck(BaseModel):
+    """Does this agent move cargo into and/or out of Vietnam? Structured verdict built from web evidence."""
+
+    direction: LaneDirection
+    modes: list[str] = Field(description="sea FCL, sea LCL, air, cross-border road, rail, express")
+    vn_gateways: list[str] = Field(description="Vietnam ports / airports / border gates mentioned, e.g. Hai Phong, "
+                                               "Cat Lai, Da Nang, SGN, HAN, Huu Nghi/Lang Son, Mong Cai")
+    counterpart_gateways: list[str] = Field(description="Origin/destination gateways on the agent's side")
+    commodities: list[str]
+    frequency_hint: str | None = Field(description="e.g. 'daily trucks', 'weekly LCL', '1-3 containers/day'")
+    has_vietnam_office: bool
+    vietnam_partners: list[str] = Field(description="Named Vietnam agents/partners if published")
+    evidence: list[LaneEvidence]
+    confidence: Confidence
+    sources_agree: bool | None = Field(description="True/False if Google and Claude research were compared, else null")
+    summary_vi: str = Field(description="1-2 câu tiếng Việt: agent có tuyến nhập/xuất VN không, chiều nào, bằng chứng gì")
+
+
+class DiscoveredCompany(BaseModel):
+    company_name: str
+    website: str | None
+    city: str | None
+    networks: list[str]
+    vietnam_evidence: str | None
+    general_emails: list[str]
+    phones: list[str]
+    source_urls: list[str]
+
+
+class DiscoveredList(BaseModel):
+    companies: list[DiscoveredCompany]

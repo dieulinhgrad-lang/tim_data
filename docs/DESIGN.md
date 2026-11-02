@@ -96,6 +96,26 @@ Mặc định chỉ soạn email cho lead ≥ 55 điểm (A + B).
 - Email nháp chỉ được dùng dịch vụ/thế mạnh có trong `company_profile.toml`.
 - Không gửi tự động: con người duyệt `output/drafts.md`.
 
+## 6a. Kiểm tra tuyến nhập/xuất Việt Nam (Google AI + Claude)
+
+```
+lead ──► Gemini + Google Search ──┐  (ghi chú + URL nguồn)
+     └─► Claude + web search ─────┤
+                                  ▼
+                 Claude đối chiếu (structured output VietnamLaneCheck)
+                 chiều: import_to_vn / export_from_vn / both / none / unknown
+                 độ tin cậy + sources_agree + bằng chứng có URL
+                                  ▼
+                 chấm điểm lại: both = 30đ; 1 chiều (tin cậy cao/TB) = 25đ;
+                 tin cậy thấp = 15đ; none = 0đ + red flag
+```
+
+- Hai nguồn tìm kiếm khác nhau (Google index vs. công cụ tìm kiếm của Claude) giúp phủ rộng hơn, nhất là trang
+  tiếng Trung/Nhật/Hàn. Hai nguồn khớp nhau → độ tin cậy cao; mâu thuẫn → `sources_agree=false` để sales kiểm tra.
+- Gemini chỉ nghiên cứu (không ép schema khi dùng Google Search); bước chuẩn hóa và phán quyết do Claude làm.
+- `discover --provider gemini|both`: Gemini cũng có thể tìm agent mới; Claude chuyển kết quả thành dữ liệu
+  chuẩn, rồi áp cùng bộ lọc (website riêng, không phải công ty VN, không trùng).
+
 ## 6b. Ghi chú riêng thị trường Trung Quốc
 
 - Nhiều forwarder TQ chạy "越南专线" (tuyến chuyên Việt Nam) đường bộ qua Bằng Tường/Hữu Nghị, Đông Hưng và đường

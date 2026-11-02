@@ -1,0 +1,680 @@
+{
+ "cd-century.com": {
+  "direction": "both",
+  "modes": [
+   "cross-border road",
+   "sea FCL/LCL",
+   "air"
+  ],
+  "vn_gateways": [
+   "Hà Nội / kho tại VN"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "中越陆运专线 DDP door-to-door into Vietnam; also runs 越美专线 (Vietnam-US line)",
+    "url": "https://www.cd-century.com/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Có cả hai chiều: tuyến TQ→VN (DDP) và tuyến VN→Mỹ (越美专线). Chiều xuất VN chỉ thấy tên dịch vụ, cần hỏi lại khối lượng."
+ },
+ "blshipping.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea FCL/LCL",
+   "cross-border road",
+   "air"
+  ],
+  "vn_gateways": [
+   "Hải Phòng",
+   "Cát Lái",
+   "Đà Nẵng",
+   "Hữu Nghị (Bằng Tường)"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Sea from Nansha/Shekou/Ningbo/Shanghai to Haiphong, HCMC, Danang; trucking via Pingxiang",
+    "url": "https://blshipping.com/agent/from_China_to_Vietnam_sea_land_air_cargo_logistics_freight_forwarder",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (TQ→VN) bằng biển, bộ, hàng không. Không thấy chiều VN→TQ."
+ },
+ "gowin88.cn": {
+  "direction": "import_to_vn",
+  "modes": [
+   "cross-border road",
+   "sea FCL/LCL",
+   "air"
+  ],
+  "vn_gateways": [
+   "Toàn VN (door-to-door)"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam Line: daily truck departures to Vietnam plus sea and air; 48h Vietnam line",
+    "url": "https://www.gowin88.cn/en/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN: xe tải hằng ngày + biển + hàng không. Không thấy chiều xuất từ VN."
+ },
+ "hst56.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "air",
+   "cross-border road",
+   "sea"
+  ],
+  "vn_gateways": [
+   "HAN",
+   "SGN",
+   "Hữu Nghị",
+   "Móng Cái"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam DDP line: air SZX/CAN→HAN/SGN, land via Youyiguan/Dongxing, sea to HCMC",
+    "url": "https://www.hst56.com/yuenanzhuanxian/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (thương mại điện tử, DDP). Không thấy chiều xuất."
+ },
+ "chefuwang.cn": {
+  "direction": "both",
+  "modes": [
+   "cross-border road",
+   "rail",
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "Hữu Nghị",
+   "Tân Thanh (Puzhai)",
+   "Móng Cái",
+   "Hải Phòng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Sino-Vietnamese cross-border transport; customs declaration for imports from Vietnam",
+    "url": "https://www.chefuwang.cn/en/col.jsp?id=286",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Có cả hai chiều qua các cửa khẩu Lạng Sơn/Móng Cái, có khai hải quan hàng nhập từ VN. Có công ty riêng tại Bắc Ninh."
+ },
+ "chinafreightservice.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea FCL/LCL"
+  ],
+  "vn_gateways": [
+   "Cát Lái",
+   "Hải Phòng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Shipping from China to Vietnam (Ho Chi Minh / Haiphong), 2-5 days",
+    "url": "https://chinafreightservice.com/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN bằng đường biển tới HCM/Hải Phòng. Không thấy chiều xuất."
+ },
+ "my-intl.cn": {
+  "direction": "import_to_vn",
+  "modes": [
+   "cross-border road",
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "Móng Cái",
+   "Hải Phòng",
+   "Hà Nội",
+   "HCM",
+   "Đà Nẵng",
+   "Quy Nhơn"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam line; works with 5 agents in Mong Cai, Haiphong, Hanoi, HCMC, Da Nang, Quy Nhon; base in Dongxing",
+    "url": "http://www.my-intl.cn/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN qua Đông Hưng – Móng Cái; đang dùng 5 đại lý tại VN. Không thấy chiều xuất."
+ },
+ "transvision.cn": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Freight contracts from China to Southeast Asia (Vietnam not named)",
+    "url": "https://linkedin.com/company/xiamen-transvision-international-co-ltd",
+    "source": "linkedin"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ: chỉ nói chung 'Đông Nam Á', không nhắc Việt Nam. Cần hỏi trực tiếp."
+ },
+ "chenfan56.cn": {
+  "direction": "import_to_vn",
+  "modes": [
+   "cross-border road",
+   "sea FCL/LCL",
+   "air",
+   "express"
+  ],
+  "vn_gateways": [
+   "Hà Nội",
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "越南陆运专线出口; Hanoi 2-3 days, HCMC 7-9 days; sea 10-12 days",
+    "url": "http://www.chenfan56.cn/index.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tuyến xuất khẩu TQ→VN, 20 năm). Không thấy chiều xuất từ VN."
+ },
+ "djcargo.cn": {
+  "direction": "both",
+  "modes": [
+   "cross-border road",
+   "sea FCL/LCL",
+   "air"
+  ],
+  "vn_gateways": [
+   "Hữu Nghị / Lạng Sơn",
+   "Hải Phòng",
+   "Cát Lái"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "中国至越南往返专线; 越南进出口中国海运专线; 越南转港清关进口中国",
+    "url": "https://www.djcargo.cn/china-vietnam-shuttle-transportation/",
+    "source": "company_site"
+   },
+   {
+    "claim": "Offices & warehouses in Haiphong, Hanoi, HCMC",
+    "url": "https://www.djcargo.cn/china-vietnam-shuttle-transportation/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Có cả hai chiều TQ⇄VN (biển, bộ, hàng không), kể cả hàng từ Hải Phòng nhập về TQ. Đã có văn phòng/kho tại Hải Phòng, Hà Nội, HCM."
+ },
+ "chincil.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea FCL/LCL",
+   "cross-border road"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Hải Phòng",
+   "Hà Nội",
+   "Đà Nẵng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "China-Vietnam by sea or by truck, all-in door to door",
+    "url": "https://www.chincil.com/product/china-vietnam-by-sea-or-by-truck",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN bằng biển hoặc xe tải. Không thấy chiều xuất."
+ },
+ "gztopjet.cn": {
+  "direction": "both",
+  "modes": [
+   "sea FCL/LCL",
+   "road"
+  ],
+  "vn_gateways": [
+   "Đồng Nai",
+   "Bình Dương",
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Imports or exports from China and Vietnam; door-to-door China-Vietnam DDP/EXW",
+    "url": "https://linkedin.com/company/topjet-international-logistics-viet-nam-company-limited",
+    "source": "linkedin"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Có cả hai chiều TQ⇄VN theo LinkedIn; có công ty và kho tại HCM/Bình Dương/Đồng Nai. Chưa xác minh trên website."
+ },
+ "sglchina.com.cn": {
+  "direction": "both",
+  "modes": [
+   "cross-border road",
+   "air",
+   "sea LCL"
+  ],
+  "vn_gateways": [
+   "Hữu Nghị",
+   "Đông Hưng/Móng Cái",
+   "SGN",
+   "Cát Lái"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "China-Southeast Asia Round-trip Transportation; Guangzhou-HCMC road/air/sea",
+    "url": "https://www.sglchina.com.cn/en/service/china_vietnam_pd.php",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Có cả hai chiều (round-trip) TQ⇄VN; có 2 điểm tại VN."
+ },
+ "barklaysinc.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Overseas agency in Vietnam; Ho Chi Minh subsidiary established 2025",
+    "url": "http://www.barklaysinc.com/page141?_l=en",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều: có công ty con tại HCM (2025) nhưng không mô tả tuyến VN; nhiều khả năng xuất VN→Mỹ (họ là NVOCC tuyến Mỹ)."
+ },
+ "csc.cc": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea FCL/LCL",
+   "cross-border road",
+   "air"
+  ],
+  "vn_gateways": [
+   "Hải Phòng",
+   "Đà Nẵng",
+   "Cát Lái",
+   "Quảng Ninh"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "1-3 containers/day to Vietnam; CSC owns a sorting centre and trucks in Vietnam",
+    "url": "https://www.csc.cc/yuenan-zhuanxian.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN, 1-3 container/ngày. Có trung tâm phân loại và đội xe riêng tại VN."
+ },
+ "xhddp.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Shipping from China to Vietnam since 2010, FOB/CIF and DDP",
+    "url": "https://www.xhddp.com/start-shipping-from-china-to-vietnam-now",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (TQ→VN từ 2010). Không thấy chiều xuất."
+ },
+ "gdzy56.com": {
+  "direction": "both",
+  "modes": [
+   "cross-border road"
+  ],
+  "vn_gateways": [
+   "Móng Cái",
+   "Hải Phòng",
+   "Hà Nội"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "提供中国至越南往返一站式物流专线; 边贸的进出口服务",
+    "url": "https://www.gdzy56.com/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Có cả hai chiều TQ⇄VN (tuyến khứ hồi, xuất nhập biên mậu). Có chi nhánh tại Móng Cái, Hải Phòng, Hà Nội."
+ },
+ "jud56.com": {
+  "direction": "both",
+  "modes": [
+   "cross-border road",
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "Hải Phòng",
+   "Hà Nội",
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "China-Vietnam line; import & export customs at HCMC and Haiphong ports (越南胡志明港、海防港进出口报关)",
+    "url": "https://www.jud56.com/ynzx/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Chủ yếu TQ→VN; có làm khai báo xuất nhập khẩu tại Hải Phòng/HCM nên có thể làm cả chiều xuất. Có công ty riêng tại VN."
+ },
+ "safround.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Global offices incl. Vietnam doing NVOCC services as agents for Safround in the US trade",
+    "url": "https://safround.com/en/company/contact-us",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (VN→Mỹ) qua văn phòng VN của họ. Không thấy tuyến TQ→VN."
+ },
+ "ccilcn.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "cross-border road",
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "Hữu Nghị/Lạng Sơn",
+   "Hải Phòng",
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dongguan-Pingxiang-Bac Ninh operations; Yantian/Shekou direct to HCMC/Haiphong",
+    "url": "http://ccilcn.com/index.php?s=%2FMobile%2FList%2Findex%2Fcid%2F42.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (TQ→VN). Có chi nhánh Bắc Ninh."
+ },
+ "shunkai-sh.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Developing South-East Asian line; Shunkai Vietnam office in HCMC",
+    "url": "http://www.shunkai-sh.com/htm/en/en-company.htm",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều; có văn phòng HCM."
+ },
+ "hanyuan56.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "cross-border road",
+   "sea",
+   "air",
+   "rail"
+  ],
+  "vn_gateways": [
+   "Đông Hưng/Móng Cái",
+   "HAN",
+   "SGN"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dongxing direct to all of Vietnam, daily trucks; offices in Vietnam",
+    "url": "http://www.hanyuan56.com/p-about.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN qua Đông Hưng. Có văn phòng tại VN."
+ },
+ "ingsu.cn": {
+  "direction": "import_to_vn",
+  "modes": [
+   "cross-border road",
+   "sea",
+   "air",
+   "express"
+  ],
+  "vn_gateways": [
+   "Bắc Ninh",
+   "Hải Phòng",
+   "Đà Nẵng",
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "China to Vietnam by land, sea, express and air with duty paid, door to door",
+    "url": "https://www.ingsu.cn/en/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (DDP). Có công ty INGSU Vietnam."
+ },
+ "leagueshipping.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Overseas office in Vietnam",
+    "url": "https://www.leagueshipping.com/landpage_aboutus",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều; chỉ biết có văn phòng tại VN."
+ },
+ "waytronsc.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [
+   "Hải Phòng",
+   "HCM",
+   "Vũng Tàu"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Logistics network lists Hai Phong, Ho Chi Minh City, Vung Tau alongside US gateways",
+    "url": "https://www.waytronsc.com/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Có thể xuất từ VN sang Mỹ (mạng lưới VN gắn với tuyến Mỹ), độ tin cậy thấp."
+ }
+}

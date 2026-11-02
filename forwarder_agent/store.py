@@ -8,7 +8,7 @@ import sqlite3
 from datetime import datetime, timezone
 from pathlib import Path
 
-from .models import EmailDraft, Lead, LeadStatus, Qualification, is_company_website
+from .models import EmailDraft, Lead, LeadStatus, Qualification, VietnamLaneCheck, is_company_website
 
 SCHEMA = """
 CREATE TABLE IF NOT EXISTS leads (
@@ -42,6 +42,10 @@ class LeadStore:
         self.db = sqlite3.connect(str(path))
         self.db.row_factory = sqlite3.Row
         self.db.executescript(SCHEMA)
+        cols = {r["name"] for r in self.db.execute("PRAGMA table_info(leads)")}
+        if "lane_json" not in cols:  # upgrade databases created before the Vietnam-lane check existed
+            self.db.execute("ALTER TABLE leads ADD COLUMN lane_json TEXT")
+            self.db.commit()
 
     # ---------- write ----------
     def upsert_lead(self, lead: Lead) -> bool:
@@ -70,6 +74,26 @@ class LeadStore:
 
     def save_draft(self, domain: str, d: EmailDraft) -> None:
         self._update(domain, draft_json=d.model_dump_json(), status=LeadStatus.DRAFTED.value)
+
+    def save_lane_check(self, domain: str, check: VietnamLaneCheck) -> None:
+        self._update(domain, lane_json=check.model_dump_json())
+
+    def lane_check(self, domain: str) -> VietnamLaneCheck | None:
+        row = self.get(domain)
+        return VietnamLaneCheck.model_validate_json(row["lane_json"]) if row and row["lane_json"] else None
+
+    def for_lane_check(self, country: str | None = None, recheck: bool = False, limit: int | None = None):
+        sql, args = "SELECT * FROM leads WHERE status NOT IN ('rejected', 'do_not_contact')", []
+        if not recheck:
+            sql += " AND lane_json IS NULL"
+        if country:
+            sql += " AND lower(country) = lower(?)"
+            args.append(country)
+        sql += " ORDER BY score DESC NULLS LAST, domain"
+        if limit:
+            sql += " LIMIT ?"
+            args.append(limit)
+        return list(self.db.execute(sql, args))
 
     def set_status(self, domain: str, status: LeadStatus) -> bool:
         cur = self.db.execute(

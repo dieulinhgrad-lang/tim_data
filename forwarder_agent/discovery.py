@@ -211,3 +211,61 @@ def run_discovery(
         log.warning("Discovery stopped after max_turns=%d", max_turns)
 
     return sorted(seen)
+
+
+# ---------------- Google AI (Gemini + Google Search) discovery ----------------
+GEMINI_DISCOVERY_PROMPT = """Using Google Search, list up to {n} real freight-forwarding companies (forwarders, \
+NVOCCs, customs brokers) based in {country} that ship cargo to or from Vietnam, or are likely to (Asia / \
+Southeast Asia lanes). Focus: {focus}
+{cities}
+Requirements for each company:
+- It MUST have its own official website (its own domain). Do not give marketplace, directory or social links \
+as the website; use them only to find the company.
+- Association / network membership (WCA, JCtrans, FIATA, national association) is optional - mention it if found.
+- Do not include Vietnam-headquartered companies, shipping lines, airlines or software vendors.
+- Skip these already-known domains: {known}
+
+For each company give: name, official website, city, networks (if any), the evidence that they handle \
+Vietnam cargo (with direction: into Vietnam / out of Vietnam), public business emails and phones, and the \
+source URLs you used. Never invent emails or websites."""
+
+EXTRACT_SYSTEM = """Convert the research notes into a list of companies. Copy only facts present in the notes. \
+website must be the company's own homepage if the notes give one, else null. Drop entries that are clearly \
+directories, marketplaces, carriers or Vietnam-headquartered companies."""
+
+
+def run_gemini_discovery(campaign: Campaign, profile: CompanyProfile, store: LeadStore, claude_client=None,
+                         gemini_client=None) -> list[str]:
+    """Google Gemini finds candidates with Google Search; Claude structures them; same filters as save_forwarder."""
+    from .google_ai import gemini_research
+    from .models import DiscoveredList
+
+    claude_client = claude_client or make_client()
+    known = store.known_domains(campaign.country)
+    research = gemini_research(GEMINI_DISCOVERY_PROMPT.format(
+        n=campaign.target_count, country=campaign.country, focus=campaign.focus,
+        cities=f"Priority cities: {', '.join(campaign.cities)}" if campaign.cities else "",
+        known=", ".join(known[:300]) or "none",
+    ), client=gemini_client)
+
+    response = claude_client.beta.messages.parse(
+        max_tokens=16000, system=EXTRACT_SYSTEM,
+        messages=[{"role": "user", "content": research.as_prompt_block()}],
+        output_format=DiscoveredList, **common_kwargs("low"),
+    )
+    check_refusal(response)
+
+    seen: set[str] = set()
+    for c in response.parsed_output.companies:
+        if not c.website:
+            log.info("Gemini candidate %s skipped: no official website", c.company_name)
+            continue
+        raw = {
+            "company_name": c.company_name, "website": c.website, "country": campaign.country, "city": c.city,
+            "networks": c.networks, "vietnam_evidence": c.vietnam_evidence, "general_emails": c.general_emails,
+            "phones": c.phones, "source_urls": c.source_urls or [s["uri"] for s in research.sources[:3]],
+            "notes": "found via Google Gemini + Google Search",
+        }
+        text, _ = handle_save_forwarder(raw, campaign, store, seen)
+        log.info("gemini candidate -> %s", text)
+    return sorted(seen)

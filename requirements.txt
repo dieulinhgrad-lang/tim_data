@@ -1,3 +1,4 @@
 anthropic>=2.3.0
 pydantic>=2.7
 gspread>=6.0  # optional: Google Sheets export
+google-genai>=1.0  # optional: Google AI (Gemini + Google Search) research
