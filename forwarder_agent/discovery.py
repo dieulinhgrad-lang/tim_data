@@ -13,7 +13,7 @@ from pydantic import ValidationError
 
 from .config import Campaign, CompanyProfile
 from .llm import WEB_FETCH_TOOL, WEB_SEARCH_TOOL, check_refusal, common_kwargs, make_client
-from .models import Lead, normalize_domain
+from .models import Lead, is_company_website
 from .store import LeadStore
 
 log = logging.getLogger(__name__)
@@ -97,6 +97,11 @@ in the target country's language. Never log in, bypass paywalls, or scrape conte
 
 Rules:
 - Record each verified company with `save_forwarder` immediately - don't batch them up until the end.
+- Every company MUST have its own official website (its own domain). A listing on a marketplace, directory \
+or social network (made-in-china, alibaba, JCtrans, WCA directory, LinkedIn, yellow pages...) can be used to \
+discover a company, but then find and record its official website; skip the company if it has none.
+- Association / network membership is NOT required. Record it when present (networks), leave it empty when not.
+- If the company already has its own office or subsidiary in Vietnam, still record it but say so in notes.
 - Only FOREIGN companies headquartered or with an office in the target country. Skip Vietnam-headquartered \
 companies, shipping lines, airlines, shippers/BCOs, software vendors and pure directories.
 - Every fact must come from a page you saw; include those pages in source_urls. Do not invent or pattern-guess \
@@ -130,8 +135,9 @@ def handle_save_forwarder(raw: dict, campaign: Campaign, store: LeadStore, seen:
         return f"Invalid input, fix and retry: {e.errors()[:3]}", True
 
     domain = lead.domain
-    if not domain or "." not in domain:
-        return "website must be the company's real homepage URL", True
+    if not is_company_website(lead.website):
+        return (f"Rejected {lead.website}: a lead needs the company's OWN website (not a marketplace, directory "
+                "or social page). Find the official site and call save_forwarder again, or skip the company."), True
     if domain.endswith(".vn") or lead.country.strip().lower() in {"vietnam", "viet nam"}:
         return f"Skipped {domain}: we only want companies outside Vietnam.", False
     if domain in seen:

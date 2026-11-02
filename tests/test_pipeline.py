@@ -147,3 +147,72 @@ def test_import_csv(store, tmp_path):
     assert store.import_csv(p, "fair") == (1, 0)
     lead = Lead.model_validate_json(store.get("gamma.co.uk")["lead_json"])
     assert lead.networks == ["WCA", "FIATA"] and lead.campaign == "fair"
+
+
+# ---------------- Google Sheets ----------------
+from forwarder_agent.models import is_company_website
+from forwarder_agent.sheets import HEADER, push_to_sheets, store_records
+
+
+class FakeWS:
+    def __init__(self, title, rows=None):
+        self.title, self.rows = title, rows or []
+
+    def col_values(self, col):
+        return [r[col - 1] for r in self.rows]
+
+    def update(self, values, range_name):
+        row = int("".join(ch for ch in range_name.split(":")[0] if ch.isdigit()))
+        while len(self.rows) < row:
+            self.rows.append([])
+        self.rows[row - 1] = list(values[0]) + self.rows[row - 1][len(values[0]):]
+
+    def append_rows(self, values, value_input_option="RAW"):
+        self.rows.extend(list(v) for v in values)
+
+
+class FakeSpreadsheet:
+    def __init__(self):
+        self.tabs = []
+
+    def worksheets(self):
+        return self.tabs
+
+    def add_worksheet(self, title, rows, cols):
+        ws = FakeWS(title)
+        self.tabs.append(ws)
+        return ws
+
+
+def test_push_to_sheets_one_tab_per_country_and_upsert(store):
+    store.upsert_lead(Lead.model_validate(lead_input("Alpha", "alpha.de")))
+    store.upsert_lead(Lead.model_validate(lead_input("Sino", "sino56.cn", "China", networks=[])))
+    ss = FakeSpreadsheet()
+    assert push_to_sheets(ss, store_records(store)) == {"China": (1, 0), "Germany": (1, 0)}
+    china = next(t for t in ss.tabs if t.title == "China")
+    assert china.rows[0] == HEADER
+    assert china.rows[1][0] == "sino56.cn" and china.rows[1][6] == "Không"  # no association is fine
+
+    # sales adds a note in an extra column; a re-push updates in place and keeps the note
+    china.rows[1].append("Đã gọi điện")
+    store.save_qualification("sino56.cn", Qualification(
+        score=70, tier=Tier.B, is_forwarder=True, vietnam_fit="x", recommended_services=[], outreach_angle="y",
+        red_flags=[], reasons=[]))
+    assert push_to_sheets(ss, store_records(store), only_country="china") == {"China": (0, 1)}
+    assert len(china.rows) == 2 and china.rows[1][14] == 70 and china.rows[1][-1] == "Đã gọi điện"
+
+
+def test_company_website_required():
+    assert is_company_website("https://www.gowin88.cn/en/")
+    assert not is_company_website("https://shenzhencompass.en.made-in-china.com/product/x")
+    assert not is_company_website("https://linkedin.com/company/abc")
+    assert not is_company_website("gxfangyun.qy6.com.cn")
+
+
+def test_discovery_rejects_directory_listing(store, profile):
+    turns = [([tool_use(1, lead_input("Compass", "https://compass.en.made-in-china.com", "China"))], "tool_use")]
+    client = fake_client(turns)
+    saved = run_discovery(Campaign(key="cn", country="China", focus="x", target_count=5), profile, store, client)
+    assert saved == []
+    result = client.beta.messages.calls[1]["messages"][2]["content"][0]
+    assert result["is_error"] and "OWN website" in result["content"]

@@ -8,7 +8,7 @@ import sqlite3
 from datetime import datetime, timezone
 from pathlib import Path
 
-from .models import EmailDraft, Lead, LeadStatus, Qualification
+from .models import EmailDraft, Lead, LeadStatus, Qualification, is_company_website
 
 SCHEMA = """
 CREATE TABLE IF NOT EXISTS leads (
@@ -174,6 +174,8 @@ class LeadStore:
         with Path(path).open(encoding="utf-8-sig") as f:
             for rec in csv.DictReader(f):
                 if not (rec.get("company_name") and rec.get("website") and rec.get("country")):
+                    continue
+                if not is_company_website(rec["website"]):  # must be the company's own site
                     continue
                 data = {k: v for k, v in rec.items() if v}
                 for k in _LIST_FIELDS:

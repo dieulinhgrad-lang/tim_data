@@ -9,12 +9,14 @@
     python -m forwarder_agent import-csv my_list.csv --campaign fair_2026
     python -m forwarder_agent set-status abc-logistics.de contacted
     python -m forwarder_agent stats
+    python -m forwarder_agent push-sheets --sheet-id <ID> [--country China]   # mỗi quốc gia 1 tab
 """
 
 from __future__ import annotations
 
 import argparse
 import logging
+import os
 import sys
 from pathlib import Path
 
@@ -49,6 +51,14 @@ def _export(store: LeadStore, out_dir: Path) -> None:
     print(f"Exported {n} leads -> {out_dir / 'leads.csv'}; {m} drafts -> {out_dir / 'drafts.md'}")
 
 
+def _push_sheets(store: LeadStore, sheet_id: str | None, credentials: str | None, country: str | None) -> None:
+    from .sheets import open_spreadsheet, push_to_sheets, store_records
+
+    result = push_to_sheets(open_spreadsheet(sheet_id, credentials), store_records(store), only_country=country)
+    for tab, (added, updated) in result.items():
+        print(f"Google Sheets tab '{tab}': +{added} new, {updated} updated")
+
+
 def main(argv: list[str] | None = None) -> None:
     p = argparse.ArgumentParser(prog="forwarder_agent", description="AI agent tìm forwarder nước ngoài")
     p.add_argument("--db", default="data/leads.db")
@@ -74,6 +84,12 @@ def main(argv: list[str] | None = None) -> None:
     add_campaign_args(sp)
     sp.add_argument("--all-campaigns", action="store_true")
     sp.add_argument("--min-score", type=int, default=55)
+    sp.add_argument("--sheet-id", help="also push results to this Google Sheet (or set GOOGLE_SHEETS_ID)")
+    sp.add_argument("--credentials", help="service-account JSON (or GOOGLE_APPLICATION_CREDENTIALS)")
+    sp = sub.add_parser("push-sheets", help="đẩy dữ liệu lên Google Sheets, mỗi quốc gia một tab")
+    sp.add_argument("--sheet-id")
+    sp.add_argument("--credentials")
+    sp.add_argument("--country", help="chỉ đẩy một quốc gia, ví dụ China")
     sub.add_parser("export", help="xuất CSV + Markdown email nháp")
     sp = sub.add_parser("import-csv", help="nhập danh sách có sẵn")
     sp.add_argument("path")
@@ -118,6 +134,10 @@ def main(argv: list[str] | None = None) -> None:
         print(f"Qualified {run_qualification(store, profile, client)} leads")
         print(f"Drafted {run_outreach(store, profile, client, min_score=args.min_score)} emails")
         _export(store, out_dir)
+        if args.sheet_id or os.environ.get("GOOGLE_SHEETS_ID"):
+            _push_sheets(store, args.sheet_id, args.credentials, None)
+    elif args.cmd == "push-sheets":
+        _push_sheets(store, args.sheet_id, args.credentials, args.country)
     elif args.cmd == "export":
         _export(store, out_dir)
     elif args.cmd == "import-csv":

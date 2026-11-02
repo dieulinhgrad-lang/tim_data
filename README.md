@@ -46,6 +46,39 @@ python -m forwarder_agent set-status alpha-logistics.de do_not_contact
 python -m forwarder_agent stats
 ```
 
+### Đẩy lên Google Sheets (mỗi quốc gia một tab)
+
+```bash
+pip install gspread
+export GOOGLE_APPLICATION_CREDENTIALS=/duong/dan/service-account.json
+export GOOGLE_SHEETS_ID=<id của spreadsheet>
+python -m forwarder_agent push-sheets                 # tất cả quốc gia
+python -m forwarder_agent push-sheets --country China # chỉ tab China
+python -m forwarder_agent run --campaign china --sheet-id <id>   # chạy xong tự đẩy lên
+```
+
+1. Tạo service account trên Google Cloud, bật **Google Sheets API**, tải file JSON key.
+2. Chia sẻ spreadsheet cho email của service account (quyền Editor).
+3. Mỗi quốc gia một tab (China, Germany, United States…). Agent cập nhật theo `Domain`:
+   công ty đã có thì sửa tại chỗ, công ty mới thì thêm dòng. **Các cột bên phải cột "Cập nhật"
+   (ví dụ "Ghi chú sales") không bao giờ bị ghi đè.**
+
+### Yêu cầu với lead
+
+- **Bắt buộc có website riêng của công ty.** Trang trên made-in-china, alibaba, JCtrans, WCA directory,
+  LinkedIn, trang vàng… chỉ dùng để phát hiện; agent phải tìm website chính thức, không có thì bỏ qua.
+- **Hiệp hội / network không bắt buộc**: có thì được cộng điểm, không có vẫn giữ (cột "Thành viên hiệp hội?").
+- Công ty đã có văn phòng/công ty con tại Việt Nam vẫn được ghi nhận nhưng bị trừ điểm và gắn red flag.
+
+### Chạy thử thị trường Trung Quốc
+
+`samples/china_trial_2026-11.csv` là kết quả chạy thử đầu tiên (25 công ty có website riêng):
+
+```bash
+python -m forwarder_agent import-csv samples/china_trial_2026-11.csv --campaign china
+python -m forwarder_agent -v qualify && python -m forwarder_agent push-sheets --country China
+```
+
 Kết quả:
 - `output/leads.csv` — mở bằng Excel: thông tin công ty, điểm, tier, email/điện thoại công khai, nguồn, email nháp.
 - `output/drafts.md` — toàn bộ email nháp + follow-up + ghi chú tiếng Việt, để duyệt trước khi gửi.

@@ -64,6 +64,23 @@ class Lead(BaseModel):
         return normalize_domain(self.website)
 
 
+# Marketplaces, directories and social sites: a lead must have its OWN company website, not a listing page.
+NON_COMPANY_DOMAINS = (
+    "made-in-china.com", "alibaba.com", "1688.com", "globalsources.com", "jctrans.com", "wcaworld.com",
+    "linkedin.com", "facebook.com", "instagram.com", "x.com", "twitter.com", "youtube.com", "wechat.com",
+    "yellowpages", "qy6.com.cn", "007swz.com", "dy1905.net", "freightnet.com", "azfreight.com",
+    "cofastnetwork.com", "kompass.com", "dnb.com", "zoominfo.com", "baidu.com", "zhihu.com", "sohu.com",
+    "exa.ai", "google.com", "wikipedia.org",
+)
+
+
+def is_company_website(url_or_domain: str) -> bool:
+    d = normalize_domain(url_or_domain)
+    if not d or "." not in d:
+        return False
+    return not any(d == bad or d.endswith("." + bad) or d.startswith(bad) for bad in NON_COMPANY_DOMAINS)
+
+
 def normalize_domain(url_or_domain: str) -> str:
     """'https://www.ABC-Logistics.de/en/' -> 'abc-logistics.de' (dedup key)."""
     s = url_or_domain.strip().lower()

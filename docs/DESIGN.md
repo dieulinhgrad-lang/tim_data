@@ -58,6 +58,7 @@ Tách bước giúp: chạy lại từng phần, kiểm soát chi phí, và con 
 | `forwarder_agent/discovery.py` | Agent loop. Tools: `web_search_20260209`, `web_fetch_20260209` (server-side) + `save_forwarder` (client, `strict: true`). Xử lý `pause_turn`, `refusal`, giới hạn số lượt, dừng khi đủ `target_count`. |
 | `forwarder_agent/qualify.py` | `messages.parse(output_format=Qualification)` với rubric chấm điểm. |
 | `forwarder_agent/outreach.py` | `messages.parse(output_format=EmailDraft)`; luật viết email (không bịa số liệu, có dòng opt-out). |
+| `forwarder_agent/sheets.py` | Đẩy lên Google Sheets: 1 tab/quốc gia, upsert theo domain, không ghi đè cột ghi chú của sales; ghi RAW để số `+86...` không bị hiểu thành công thức. |
 | `forwarder_agent/store.py` | SQLite, khóa chính = domain chuẩn hóa; merge dữ liệu khi gặp lại công ty; export CSV (UTF-8 BOM cho Excel) và Markdown. |
 | `forwarder_agent/models.py` | Pydantic: `Lead`, `ContactPerson`, `Qualification`, `EmailDraft`, `LeadStatus`. |
 | `forwarder_agent/llm.py` | Model, effort, adaptive thinking, server-side refusal fallback (`fallbacks: "default"`). |
@@ -95,6 +96,15 @@ Mặc định chỉ soạn email cho lead ≥ 55 điểm (A + B).
 - Email nháp chỉ được dùng dịch vụ/thế mạnh có trong `company_profile.toml`.
 - Không gửi tự động: con người duyệt `output/drafts.md`.
 
+## 6b. Ghi chú riêng thị trường Trung Quốc
+
+- Nhiều forwarder TQ chạy "越南专线" (tuyến chuyên Việt Nam) đường bộ qua Bằng Tường/Hữu Nghị, Đông Hưng và đường
+  biển tới Hải Phòng/Cát Lái — họ cần đối tác Việt Nam cho thông quan đầu nhập, giao hàng nội địa và hàng xuất ngược về TQ.
+- Một số đã có công ty con ở Việt Nam → vẫn liệt kê nhưng trừ 15 điểm và gắn red flag; góc tiếp cận chuyển sang
+  vùng/phương thức họ chưa phủ (VD: họ mạnh miền Bắc đường bộ → mình chào miền Nam/đường biển).
+- Agent tìm cả tiếng Anh và tiếng Trung (越南专线, 中越物流, 越南海运 货代).
+- Email công ty TQ thường là @163.com/@qq.com hoặc chỉ có WeChat/WhatsApp — cân nhắc liên hệ qua WeChat/WhatsApp.
+
 ## 7. Tuân thủ pháp lý & đạo đức (quan trọng khi chào hàng ra nước ngoài)
 
 - **Chỉ dữ liệu công khai, B2B**: email chung của công ty (info@, sales@) hoặc người được công bố là đầu mối
@@ -118,7 +128,7 @@ Mặc định chỉ soạn email cho lead ≥ 55 điểm (A + B).
 
 ## 9. Lộ trình mở rộng
 
-1. **Đẩy lên Google Sheets / CRM** (HubSpot, Salesforce) thay vì CSV — đồng bộ theo `domain`.
+1. ~~Đẩy lên Google Sheets~~ (đã làm: `forwarder_agent/sheets.py`, mỗi quốc gia một tab). Tiếp theo: CRM (HubSpot, Salesforce).
 2. **Gmail draft**: tạo bản nháp trong Gmail (không gửi) để sales bấm gửi.
 3. **Theo dõi phản hồi**: đọc inbox, tự đổi trạng thái `replied`, gợi ý trả lời + chuyển sang quy trình báo giá
    (kết nối quy trình theo dõi inquiry hiện có).

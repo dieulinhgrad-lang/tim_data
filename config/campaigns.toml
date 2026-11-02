@@ -2,6 +2,22 @@
 # target_count: số công ty MỚI muốn thu thập mỗi lần chạy.
 # preferred_sources: gợi ý nguồn công khai để agent bắt đầu (agent vẫn tự tìm thêm).
 
+[campaigns.china]
+country = "China"
+focus = """Chinese freight forwarders / NVOCCs (货代, 国际物流) shipping China <-> Vietnam by sea, cross-border \
+trucking (Pingxiang/Youyiguan, Dongxing, Hekou), rail or air, who could use a Vietnam partner for destination \
+customs clearance and door delivery, or for Vietnam-origin export cargo back to China. Search in English AND \
+Chinese (e.g. 越南专线, 中越物流, 越南海运 货代, 越南代理). Company must have its own official website; \
+association membership (WCA, JCtrans, CIFA, FIATA...) is optional. Note if they already own a Vietnam branch."""
+target_count = 20
+cities = ["Shenzhen", "Guangzhou", "Dongguan", "Shanghai", "Ningbo", "Xiamen", "Qingdao", "Nanning", "Pingxiang", "Kunming"]
+preferred_sources = [
+  "Official company websites with a 'Vietnam line / 越南专线' page",
+  "CIFA (China International Freight Forwarders Association) public member info",
+  "Public WCA / JCtrans directory pages (only to discover the company; record its own website)",
+  "Guangxi border logistics (Pingxiang, Dongxing) company sites",
+]
+
 [campaigns.us_transpacific]
 country = "United States"
 focus = "NVOCCs and forwarders importing sea/air cargo from Vietnam or Southeast Asia (furniture, apparel, footwear, electronics)"

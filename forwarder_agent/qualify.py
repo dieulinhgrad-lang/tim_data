@@ -25,6 +25,10 @@ seafood, coffee, agri, machinery)
 - 10: has a reachable public business email or named sales/agency contact
 - 10: size/profile suggests steady volume (multiple offices, own consolidations, years in business)
 
+Network membership is a plus, not a requirement: do not reject a company only because it has none.
+If the lead already has its own office/subsidiary in Vietnam, add it as a red flag (they may only need us for \
+overflow, specific regions or Vietnam-origin export) and deduct 15 points.
+
 Tiers: A >= 75, B 55-74, C 35-54, D < 35. Set is_forwarder=false and tier D for shippers, carriers, \
 software vendors, directories, or Vietnam-headquartered companies.
 Be skeptical: only credit facts present in the lead data. Write all fields in English."""
