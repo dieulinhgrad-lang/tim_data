@@ -179,7 +179,7 @@ def rows_for_connector(records: list[tuple[str, list]]) -> dict[str, list[list]]
     text that Sheets would parse as a formula or number (phones like +86-..., =, -, @) is prefixed with '."""
     out: dict[str, list[list]] = defaultdict(list)
     for country, row in records:
-        safe = [("'" + c) if isinstance(c, str) and c[:1] in "+=-@0123456789" and HEADER[i] in TEXT_COLUMNS else c
+        safe = [("'" + c) if isinstance(c, str) and c != "" and c[:1] in "+=-@(0123456789" and HEADER[i] in TEXT_COLUMNS else c
                 for i, c in enumerate(row)]
         out[tab_name(country)].append(safe)
     return dict(out)

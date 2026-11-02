@@ -349,6 +349,7 @@ def test_known_domains_from_sheet_and_connector_rows(store):
     tabs = rows_for_connector(store_records(store))
     assert tabs["China"][0][HEADER.index("Điện thoại")] == "'+86-123"
     assert tabs["China"][0][0] == "sino56.cn"
+    assert tabs["China"][0][HEADER.index("Người liên hệ")] == ""  # empty cells stay empty
 
 
 def test_run_daily_end_to_end(store, profile, tmp_path, monkeypatch):
