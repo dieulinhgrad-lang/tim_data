@@ -1,15 +1,15 @@
 ---
 name: daily-agent-hunt
-description: Mỗi ngày tìm 100 agent/forwarder nước ngoài MỚI (có website riêng, hiệp hội không bắt buộc), kiểm tra agent có tuyến nhập/xuất Việt Nam không, chấm điểm, lưu leads/<ngày>.csv và đẩy lên Google Sheet (mỗi quốc gia một tab). Dùng khi người dùng nói "tìm agent hằng ngày", "chạy daily", "tìm 100 agent", "/daily-agent-hunt", hoặc khi tác vụ định kỳ hằng ngày kích hoạt.
+description: Mỗi ngày tìm 50 agent/forwarder nước ngoài MỚI (có website riêng, hiệp hội không bắt buộc), kiểm tra agent có tuyến nhập/xuất Việt Nam không, chấm điểm, lưu leads/<ngày>.csv và đẩy lên Google Sheet (mỗi quốc gia một tab). Dùng khi người dùng nói "tìm agent hằng ngày", "chạy daily", "tìm 50 agent", "/daily-agent-hunt", hoặc khi tác vụ định kỳ hằng ngày kích hoạt.
 ---
 
-# Tìm 100 agent nước ngoài mỗi ngày
+# Tìm 50 agent nước ngoài mỗi ngày
 
-Mục tiêu: thêm **100 agent MỚI mỗi ngày**, không trùng với bất kỳ agent nào đã có trên Google Sheet.
+Mục tiêu: thêm **50 agent MỚI mỗi ngày** (số này đặt ở `total_per_day` trong `config/daily.toml`), không trùng với bất kỳ agent nào đã có trên Google Sheet.
 "Ngày" tính theo **giờ Việt Nam** (Asia/Ho_Chi_Minh).
 
 Cấu hình nằm trong repo:
-- `config/daily.toml`: `spreadsheet_id`, `total_per_day`, hạn mức theo thị trường `[quota]` (tổng = 100).
+- `config/daily.toml`: `spreadsheet_id`, `total_per_day`, hạn mức theo thị trường `[quota]` (tổng = `total_per_day`, hiện là 50).
 - `config/campaigns.toml`: quốc gia, trọng tâm và thành phố cho từng thị trường.
 - `config/company_profile.toml`: hồ sơ công ty mình (dùng khi chấm điểm và soạn email).
 
@@ -25,7 +25,7 @@ Cấu hình nằm trong repo:
    cảng/cửa khẩu, việc họ đã có văn phòng tại VN chưa, độ tin cậy và URL bằng chứng.
 5. Chỉ dùng dữ liệu công khai, mọi thông tin phải có URL nguồn. **Không đoán email hoặc tên người.**
    Không đăng nhập, không vượt paywall.
-6. **Không độn số.** Nếu không tìm đủ 100 agent đã xác minh, ghi rõ số còn thiếu trong báo cáo.
+6. **Không độn số.** Nếu không tìm đủ số agent mục tiêu đã xác minh, ghi rõ số còn thiếu trong báo cáo.
 
 ## Bước 0: Chuẩn bị
 
@@ -127,7 +127,7 @@ python -m forwarder_agent --db data/leads.db import-lanes leads/$D-lanes.json
 python -m forwarder_agent --db data/leads.db import-quals leads/$D-quals.json
 ```
 ```bash
-python -m forwarder_agent --db data/leads.db daily-report --target 100
+python -m forwarder_agent --db data/leads.db daily-report
 ```
 ```bash
 python -m forwarder_agent --db data/leads.db sheet-rows --since $D --out leads/$D-sheet-rows.json
@@ -154,7 +154,7 @@ git add leads/ && git commit -m "Daily agent hunt $D: <N> new agents" && git pus
 
 ### B7. Báo cáo (trả lời người dùng bằng tiếng Việt)
 
-- Số agent mới / mục tiêu 100, chia theo thị trường. Nếu thiếu, nói rõ thiếu bao nhiêu và vì sao.
+- Số agent mới / mục tiêu (50), chia theo thị trường. Nếu thiếu, nói rõ thiếu bao nhiêu và vì sao.
 - Phân bố hạng A/B/C/D và chiều tuyến VN (nhập / xuất / cả hai / chưa rõ).
 - Top 10 agent theo điểm (tên, quốc gia, điểm, website).
 - Link Google Sheet và đường dẫn `leads/<ngày>.csv`.

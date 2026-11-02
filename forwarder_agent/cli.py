@@ -12,7 +12,7 @@
     python -m forwarder_agent discover --campaign china --provider both      # Claude + Google Gemini
     python -m forwarder_agent check-lanes --country China                     # có tuyến nhập/xuất VN không?
     python -m forwarder_agent qualify --requalify                             # chấm lại sau khi kiểm tra tuyến
-    python -m forwarder_agent daily --total 100 --provider both              # 100 agent mới mỗi ngày
+    python -m forwarder_agent daily --provider both                          # 50 agent mới mỗi ngày (config/daily.toml)
     python -m forwarder_agent import-lanes lanes.json                         # nạp kết quả kiểm tra tuyến VN
     python -m forwarder_agent sheet-rows --since 2026-11-03 --out rows.json   # dòng để ghi qua connector
     python -m forwarder_agent push-sheets --sheet-id <ID> [--country China]   # mỗi quốc gia 1 tab
@@ -113,7 +113,7 @@ def main(argv: list[str] | None = None) -> None:
     sp.add_argument("domain")
     sp.add_argument("status", choices=[s.value for s in LeadStatus])
     sub.add_parser("stats")
-    sp = sub.add_parser("daily", help="mỗi ngày tìm N agent mới (mặc định 100) và đẩy lên Google Sheets")
+    sp = sub.add_parser("daily", help="mỗi ngày tìm N agent mới (mặc định theo config/daily.toml: 50) và đẩy lên Google Sheets")
     sp.add_argument("--total", type=int, help="ghi đè total_per_day trong config/daily.toml")
     sp.add_argument("--provider", choices=["claude", "gemini", "both"], default="both")
     sp.add_argument("--daily-config", default=None)
@@ -125,7 +125,7 @@ def main(argv: list[str] | None = None) -> None:
     sp.add_argument("path")
     sp = sub.add_parser("daily-report", help="ghi leads/<ngày>.csv và báo cáo cho các lead tạo hôm nay")
     sp.add_argument("--day", help="YYYY-MM-DD (mặc định: hôm nay theo giờ Việt Nam)")
-    sp.add_argument("--target", type=int, default=100)
+    sp.add_argument("--target", type=int, help="mặc định: total_per_day trong config/daily.toml")
     sp.add_argument("--out-leads", default="leads")
     sp = sub.add_parser("sheet-rows", help="xuất JSON {tab: rows} để ghi lên Sheets qua connector")
     sp.add_argument("--since", help="chỉ lead tạo từ ngày này (YYYY-MM-DD)")
@@ -242,13 +242,13 @@ def main(argv: list[str] | None = None) -> None:
         from collections import Counter
         from datetime import date as _date
 
-        from .daily import local_today, report, todays_leads, write_daily_csv
+        from .daily import load_daily, local_today, report, todays_leads, write_daily_csv
 
         day = _date.fromisoformat(args.day) if args.day else local_today()
         out = Path(args.out_leads)
         csv_path = write_daily_csv(store, day, out)
         per_market = Counter(r["country"] for r in todays_leads(store, day))
-        text = report(store, day, args.target, dict(per_market))
+        text = report(store, day, args.target or load_daily().total_per_day, dict(per_market))
         (out / f"{day.isoformat()}-report.md").write_text(text, encoding="utf-8")
         print(text)
         print(f"CSV: {csv_path}")

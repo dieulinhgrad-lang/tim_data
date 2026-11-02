@@ -3,17 +3,17 @@
 # thị trường khác (theo thứ tự trong [quota]) ở vòng tìm thứ hai.
 
 spreadsheet_id = "106kjhKqpz_INZOVpQSt1zwDnRD8gABq0sSPAeynJIy4"
-total_per_day = 100
+total_per_day = 50
 lane_providers = ["gemini", "claude"]
 min_score_for_draft = 55
 
 [quota]
-china = 30
-us_transpacific = 12
-japan = 10
-korea = 10
-germany_sea_air = 8
-australia = 8
-india = 8
-uk = 7
-netherlands_belgium = 7
+china = 15
+us_transpacific = 6
+japan = 5
+korea = 5
+germany_sea_air = 4
+australia = 4
+india = 4
+uk = 4
+netherlands_belgium = 3

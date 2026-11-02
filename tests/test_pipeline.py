@@ -319,9 +319,9 @@ from forwarder_agent.daily import DailyConfig, local_day, plan_quotas, redistrib
 from forwarder_agent.sheets import known_domains_from_sheet, rows_for_connector
 
 
-def test_daily_config_quota_sums_to_100():
+def test_daily_config_quota_sums_to_target():
     cfg = daily_mod.load_daily()
-    assert cfg.total_per_day == 100 and sum(cfg.quota.values()) == 100
+    assert cfg.total_per_day == 50 and sum(cfg.quota.values()) == cfg.total_per_day
     assert set(cfg.quota) <= set(load_campaigns())
 
 

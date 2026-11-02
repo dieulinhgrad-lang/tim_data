@@ -1,4 +1,4 @@
-"""Daily run: find ~100 NEW overseas agents per day across markets, verify Vietnam lanes, score, draft, publish.
+"""Daily run: find N NEW overseas agents per day (total_per_day, default 50) across markets, verify Vietnam lanes, score, draft, publish.
 
 Steps
   1. Load quotas from config/daily.toml; read every domain already in the Google Sheet (long-term memory).
@@ -46,7 +46,7 @@ class DailyConfig:
 def load_daily(path: Path = DEFAULT_DAILY) -> DailyConfig:
     d = tomllib.loads(path.read_text(encoding="utf-8"))
     return DailyConfig(
-        spreadsheet_id=d.get("spreadsheet_id"), total_per_day=int(d.get("total_per_day", 100)),
+        spreadsheet_id=d.get("spreadsheet_id"), total_per_day=int(d.get("total_per_day", 50)),
         quota={k: int(v) for k, v in d.get("quota", {}).items()},
         lane_providers=list(d.get("lane_providers", ["gemini", "claude"])),
         min_score_for_draft=int(d.get("min_score_for_draft", 55)),
