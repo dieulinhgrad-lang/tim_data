@@ -1,0 +1,19 @@
+# Cấu hình chạy hằng ngày: tổng số agent MỚI mỗi ngày và hạn mức theo thị trường (key trong campaigns.toml).
+# Tổng các hạn mức nên bằng total_per_day. Thị trường không đạt hạn mức thì phần thiếu được bù cho
+# thị trường khác (theo thứ tự trong [quota]) ở vòng tìm thứ hai.
+
+spreadsheet_id = "106kjhKqpz_INZOVpQSt1zwDnRD8gABq0sSPAeynJIy4"
+total_per_day = 100
+lane_providers = ["gemini", "claude"]
+min_score_for_draft = 55
+
+[quota]
+china = 30
+us_transpacific = 12
+japan = 10
+korea = 10
+germany_sea_air = 8
+australia = 8
+india = 8
+uk = 7
+netherlands_belgium = 7

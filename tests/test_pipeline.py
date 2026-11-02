@@ -307,3 +307,113 @@ def test_sheet_with_old_layout_is_not_overwritten(store):
     ss.tabs.append(FakeWS("China", [["Domain", "Công ty", "old layout"]]))
     with pytest.raises(ValueError, match="older column layout"):
         push_to_sheets(ss, store_records(store))
+
+
+# ---------------- Daily run ----------------
+import json as _json
+from datetime import date, datetime, timezone
+
+from forwarder_agent import daily as daily_mod
+from forwarder_agent.cli import main as cli_main
+from forwarder_agent.daily import DailyConfig, local_day, plan_quotas, redistribute, run_daily
+from forwarder_agent.sheets import known_domains_from_sheet, rows_for_connector
+
+
+def test_daily_config_quota_sums_to_100():
+    cfg = daily_mod.load_daily()
+    assert cfg.total_per_day == 100 and sum(cfg.quota.values()) == 100
+    assert set(cfg.quota) <= set(load_campaigns())
+
+
+def test_plan_quotas_scales_and_redistributes():
+    cfg = DailyConfig(spreadsheet_id=None, total_per_day=100, quota={"a": 3, "b": 1, "zzz": 5})
+    plan = plan_quotas(cfg, ["a", "b"], total=10)
+    assert plan == {"a": 8, "b": 2} or sum(plan.values()) == 10
+    assert sum(plan_quotas(cfg, ["a", "b"], total=7).values()) == 7
+    # 'a' filled its quota, 'b' did not -> the shortfall goes to 'a'
+    assert redistribute(3, {"a": 8, "b": 0}, {"a": 8, "b": 2}) == {"a": 3}
+    assert redistribute(3, {"a": 1}, {"a": 8}) == {}
+
+
+def test_local_day_uses_vietnam_time():
+    # 2026-11-02 20:30 UTC is already 2026-11-03 in Vietnam
+    assert local_day(datetime(2026, 11, 2, 20, 30, tzinfo=timezone.utc).isoformat()) == date(2026, 11, 3)
+
+
+def test_known_domains_from_sheet_and_connector_rows(store):
+    ss = FakeSpreadsheet()
+    ss.tabs.append(FakeWS("China", [HEADER, ["a56.cn"], ["B56.cn "]]))
+    ss.tabs.append(FakeWS("Notes", [["something else"], ["x.com"]]))
+    assert known_domains_from_sheet(ss) == {"a56.cn", "b56.cn"}
+    store.upsert_lead(Lead.model_validate(lead_input("Sino", "sino56.cn", "China", phones=["+86-123"])))
+    tabs = rows_for_connector(store_records(store))
+    assert tabs["China"][0][HEADER.index("Điện thoại")] == "'+86-123"
+    assert tabs["China"][0][0] == "sino56.cn"
+
+
+def test_run_daily_end_to_end(store, profile, tmp_path, monkeypatch):
+    import forwarder_agent.discovery as disc
+    import forwarder_agent.outreach as outr
+    import forwarder_agent.qualify as qual
+    import forwarder_agent.vietnam_lanes as vl
+
+    calls = []
+
+    def fake_discovery(c, profile, store, client, extra_known=frozenset()):
+        calls.append((c.key, c.target_count, set(extra_known)))
+        n = c.target_count if c.key == "china" else 0  # only China has supply
+        out = []
+        for i in range(n):
+            d = f"{c.key}{len(calls)}-{i}.cn"
+            if d not in extra_known:
+                store.upsert_lead(Lead.model_validate(lead_input(f"Co {d}", d, c.country)))
+                out.append(d)
+        return out
+
+    monkeypatch.setattr(disc, "run_discovery", fake_discovery)
+    monkeypatch.setattr(vl, "run_lane_checks", lambda *a, **k: 0)
+    monkeypatch.setattr(qual, "run_qualification", lambda *a, **k: 0)
+    monkeypatch.setattr(outr, "run_outreach", lambda *a, **k: 0)
+
+    ss = FakeSpreadsheet()
+    ss.tabs.append(FakeWS("China", [HEADER, ["old56.cn"]]))
+    cfg = DailyConfig(spreadsheet_id="x", total_per_day=10, quota={"china": 6, "japan": 4})
+    today = daily_mod.local_today()
+    result = run_daily(store, profile, cfg, client=None, provider="claude", spreadsheet=ss, day=today,
+                       out_dir=tmp_path)
+    assert result["produced"] == {"china": 10, "japan": 0}  # Japan's 4 moved to China in round 2
+    assert "old56.cn" in calls[0][2]  # Sheet domains are passed as already-known
+    assert (tmp_path / f"{today.isoformat()}.csv").exists()
+    assert "đạt: **10**" in result["report"]
+    assert result["pushed"]["China"][0] == 10
+
+
+def test_cli_import_lanes_and_sheet_rows(tmp_path):
+    db = tmp_path / "t.db"
+    csvp = tmp_path / "in.csv"
+    csvp.write_text("company_name,website,country\nSino,sino56.cn,China\n", encoding="utf-8")
+    cli_main(["--db", str(db), "import-csv", str(csvp)])
+    lanes = tmp_path / "lanes.json"
+    lanes.write_text(_json.dumps({"https://www.sino56.cn": LANE.model_dump(mode="json")}), encoding="utf-8")
+    cli_main(["--db", str(db), "import-lanes", str(lanes)])
+    out = tmp_path / "rows.json"
+    cli_main(["--db", str(db), "sheet-rows", "--out", str(out)])
+    payload = _json.loads(out.read_text(encoding="utf-8"))
+    row = payload["tabs"]["China"][0]
+    assert row[payload["header"].index("Tuyến VN: chiều")] == "Cả nhập & xuất"
+
+
+def test_cli_import_quals_and_daily_report(tmp_path):
+    db = tmp_path / "t.db"
+    csvp = tmp_path / "in.csv"
+    csvp.write_text("company_name,website,country\nSino,sino56.cn,China\n", encoding="utf-8")
+    cli_main(["--db", str(db), "import-csv", str(csvp)])
+    q = Qualification(score=80, tier=Tier.A, is_forwarder=True, vietnam_fit="x", recommended_services=[],
+                      outreach_angle="y", red_flags=[], reasons=[])
+    qp = tmp_path / "q.json"
+    qp.write_text(_json.dumps({"sino56.cn": q.model_dump(mode="json")}), encoding="utf-8")
+    cli_main(["--db", str(db), "import-quals", str(qp)])
+    cli_main(["--db", str(db), "daily-report", "--out-leads", str(tmp_path / "leads"), "--target", "1"])
+    day = daily_mod.local_today().isoformat()
+    assert "Sino" in (tmp_path / "leads" / f"{day}.csv").read_text(encoding="utf-8-sig")
+    assert "đạt: **1**" in (tmp_path / "leads" / f"{day}-report.md").read_text(encoding="utf-8")

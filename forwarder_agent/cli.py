@@ -12,6 +12,9 @@
     python -m forwarder_agent discover --campaign china --provider both      # Claude + Google Gemini
     python -m forwarder_agent check-lanes --country China                     # có tuyến nhập/xuất VN không?
     python -m forwarder_agent qualify --requalify                             # chấm lại sau khi kiểm tra tuyến
+    python -m forwarder_agent daily --total 100 --provider both              # 100 agent mới mỗi ngày
+    python -m forwarder_agent import-lanes lanes.json                         # nạp kết quả kiểm tra tuyến VN
+    python -m forwarder_agent sheet-rows --since 2026-11-03 --out rows.json   # dòng để ghi qua connector
     python -m forwarder_agent push-sheets --sheet-id <ID> [--country China]   # mỗi quốc gia 1 tab
 """
 
@@ -110,6 +113,23 @@ def main(argv: list[str] | None = None) -> None:
     sp.add_argument("domain")
     sp.add_argument("status", choices=[s.value for s in LeadStatus])
     sub.add_parser("stats")
+    sp = sub.add_parser("daily", help="mỗi ngày tìm N agent mới (mặc định 100) và đẩy lên Google Sheets")
+    sp.add_argument("--total", type=int, help="ghi đè total_per_day trong config/daily.toml")
+    sp.add_argument("--provider", choices=["claude", "gemini", "both"], default="both")
+    sp.add_argument("--daily-config", default=None)
+    sp.add_argument("--credentials")
+    sp.add_argument("--no-sheets", action="store_true")
+    sp = sub.add_parser("import-lanes", help="nạp kết quả kiểm tra tuyến VN từ JSON {domain: VietnamLaneCheck}")
+    sp.add_argument("path")
+    sp = sub.add_parser("import-quals", help="nạp điểm chấm từ JSON {domain: Qualification}")
+    sp.add_argument("path")
+    sp = sub.add_parser("daily-report", help="ghi leads/<ngày>.csv và báo cáo cho các lead tạo hôm nay")
+    sp.add_argument("--day", help="YYYY-MM-DD (mặc định: hôm nay theo giờ Việt Nam)")
+    sp.add_argument("--target", type=int, default=100)
+    sp.add_argument("--out-leads", default="leads")
+    sp = sub.add_parser("sheet-rows", help="xuất JSON {tab: rows} để ghi lên Sheets qua connector")
+    sp.add_argument("--since", help="chỉ lead tạo từ ngày này (YYYY-MM-DD)")
+    sp.add_argument("--out", default="-")
 
     args = p.parse_args(argv)
     logging.basicConfig(
@@ -126,7 +146,7 @@ def main(argv: list[str] | None = None) -> None:
             found += run_gemini_discovery(c, profile, store, client)
         return sorted(set(found))
 
-    if args.cmd in {"discover", "qualify", "draft", "run", "check-lanes"}:
+    if args.cmd in {"discover", "qualify", "draft", "run", "check-lanes", "daily"}:
         # import lazily so export/stats work without the anthropic package configured
         from .discovery import run_discovery, run_gemini_discovery
         from .vietnam_lanes import run_lane_checks
@@ -173,6 +193,86 @@ def main(argv: list[str] | None = None) -> None:
     elif args.cmd == "set-status":
         ok = store.set_status(normalize_domain(args.domain), LeadStatus(args.status))
         print("Updated" if ok else f"Domain not found: {args.domain}")
+    elif args.cmd == "daily":
+        from .daily import DEFAULT_DAILY, load_daily, run_daily
+
+        cfg = load_daily(Path(args.daily_config) if args.daily_config else DEFAULT_DAILY)
+        spreadsheet = None
+        if not args.no_sheets:
+            from .sheets import open_spreadsheet
+
+            spreadsheet = open_spreadsheet(os.environ.get("GOOGLE_SHEETS_ID") or cfg.spreadsheet_id, args.credentials)
+        result = run_daily(store, profile, cfg, client, provider=args.provider, total=args.total,
+                           spreadsheet=spreadsheet)
+        print(result["report"])
+        print(f"CSV: {result['csv']}")
+        for tab, (added, updated) in result["pushed"].items():
+            print(f"Google Sheets tab '{tab}': +{added} new, {updated} updated")
+    elif args.cmd == "import-lanes":
+        import json
+
+        from .models import VietnamLaneCheck
+
+        data = json.loads(Path(args.path).read_text(encoding="utf-8"))
+        ok = 0
+        for domain, lane in data.items():
+            d = normalize_domain(domain)
+            if store.get(d):
+                store.save_lane_check(d, VietnamLaneCheck.model_validate(lane))
+                ok += 1
+            else:
+                print(f"skip {domain}: not in database (import-csv first)")
+        print(f"Imported {ok} lane checks")
+    elif args.cmd == "import-quals":
+        import json
+
+        from .models import Qualification
+
+        data = json.loads(Path(args.path).read_text(encoding="utf-8"))
+        ok = 0
+        for domain, q in data.items():
+            d = normalize_domain(domain)
+            if store.get(d):
+                store.save_qualification(d, Qualification.model_validate(q))
+                ok += 1
+            else:
+                print(f"skip {domain}: not in database (import-csv first)")
+        print(f"Imported {ok} qualifications")
+    elif args.cmd == "daily-report":
+        from collections import Counter
+        from datetime import date as _date
+
+        from .daily import local_today, report, todays_leads, write_daily_csv
+
+        day = _date.fromisoformat(args.day) if args.day else local_today()
+        out = Path(args.out_leads)
+        csv_path = write_daily_csv(store, day, out)
+        per_market = Counter(r["country"] for r in todays_leads(store, day))
+        text = report(store, day, args.target, dict(per_market))
+        (out / f"{day.isoformat()}-report.md").write_text(text, encoding="utf-8")
+        print(text)
+        print(f"CSV: {csv_path}")
+    elif args.cmd == "sheet-rows":
+        import json
+
+        from datetime import date as _date
+
+        from .daily import local_day
+        from .models import Lead as _Lead
+        from .sheets import HEADER, rows_for_connector, store_records
+
+        keep = None
+        if args.since:
+            since = _date.fromisoformat(args.since)
+            keep = {r["domain"] for r in store.all()
+                    if local_day(_Lead.model_validate_json(r["lead_json"]).created_at) >= since}
+        recs = [(c, row) for c, row in store_records(store) if keep is None or row[0] in keep]
+        payload = json.dumps({"header": HEADER, "tabs": rows_for_connector(recs)}, ensure_ascii=False)
+        if args.out == "-":
+            print(payload)
+        else:
+            Path(args.out).write_text(payload, encoding="utf-8")
+            print(f"Wrote {len(recs)} rows -> {args.out}")
     elif args.cmd == "stats":
         for status, n in sorted(store.stats().items()):
             print(f"{status:15} {n}")

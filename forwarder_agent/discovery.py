@@ -127,7 +127,8 @@ def build_user_prompt(campaign: Campaign, known: list[str]) -> str:
     return "\n".join(lines)
 
 
-def handle_save_forwarder(raw: dict, campaign: Campaign, store: LeadStore, seen: set[str]) -> tuple[str, bool]:
+def handle_save_forwarder(raw: dict, campaign: Campaign, store: LeadStore, seen: set[str],
+                          extra_known: set[str] | frozenset = frozenset()) -> tuple[str, bool]:
     """Validate and store one save_forwarder call. Returns (tool_result_text, is_error)."""
     try:
         lead = Lead.model_validate({**raw, "campaign": campaign.key})
@@ -142,6 +143,8 @@ def handle_save_forwarder(raw: dict, campaign: Campaign, store: LeadStore, seen:
         return f"Skipped {domain}: we only want companies outside Vietnam.", False
     if domain in seen:
         return f"{domain} already saved in this run - find a different company.", False
+    if domain in extra_known:
+        return f"{domain} is already in our Google Sheet - find a different company.", False
 
     is_new = store.upsert_lead(lead)
     seen.add(domain)
@@ -157,10 +160,11 @@ def run_discovery(
     client=None,
     max_turns: int = 40,
     effort: str = "high",
+    extra_known: set[str] | frozenset = frozenset(),
 ) -> list[str]:
     """Run the discovery agent for one campaign. Returns the list of domains saved in this run."""
     client = client or make_client()
-    known = store.known_domains(campaign.country)
+    known = sorted(set(store.known_domains(campaign.country)) | set(extra_known))
     seen: set[str] = set()
     messages: list = [{"role": "user", "content": build_user_prompt(campaign, known)}]
     tools = [WEB_SEARCH_TOOL, WEB_FETCH_TOOL, SAVE_FORWARDER_TOOL]
@@ -190,7 +194,7 @@ def run_discovery(
         for block in tool_uses:
             if block.name == "save_forwarder":
                 raw = block.input if isinstance(block.input, dict) else json.loads(block.input)
-                text, is_error = handle_save_forwarder(raw, campaign, store, seen)
+                text, is_error = handle_save_forwarder(raw, campaign, store, seen, extra_known)
                 log.info("save_forwarder -> %s", text)
             else:
                 text, is_error = f"Unknown tool {block.name}", True
@@ -235,13 +239,13 @@ directories, marketplaces, carriers or Vietnam-headquartered companies."""
 
 
 def run_gemini_discovery(campaign: Campaign, profile: CompanyProfile, store: LeadStore, claude_client=None,
-                         gemini_client=None) -> list[str]:
+                         gemini_client=None, extra_known: set[str] | frozenset = frozenset()) -> list[str]:
     """Google Gemini finds candidates with Google Search; Claude structures them; same filters as save_forwarder."""
     from .google_ai import gemini_research
     from .models import DiscoveredList
 
     claude_client = claude_client or make_client()
-    known = store.known_domains(campaign.country)
+    known = sorted(set(store.known_domains(campaign.country)) | set(extra_known))
     research = gemini_research(GEMINI_DISCOVERY_PROMPT.format(
         n=campaign.target_count, country=campaign.country, focus=campaign.focus,
         cities=f"Priority cities: {', '.join(campaign.cities)}" if campaign.cities else "",
@@ -266,6 +270,6 @@ def run_gemini_discovery(campaign: Campaign, profile: CompanyProfile, store: Lea
             "phones": c.phones, "source_urls": c.source_urls or [s["uri"] for s in research.sources[:3]],
             "notes": "found via Google Gemini + Google Search",
         }
-        text, _ = handle_save_forwarder(raw, campaign, store, seen)
+        text, _ = handle_save_forwarder(raw, campaign, store, seen, extra_known)
         log.info("gemini candidate -> %s", text)
     return sorted(seen)

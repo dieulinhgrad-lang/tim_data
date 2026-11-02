@@ -161,3 +161,28 @@ def open_spreadsheet(spreadsheet_id: str | None = None, credentials_path: str | 
     if not credentials_path:
         raise SystemExit("Missing credentials: pass --credentials or set GOOGLE_APPLICATION_CREDENTIALS")
     return gspread.service_account(filename=credentials_path).open_by_key(spreadsheet_id)
+
+
+def known_domains_from_sheet(spreadsheet: Spreadsheet) -> set[str]:
+    """All domains already present in any tab (column A). The Sheet is the long-term memory across daily runs,
+    because the local SQLite file lives in an ephemeral container."""
+    domains: set[str] = set()
+    for ws in spreadsheet.worksheets():
+        values = ws.col_values(1)
+        if values and values[0] == HEADER[0]:
+            domains.update(v.strip().lower() for v in values[1:] if v and v.strip())
+    return domains
+
+
+def rows_for_connector(records: list[tuple[str, list]]) -> dict[str, list[list]]:
+    """Rows grouped by tab, ready for a Google Sheets connector that writes USER_ENTERED values:
+    text that Sheets would parse as a formula or number (phones like +86-..., =, -, @) is prefixed with '."""
+    out: dict[str, list[list]] = defaultdict(list)
+    for country, row in records:
+        safe = [("'" + c) if isinstance(c, str) and c[:1] in "+=-@0123456789" and HEADER[i] in TEXT_COLUMNS else c
+                for i, c in enumerate(row)]
+        out[tab_name(country)].append(safe)
+    return dict(out)
+
+
+TEXT_COLUMNS = {"Điện thoại", "Email công khai", "Người liên hệ", "Tuyến VN: tóm tắt", "Bằng chứng tuyến Việt Nam"}

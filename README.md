@@ -46,6 +46,23 @@ python -m forwarder_agent set-status alpha-logistics.de do_not_contact
 python -m forwarder_agent stats
 ```
 
+### Mỗi ngày tìm 100 agent mới
+
+- **Skill Claude Code**: `.claude/skills/daily-agent-hunt/SKILL.md`, gọi bằng `/daily-agent-hunt`.
+- **Lệnh agent**:
+
+  ```bash
+  python -m forwarder_agent -v daily --provider both
+  ```
+
+- Hạn mức theo thị trường (tổng 100) và ID Google Sheet nằm trong `config/daily.toml`.
+- Loại trùng dựa vào **mọi domain đã có trên Google Sheet** và các file `leads/*.csv`, vì database SQLite chỉ tồn tại
+  tạm thời trong máy chạy.
+- Thị trường nào không đủ nguồn thì phần thiếu được bù cho thị trường còn nguồn. Không độn số: nếu thiếu, báo cáo ghi rõ.
+- Kết quả mỗi ngày: `leads/<ngày>.csv`, `leads/<ngày>-report.md`, các tab quốc gia trên Sheet được cập nhật.
+- Không có API key: skill hướng dẫn Claude Code tự tìm bằng công cụ của mình, rồi dùng các lệnh `import-csv`,
+  `import-lanes`, `import-quals`, `daily-report`, `sheet-rows`, và ghi lên Sheet qua connector.
+
 ### Google AI + Claude: kiểm tra agent có tuyến nhập/xuất Việt Nam
 
 ```bash
