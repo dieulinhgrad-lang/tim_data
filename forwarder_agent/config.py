@@ -27,6 +27,8 @@ class CompanyProfile:
     founded: int | None = None
     iata_code: str = ""
     fmc_license: str = ""
+    sender_short: str = ""
+    signature: str = ""
 
     def as_prompt(self) -> str:
         bullet = lambda items: "\n".join(f"- {i}" for i in items) or "- (none)"

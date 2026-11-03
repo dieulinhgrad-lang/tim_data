@@ -197,19 +197,20 @@ def compose(r: dict, country: str, profile: CompanyProfile, contact: dict | None
              "IATA cargo agent" if profile.iata_code else "", "FMC-licensed" if profile.fmc_license else ""]
     creds = "; ".join(c for c in creds if c)
     greet_name = contact.get("name", "").split()[0] if contact.get("name") else ""
+    short = profile.sender_short or profile.sender_name
+    signature = (profile.signature.strip().splitlines() if profile.signature.strip() else [
+        "Best regards,", profile.sender_name, f"{profile.sender_title} | {profile.name}",
+        f"{profile.sender_email} | {profile.phone}" if profile.phone else profile.sender_email, profile.website])
     greeting = f"Dear {greet_name}," if greet_name else f"Dear {company} team,"
     strengths = (f"About us: {creds}. " if creds else "") + (profile.strengths[1] + "." if len(profile.strengths) > 1 else "")
     body = "\n".join([
         greeting, "",
         f"{opening}", "",
-        f"I'm {profile.sender_name}, {profile.sender_title} at {profile.name}, a Vietnamese forwarder headquartered "
+        f"I'm {short} from the {profile.sender_title} team at {profile.name}, a Vietnamese forwarder headquartered "
         f"in Hai Phong. We would like to support you as your agent in Vietnam:",
         *[f"- {p}" for p in pts],
         "", strengths, "", ask, "",
-        "Best regards,",
-        profile.sender_name, f"{profile.sender_title} | {profile.name}",
-        f"{profile.sender_email} | {profile.phone}" if profile.phone else profile.sender_email,
-        profile.website, "",
+        *signature, "",
         OPT_OUT,
     ])
     followup = "\n".join([
@@ -217,7 +218,7 @@ def compose(r: dict, country: str, profile: CompanyProfile, contact: dict | None
         f"Just following up on my note about Vietnam agency support for {company}. "
         + ("If you have any cargo moving to or from Vietnam in the next few weeks, send us the details "
            "and we'll come back with a quote promptly. Our team is available 24/7."),
-        "", "Best regards,", profile.sender_name, "", OPT_OUT,
+        "", "Best regards,", short, f"{profile.sender_title} | {profile.name}", profile.sender_email, "", OPT_OUT,
     ])
 
     to, cc = _pick_recipient(r["Email công khai"], direction, contact.get("email", ""))

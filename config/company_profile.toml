@@ -1,13 +1,14 @@
-# Hồ sơ công ty - nguồn: GLOTRANS_PROFILE.pdf, Glotransbroucher.pdf, Air_freight.pdf.
+# Hồ sơ công ty - nguồn: GLOTRANS_PROFILE.pdf, Glotransbroucher.pdf, Air_freight.pdf; chữ ký từ email của Elsa (Mẫu đuôi email.msg).
 # Agent chỉ được dùng dịch vụ/thế mạnh liệt kê ở đây, không tự bịa thêm.
 
 [company]
 name = "Glotrans (Global Logistics and Transport Co., Ltd)"
 website = "https://www.glotransvn.com.vn"
-sender_name = "Ms. Tracy"
-sender_title = "Director of Oversea & Business Development"
-sender_email = "oversea01.hq@glotransvn.com.vn"
-phone = "+84 904 027 587 (Tel/WhatsApp)"
+sender_name = "Elsa (Ms.) Vui Dieu Linh"
+sender_short = "Elsa"
+sender_title = "Oversea & Business Development"
+sender_email = "oversea03.hq@glotransvn.com.vn"
+phone = "+84 236 3572 050 ext. 964 | WhatsApp: +81 70 1056 9172 | WeChat: +84 987 696 251"
 offices = ["Hai Phong (HQ)", "Hanoi", "Bac Ninh", "Da Nang", "Quy Nhon", "Nha Trang", "Ho Chi Minh City", "Vung Tau", "Can Tho"]
 founded = 2009
 services = [
@@ -26,7 +27,20 @@ strengths = [
   "24/7 customer service with real-time shipment updates",
   "Competitive rates and fast turnaround for DDU/DDP and door-to-door services",
 ]
-networks = ["WCA (ID 59535)", "JCtrans (ID 109626)", "PPL One Family (ID 23568)", "WWPC", "FIATA", "IATA"]
+networks = ["WCA (ID 105079)", "JCtrans (ID 109626)", "PPL One Family (ID 23571)", "WWPC", "FIATA", "VLA", "IATA"]
 iata_code = "37303520004"
 fmc_license = "031924"
+signature = """
+Thanks and Best regards,
+
+Elsa (Ms.) - Vui Dieu Linh
+Oversea & Biz Development Dept.
+GLOBAL LOGISTICS AND TRANSPORT LIMITED COMPANY (GLOTRANS) - DANANG BRANCH
+630 - 632 Ngo Quyen Street, An Hai Ward, Da Nang City, Vietnam
+Tel: +84 236 3572 050 - Ext. 964
+WhatsApp: +81 70 1056 9172 | WeChat: +84 987 696 251
+Email: oversea03.hq@glotransvn.com.vn | cus@glotransvn.com.vn
+Web: www.glotransvn.com.vn | Facebook: www.facebook.com/glotransvietnam
+Member of: WCA (ID 105079), FIATA, IATA (ID 37303520004), JCtrans (ID 109626), WWPC, PPL Networks (ID 23571), VLA, FMC (ID 031924)
+"""
 extra_context = "Agent network in more than 150 countries and territories."
