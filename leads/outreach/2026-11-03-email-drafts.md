@@ -11,20 +11,22 @@
 ```text
 Dear AGF (AG Freights) team,
 
-We understand AGF (AG Freights) handles cargo shipped from Vietnam via Cai Mep, Cat Lai, Hai Phong to the US.
+As fellow WCA members, I wanted to reach out directly. We understand AGF (AG Freights) handles cargo shipped from Vietnam via Cai Mep, Cat Lai, Hai Phong to the US.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O / phytosanitary documents
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to the US, plus air freight via SGN and HAN
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O / phytosanitary documents
+- FMC-licensed NVOCC (ID 031924): we can issue our own house B/L for cargo to the USA
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to the US, plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have an upcoming Vietnam pick-up we could quote on?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -38,21 +40,22 @@ If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```text
 Dear STU Supply Chain team,
 
-We understand STU Supply Chain moves cargo between China and Vietnam in both directions via Lang Son, Ho Chi Minh City.
+As fellow WCA members, I wanted to reach out directly. We understand STU Supply Chain moves cargo between China and Vietnam in both directions via Lang Son, Ho Chi Minh City.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Cross-border trucking Vietnam to China (Lang Son / Huu Nghi, Mong Cai) with clearance on the Vietnam side
-- Border clearance at Huu Nghi (Lang Son) / Mong Cai and trucking straight to the consignee's door
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- Cross-border trucking Vietnam to China via Huu Nghi (Lang Son) and Lao Cai, with clearance on the Vietnam side
+- Border clearance at Huu Nghi (Lang Son) / Lao Cai and trucking straight to the consignee's door
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Could we exchange agency profiles and quote on your next Vietnam shipment, either direction?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -66,21 +69,22 @@ If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```text
 Dear Yvonne,
 
-We understand YFT Logistics Ltd moves cargo between the UK and Vietnam in both directions via Hai Phong, Ho Chi Minh City.
+As fellow FIATA members, I wanted to reach out directly. We understand YFT Logistics Ltd moves cargo between the UK and Vietnam in both directions via Hai Phong, Ho Chi Minh City.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and UKVFTA origin documents (EUR.1)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to the UK, plus air freight via SGN and HAN
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and UKVFTA origin documents (EUR.1)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to the UK, plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Could we exchange agency profiles and quote on your next Vietnam shipment, either direction?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -96,19 +100,20 @@ Dear Averitt Express team,
 
 We understand Averitt Express moves cargo between the US and Vietnam in both directions via Hai Phong, Cai Mep, Hanoi.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O / phytosanitary documents
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to the US, plus air freight via SGN and HAN
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O / phytosanitary documents
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to the US, plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Could we exchange agency profiles and quote on your next Vietnam shipment, either direction?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -124,18 +129,19 @@ Dear ICE Cargo (International Cargo Express) team,
 
 We understand ICE Cargo (International Cargo Express) handles cargo shipped from Vietnam via Ho Chi Minh City, Hai Phong, Da Nang to Australia.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form AANZ (AANZFTA)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to Australia, plus air freight via SGN and HAN
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form AANZ (AANZFTA)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to Australia, plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have an upcoming Vietnam pick-up we could quote on?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -151,19 +157,20 @@ Dear Dörrenhaus GmbH Internationale Spedition team,
 
 We understand Dörrenhaus GmbH Internationale Spedition moves cargo between Germany and Vietnam in both directions.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to Germany, plus air freight via SGN and HAN
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to Germany, plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Could we exchange agency profiles and quote on your next Vietnam shipment, either direction?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -177,21 +184,22 @@ If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```text
 Dear Airlift USA Inc. team,
 
-We understand Airlift USA Inc. already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
+As fellow WCA members, I wanted to reach out directly. We understand Airlift USA Inc. already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O / phytosanitary documents
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to the US, plus air freight via SGN and HAN
-- Coverage in Central Vietnam (Da Nang), as a complement to your own Vietnam team
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O / phytosanitary documents
+- FMC-licensed NVOCC (ID 031924): we can issue our own house B/L for cargo to the USA
+- Coverage in Central Vietnam (Da Nang, Quy Nhon), as a complement to your own Vietnam team
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -207,18 +215,19 @@ Dear MCC World International team,
 
 We understand MCC World International handles cargo shipped from Vietnam via Hai Phong, Da Nang, Ho Chi Minh City to Australia.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form AANZ (AANZFTA)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to Australia, plus air freight via SGN and HAN
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form AANZ (AANZFTA)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to Australia, plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have an upcoming Vietnam pick-up we could quote on?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -235,19 +244,20 @@ Dear BETTERluck Shipping (Guangzhou) Limited team,
 
 We understand BETTERluck Shipping (Guangzhou) Limited ships cargo from China into Vietnam via Hai Phong, Cat Lai, Da Nang.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Border clearance at Huu Nghi (Lang Son) / Mong Cai and trucking straight to the consignee's door
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- Border clearance at Huu Nghi (Lang Son) / Lao Cai and trucking straight to the consignee's door
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have a shipment heading to Vietnam we could quote destination charges for?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -264,19 +274,20 @@ Dear China Best Freight team,
 
 We understand China Best Freight ships cargo from China into Vietnam via Hai Phong, Cat Lai, Da Nang.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Border clearance at Huu Nghi (Lang Son) / Mong Cai and trucking straight to the consignee's door
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- Border clearance at Huu Nghi (Lang Son) / Lao Cai and trucking straight to the consignee's door
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have a shipment heading to Vietnam we could quote destination charges for?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -293,19 +304,20 @@ Dear Shenzhen SCG Logistics Co. Ltd (南冠物流) team,
 
 We understand Shenzhen SCG Logistics Co. Ltd (南冠物流) moves cargo between China and Vietnam in both directions via Huu Nghi, Dong Dang, Mong Cai.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Cross-border trucking Vietnam to China (Lang Son / Huu Nghi, Mong Cai) with clearance on the Vietnam side
-- Border clearance at Huu Nghi (Lang Son) / Mong Cai and trucking straight to the consignee's door
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- Cross-border trucking Vietnam to China via Huu Nghi (Lang Son) and Lao Cai, with clearance on the Vietnam side
+- Border clearance at Huu Nghi (Lang Son) / Lao Cai and trucking straight to the consignee's door
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Could we exchange agency profiles and quote on your next Vietnam shipment, either direction?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -321,19 +333,20 @@ Dear Neele-Vat Logistics team,
 
 We understand Neele-Vat Logistics moves cargo between Netherlands and Vietnam in both directions via Cat Lai, Hai Phong, Da Nang.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to Netherlands, plus air freight via SGN and HAN
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to Netherlands, plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Could we exchange agency profiles and quote on your next Vietnam shipment, either direction?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -349,18 +362,19 @@ Dear Cargocare Global Ltd team,
 
 We understand Cargocare Global Ltd handles cargo shipped from Vietnam via Ho Chi Minh City, Hanoi, Hai Phong to the UK.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and UKVFTA origin documents (EUR.1)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to the UK, plus air freight via SGN and HAN
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and UKVFTA origin documents (EUR.1)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to the UK, plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have an upcoming Vietnam pick-up we could quote on?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -376,18 +390,20 @@ Dear Universal Shipping Inc. (USI) team,
 
 We understand Universal Shipping Inc. (USI) handles cargo shipped from Vietnam via Ho Chi Minh City, Hanoi, Da Nang to the US.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O / phytosanitary documents
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to the US, plus air freight via SGN and HAN
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O / phytosanitary documents
+- FMC-licensed NVOCC (ID 031924): we can issue our own house B/L for cargo to the USA
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to the US, plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have an upcoming Vietnam pick-up we could quote on?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -403,19 +419,20 @@ Dear GOWIN Logistics (Guocheng (Dongguan) International Supply Chain Management 
 
 We understand GOWIN Logistics (Guocheng (Dongguan) International Supply Chain Management Co. Ltd) ships cargo from China into Vietnam.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Border clearance at Huu Nghi (Lang Son) / Mong Cai and trucking straight to the consignee's door
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- Border clearance at Huu Nghi (Lang Son) / Lao Cai and trucking straight to the consignee's door
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have a shipment heading to Vietnam we could quote destination charges for?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -431,19 +448,20 @@ Dear Guangxi Nanping Customs Brokerage (南凭报关) team,
 
 We understand Guangxi Nanping Customs Brokerage (南凭报关) moves cargo between China and Vietnam in both directions via Huu Nghi.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Cross-border trucking Vietnam to China (Lang Son / Huu Nghi, Mong Cai) with clearance on the Vietnam side
-- Border clearance at Huu Nghi (Lang Son) / Mong Cai and trucking straight to the consignee's door
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- Cross-border trucking Vietnam to China via Huu Nghi (Lang Son) and Lao Cai, with clearance on the Vietnam side
+- Border clearance at Huu Nghi (Lang Son) / Lao Cai and trucking straight to the consignee's door
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Could we exchange agency profiles and quote on your next Vietnam shipment, either direction?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -459,19 +477,20 @@ Dear Shenzhen Hengshengtong Logistics Co. Ltd (HST) team,
 
 We understand Shenzhen Hengshengtong Logistics Co. Ltd (HST) ships cargo from China into Vietnam via Hanoi, Ho Chi Minh City, Huu Nghi.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Border clearance at Huu Nghi (Lang Son) / Mong Cai and trucking straight to the consignee's door
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- Border clearance at Huu Nghi (Lang Son) / Lao Cai and trucking straight to the consignee's door
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have a shipment heading to Vietnam we could quote destination charges for?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -488,18 +507,19 @@ Dear Track Cargo Pvt. Ltd. team,
 
 We understand Track Cargo Pvt. Ltd. handles cargo shipped from Vietnam to India.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form AI (AIFTA)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to India, plus air freight via SGN and HAN
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form AI (AIFTA)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to India, plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have an upcoming Vietnam pick-up we could quote on?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -515,18 +535,20 @@ Dear Suaid Global team,
 
 We understand Suaid Global handles cargo shipped from Vietnam via Cat Lai, Cai Mep, Hai Phong to the US.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O / phytosanitary documents
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to the US, plus air freight via SGN and HAN
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O / phytosanitary documents
+- FMC-licensed NVOCC (ID 031924): we can issue our own house B/L for cargo to the USA
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to the US, plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have an upcoming Vietnam pick-up we could quote on?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -540,20 +562,22 @@ If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```text
 Dear Vision International Logistics team,
 
-We understand Vision International Logistics ships cargo from Australia into Vietnam.
+As fellow WCA members, I wanted to reach out directly. We understand Vision International Logistics ships cargo from Australia into Vietnam.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- Air import handling at Noi Bai (HAN) and Tan Son Nhat (SGN), including dangerous goods
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have a shipment heading to Vietnam we could quote destination charges for?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -569,19 +593,20 @@ Dear Da Gong International Logistic (Shanghai) team,
 
 We understand Da Gong International Logistic (Shanghai) moves cargo between China and Vietnam in both directions via Hai Phong, Ho Chi Minh City.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form E (ACFTA)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to China
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form E (ACFTA)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to China
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Could we exchange agency profiles and quote on your next Vietnam shipment, either direction?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -597,19 +622,20 @@ Dear Guangdong Weiyang International Supply Chain (威洋国际物流) team,
 
 We understand Guangdong Weiyang International Supply Chain (威洋国际物流) moves cargo between China and Vietnam in both directions.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Cross-border trucking Vietnam to China (Lang Son / Huu Nghi, Mong Cai) with clearance on the Vietnam side
-- Border clearance at Huu Nghi (Lang Son) / Mong Cai and trucking straight to the consignee's door
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- Cross-border trucking Vietnam to China via Huu Nghi (Lang Son) and Lao Cai, with clearance on the Vietnam side
+- Border clearance at Huu Nghi (Lang Son) / Lao Cai and trucking straight to the consignee's door
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Could we exchange agency profiles and quote on your next Vietnam shipment, either direction?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -625,18 +651,19 @@ Dear Shenzhen Xunlaitong International Shipping Agency (XLT) team,
 
 We understand Shenzhen Xunlaitong International Shipping Agency (XLT) ships cargo from China into Vietnam via Hai Phong, Ho Chi Minh City, Da Nang.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have a shipment heading to Vietnam we could quote destination charges for?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -652,19 +679,20 @@ Dear ITC Logistic GmbH team,
 
 We understand ITC Logistic GmbH moves cargo between Germany and Vietnam in both directions via Hanoi, Ho Chi Minh City, Da Nang.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to Germany, plus air freight via SGN and HAN
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to Germany, plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Could we exchange agency profiles and quote on your next Vietnam shipment, either direction?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -680,18 +708,19 @@ Dear QCS Quick Cargo Service GmbH team,
 
 We understand QCS Quick Cargo Service GmbH handles cargo shipped from Vietnam to Europe.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to Europe, plus air freight via SGN and HAN
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to Europe, plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have an upcoming Vietnam pick-up we could quote on?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -707,19 +736,20 @@ Dear Stravex Transport- und Handelsgesellschaft mbH team,
 
 We understand Stravex Transport- und Handelsgesellschaft mbH moves cargo between Germany and Vietnam in both directions via Ho Chi Minh City, Hai Phong, Hanoi.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to Germany, plus air freight via SGN and HAN
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to Germany, plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Could we exchange agency profiles and quote on your next Vietnam shipment, either direction?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -735,19 +765,20 @@ Dear Transway Ocean (Transway GmbH) team,
 
 We understand Transway Ocean (Transway GmbH) moves cargo between Germany and Vietnam in both directions via Da Nang, Hai Phong, Ho Chi Minh City.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to Germany
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to Germany
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Could we exchange agency profiles and quote on your next Vietnam shipment, either direction?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -763,19 +794,20 @@ Dear DAA Shipping Lines Pvt Ltd team,
 
 We understand DAA Shipping Lines Pvt Ltd moves cargo between India and Vietnam in both directions via Ho Chi Minh City.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form AI (AIFTA)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to India, plus air freight via SGN and HAN
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form AI (AIFTA)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to India, plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Could we exchange agency profiles and quote on your next Vietnam shipment, either direction?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -791,19 +823,20 @@ Dear De Zwaluw Logistics team,
 
 We understand De Zwaluw Logistics moves cargo between Netherlands and Vietnam in both directions.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to Netherlands
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to Netherlands
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Could we exchange agency profiles and quote on your next Vietnam shipment, either direction?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -819,19 +852,20 @@ Dear Kuipers Logistics B.V. team,
 
 We understand Kuipers Logistics B.V. moves cargo between Netherlands and Vietnam in both directions via Hai Phong, Da Nang, Vung Tau.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to Netherlands, plus air freight via SGN and HAN
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to Netherlands, plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Could we exchange agency profiles and quote on your next Vietnam shipment, either direction?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -847,19 +881,20 @@ Dear Logitrex B.V. team,
 
 We understand Logitrex B.V. moves cargo between Netherlands and Vietnam in both directions via Cat Lai, Cai Mep, Hai Phong.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to Netherlands
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to Netherlands
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Could we exchange agency profiles and quote on your next Vietnam shipment, either direction?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -875,19 +910,20 @@ Dear UDEX Seafreight team,
 
 We understand UDEX Seafreight moves cargo between Netherlands and Vietnam in both directions via Ho Chi Minh City, Hai Phong, Da Nang.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to Netherlands
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to Netherlands
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Could we exchange agency profiles and quote on your next Vietnam shipment, either direction?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -903,19 +939,20 @@ Dear Van Thiel Transport team,
 
 We understand Van Thiel Transport moves cargo between Netherlands and Vietnam in both directions via Ho Chi Minh City, Da Nang, Vung Tau.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to Netherlands, plus air freight via SGN and HAN
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to Netherlands, plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Could we exchange agency profiles and quote on your next Vietnam shipment, either direction?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -931,19 +968,20 @@ Dear Brunel Shipping & Liner Services (London) Ltd team,
 
 We understand Brunel Shipping & Liner Services (London) Ltd moves cargo between the UK and Vietnam in both directions via Ho Chi Minh City, Hai Phong, Da Nang.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and UKVFTA origin documents (EUR.1)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to the UK, plus air freight via SGN and HAN
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and UKVFTA origin documents (EUR.1)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to the UK, plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Could we exchange agency profiles and quote on your next Vietnam shipment, either direction?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -959,18 +997,19 @@ Dear Uniserve Ltd team,
 
 We understand Uniserve Ltd handles cargo shipped from Vietnam to the UK.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and UKVFTA origin documents (EUR.1)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to the UK
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and UKVFTA origin documents (EUR.1)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to the UK
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have an upcoming Vietnam pick-up we could quote on?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -986,19 +1025,20 @@ Dear Australian Procurement Group (APG) team,
 
 We understand Australian Procurement Group (APG) moves cargo between Australia and Vietnam in both directions via Ho Chi Minh City, Binh Duong, Dong Nai.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form AANZ (AANZFTA)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to Australia, plus air freight via SGN and HAN
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form AANZ (AANZFTA)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to Australia, plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Could we exchange agency profiles and quote on your next Vietnam shipment, either direction?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1014,19 +1054,20 @@ Dear HN Transport Express team,
 
 We understand HN Transport Express moves cargo between Australia and Vietnam in both directions.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form AANZ (AANZFTA)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to Australia, plus air freight via SGN and HAN
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form AANZ (AANZFTA)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to Australia, plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Could we exchange agency profiles and quote on your next Vietnam shipment, either direction?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1042,19 +1083,20 @@ Dear Bailyun International (百运国际) team,
 
 We understand Bailyun International (百运国际) moves cargo between China and Vietnam in both directions via Hanoi, Ho Chi Minh City, Hai Phong.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form E (ACFTA)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to China, plus air freight via SGN and HAN
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form E (ACFTA)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to China, plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Could we exchange agency profiles and quote on your next Vietnam shipment, either direction?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1070,19 +1112,20 @@ Dear Guangxi Anlitai (安利泰) team,
 
 We understand Guangxi Anlitai (安利泰) moves cargo between China and Vietnam in both directions via Dong Dang.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Cross-border trucking Vietnam to China (Lang Son / Huu Nghi, Mong Cai) with clearance on the Vietnam side
-- Border clearance at Huu Nghi (Lang Son) / Mong Cai and trucking straight to the consignee's door
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- Cross-border trucking Vietnam to China via Huu Nghi (Lang Son) and Lao Cai, with clearance on the Vietnam side
+- Border clearance at Huu Nghi (Lang Son) / Lao Cai and trucking straight to the consignee's door
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Could we exchange agency profiles and quote on your next Vietnam shipment, either direction?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1098,19 +1141,20 @@ Dear JIKE Logistics team,
 
 We understand JIKE Logistics moves cargo between China and Vietnam in both directions via Hai Phong, Ho Chi Minh City, Da Nang.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form E (ACFTA)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to China, plus air freight via SGN and HAN
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form E (ACFTA)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to China, plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Could we exchange agency profiles and quote on your next Vietnam shipment, either direction?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1126,19 +1170,20 @@ Dear Yiwu Sailong International Freight Forwarding (赛龙国际) team,
 
 We understand Yiwu Sailong International Freight Forwarding (赛龙国际) moves cargo between China and Vietnam in both directions via Hai Phong, Hanoi, Ho Chi Minh City.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form E (ACFTA)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to China, plus air freight via SGN and HAN
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form E (ACFTA)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to China, plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Could we exchange agency profiles and quote on your next Vietnam shipment, either direction?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1154,19 +1199,20 @@ Dear MARTIN Internationale Spedition GmbH team,
 
 We understand MARTIN Internationale Spedition GmbH moves cargo between Germany and Vietnam in both directions via Hanoi, Ho Chi Minh City, Da Nang.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to Germany, plus air freight via SGN and HAN
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to Germany, plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Could we exchange agency profiles and quote on your next Vietnam shipment, either direction?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1182,18 +1228,19 @@ Dear China Freight Service Co. Ltd team,
 
 We understand China Freight Service Co. Ltd ships cargo from China into Vietnam via Cat Lai, Hai Phong.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have a shipment heading to Vietnam we could quote destination charges for?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1209,19 +1256,20 @@ Dear Dongguan Jiahang Freight Forwarding (嘉航国际物流) team,
 
 We understand Dongguan Jiahang Freight Forwarding (嘉航国际物流) ships cargo from China into Vietnam.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Border clearance at Huu Nghi (Lang Son) / Mong Cai and trucking straight to the consignee's door
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- Border clearance at Huu Nghi (Lang Son) / Lao Cai and trucking straight to the consignee's door
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have a shipment heading to Vietnam we could quote destination charges for?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1237,18 +1285,20 @@ Dear Efanda Logistics team,
 
 We understand Efanda Logistics ships cargo from China into Vietnam via Ho Chi Minh City, Hanoi, Hai Phong.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- Air import handling at Noi Bai (HAN) and Tan Son Nhat (SGN), including dangerous goods
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have a shipment heading to Vietnam we could quote destination charges for?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1264,18 +1314,20 @@ Dear Evership Global team,
 
 We understand Evership Global ships cargo from China into Vietnam via Hai Phong, Cat Lai, Cai Mep.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- Air import handling at Noi Bai (HAN) and Tan Son Nhat (SGN), including dangerous goods
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have a shipment heading to Vietnam we could quote destination charges for?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1292,18 +1344,19 @@ Dear Juhai International Freight (聚海供应链) team,
 
 We understand Juhai International Freight (聚海供应链) ships cargo from China into Vietnam via Ho Chi Minh City, Hai Phong.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have a shipment heading to Vietnam we could quote destination charges for?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1320,19 +1373,20 @@ Dear Mingyang Logistics (Dongguan) Co. Ltd team,
 
 We understand Mingyang Logistics (Dongguan) Co. Ltd ships cargo from China into Vietnam via Mong Cai, Hai Phong, Hanoi.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Border clearance at Huu Nghi (Lang Son) / Mong Cai and trucking straight to the consignee's door
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- Border clearance at Huu Nghi (Lang Son) / Lao Cai and trucking straight to the consignee's door
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have a shipment heading to Vietnam we could quote destination charges for?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1349,18 +1403,19 @@ Dear SHT Global Professional Freight Forwarding team,
 
 We understand SHT Global Professional Freight Forwarding ships cargo from China into Vietnam via Hai Phong, Ho Chi Minh City, Da Nang.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have a shipment heading to Vietnam we could quote destination charges for?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1376,19 +1431,20 @@ Dear Shenzhen Chefu Network Logistics Technology Co. Ltd team,
 
 We understand Shenzhen Chefu Network Logistics Technology Co. Ltd already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form E (ACFTA)
-- Border clearance at Huu Nghi (Lang Son) / Mong Cai and trucking straight to the consignee's door
-- Coverage in South Vietnam (Ho Chi Minh City, Cat Lai, Cai Mep) and Central Vietnam (Da Nang), as a complement to your own Vietnam team
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form E (ACFTA)
+- Border clearance at Huu Nghi (Lang Son) / Lao Cai and trucking straight to the consignee's door
+- Coverage in South Vietnam (Ho Chi Minh City, Vung Tau, Can Tho) and Central Vietnam (Da Nang, Quy Nhon), as a complement to your own Vietnam team
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1404,19 +1460,20 @@ Dear Shenzhen Donghao International Freight (东濠国际) team,
 
 We understand Shenzhen Donghao International Freight (东濠国际) ships cargo from China into Vietnam.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Border clearance at Huu Nghi (Lang Son) / Mong Cai and trucking straight to the consignee's door
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- Border clearance at Huu Nghi (Lang Son) / Lao Cai and trucking straight to the consignee's door
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have a shipment heading to Vietnam we could quote destination charges for?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1432,18 +1489,20 @@ Dear Shenzhen Jinchuang Logistics (金创物流) team,
 
 We understand Shenzhen Jinchuang Logistics (金创物流) ships cargo from China into Vietnam via Hanoi, Ho Chi Minh City, Hai Phong.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- Air import handling at Noi Bai (HAN) and Tan Son Nhat (SGN), including dangerous goods
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have a shipment heading to Vietnam we could quote destination charges for?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1459,18 +1518,19 @@ Dear CARGONA Clever Connection GmbH team,
 
 We understand CARGONA Clever Connection GmbH handles cargo shipped from Vietnam via Ho Chi Minh City, Hai Phong to Germany/Netherlands.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to Germany/Netherlands, plus air freight via SGN and HAN
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to Germany/Netherlands, plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have an upcoming Vietnam pick-up we could quote on?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1486,18 +1546,19 @@ Dear WOAC GmbH team,
 
 We understand WOAC GmbH handles cargo shipped from Vietnam via Ho Chi Minh City to Germany.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to Germany
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to Germany
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have an upcoming Vietnam pick-up we could quote on?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1514,18 +1575,19 @@ Dear World Freight Logistics B.V. team,
 
 We understand World Freight Logistics B.V. handles cargo shipped from Vietnam to Netherlands.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to Netherlands
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to Netherlands
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have an upcoming Vietnam pick-up we could quote on?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1541,18 +1603,19 @@ Dear Origin Global Logistics team,
 
 We understand Origin Global Logistics handles cargo shipped from Vietnam to the UK.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and UKVFTA origin documents (EUR.1)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to the UK, plus air freight via SGN and HAN
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and UKVFTA origin documents (EUR.1)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to the UK, plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have an upcoming Vietnam pick-up we could quote on?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1568,18 +1631,19 @@ Dear Velta International Ltd team,
 
 We understand Velta International Ltd handles cargo shipped from Vietnam to the UK.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and UKVFTA origin documents (EUR.1)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to the UK, plus air freight via SGN and HAN
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and UKVFTA origin documents (EUR.1)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to the UK, plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have an upcoming Vietnam pick-up we could quote on?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1595,18 +1659,20 @@ Dear Navia Freight (US) team,
 
 We understand Navia Freight (US) handles cargo shipped from Vietnam to the US.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O / phytosanitary documents
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to the US, plus air freight via SGN and HAN
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O / phytosanitary documents
+- FMC-licensed NVOCC (ID 031924): we can issue our own house B/L for cargo to the USA
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to the US, plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have an upcoming Vietnam pick-up we could quote on?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1622,18 +1688,20 @@ Dear Onsite Global Logistics LLC team,
 
 We understand Onsite Global Logistics LLC ships cargo from the US into Vietnam via Cat Lai, Hai Phong, Da Nang.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- Air import handling at Noi Bai (HAN) and Tan Son Nhat (SGN), including dangerous goods
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have a shipment heading to Vietnam we could quote destination charges for?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1649,18 +1717,20 @@ Dear Beyond Borders Express team,
 
 We understand Beyond Borders Express ships cargo from Australia into Vietnam.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- Air import handling at Noi Bai (HAN) and Tan Son Nhat (SGN), including dangerous goods
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have a shipment heading to Vietnam we could quote destination charges for?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1676,19 +1746,20 @@ Dear Dongguan Fugang Supply Chain (富港) team,
 
 We understand Dongguan Fugang Supply Chain (富港) ships cargo from China into Vietnam.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Border clearance at Huu Nghi (Lang Son) / Mong Cai and trucking straight to the consignee's door
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- Border clearance at Huu Nghi (Lang Son) / Lao Cai and trucking straight to the consignee's door
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have a shipment heading to Vietnam we could quote destination charges for?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1704,19 +1775,20 @@ Dear Feitu Xunda Cross-border Logistics (飞兔迅达) team,
 
 We understand Feitu Xunda Cross-border Logistics (飞兔迅达) ships cargo from China into Vietnam via Huu Nghi, Hanoi, Ho Chi Minh City.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Border clearance at Huu Nghi (Lang Son) / Mong Cai and trucking straight to the consignee's door
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- Border clearance at Huu Nghi (Lang Son) / Lao Cai and trucking straight to the consignee's door
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have a shipment heading to Vietnam we could quote destination charges for?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1732,19 +1804,20 @@ Dear Guangxi Pingxiang Rongshuntong International Logistics (荣顺通) team,
 
 We understand Guangxi Pingxiang Rongshuntong International Logistics (荣顺通) ships cargo from China into Vietnam via Huu Nghi.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Border clearance at Huu Nghi (Lang Son) / Mong Cai and trucking straight to the consignee's door
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- Border clearance at Huu Nghi (Lang Son) / Lao Cai and trucking straight to the consignee's door
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have a shipment heading to Vietnam we could quote destination charges for?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1761,19 +1834,20 @@ Dear Guangzhou Dijie Logistics (DJ Cargo) team,
 
 We understand Guangzhou Dijie Logistics (DJ Cargo) already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form E (ACFTA)
-- Border clearance at Huu Nghi (Lang Son) / Mong Cai and trucking straight to the consignee's door
-- Coverage in Central Vietnam (Da Nang), as a complement to your own Vietnam team
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form E (ACFTA)
+- Border clearance at Huu Nghi (Lang Son) / Lao Cai and trucking straight to the consignee's door
+- Coverage in Central Vietnam (Da Nang, Quy Nhon), as a complement to your own Vietnam team
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1789,18 +1863,20 @@ Dear OTC Global GmbH team,
 
 We understand OTC Global GmbH ships cargo from Germany into Vietnam via Ho Chi Minh City.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- Air import handling at Noi Bai (HAN) and Tan Son Nhat (SGN), including dangerous goods
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have a shipment heading to Vietnam we could quote destination charges for?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1816,18 +1892,19 @@ Dear Cloud Sea Shipping team,
 
 We understand Cloud Sea Shipping handles cargo shipped from Vietnam via Cat Lai, Cai Mep, Hai Phong to India.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form AI (AIFTA)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to India, plus air freight via SGN and HAN
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form AI (AIFTA)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to India, plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have an upcoming Vietnam pick-up we could quote on?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1843,18 +1920,20 @@ Dear Happy Cargo Inc. (HPC) team,
 
 We understand Happy Cargo Inc. (HPC) ships cargo from Japan into Vietnam.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- Air import handling at Noi Bai (HAN) and Tan Son Nhat (SGN), including dangerous goods
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have a shipment heading to Vietnam we could quote destination charges for?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1870,18 +1949,20 @@ Dear Partnershipping team,
 
 We understand Partnershipping ships cargo from Netherlands into Vietnam via Cat Lai, Hai Phong, Da Nang.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- Air import handling at Noi Bai (HAN) and Tan Son Nhat (SGN), including dangerous goods
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have a shipment heading to Vietnam we could quote destination charges for?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1897,18 +1978,19 @@ Dear Shipperz team,
 
 We understand Shipperz handles cargo shipped from Vietnam to Netherlands.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to Netherlands, plus air freight via SGN and HAN
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to Netherlands, plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have an upcoming Vietnam pick-up we could quote on?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1924,18 +2006,19 @@ Dear All TransportDepot Inc. team,
 
 We understand All TransportDepot Inc. ships cargo from the US into Vietnam via Cat Lai, Cai Mep, Hai Phong.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have a shipment heading to Vietnam we could quote destination charges for?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1952,19 +2035,20 @@ Dear Ningbo Guohua International Forwarding (G.H Forwarding) team,
 
 We understand Ningbo Guohua International Forwarding (G.H Forwarding) already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form E (ACFTA)
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Coverage in North Vietnam (Hanoi, Hai Phong) and Central Vietnam (Da Nang), as a complement to your own Vietnam team
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form E (ACFTA)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- Coverage in North Vietnam (Hanoi, Hai Phong, Bac Ninh) and Central Vietnam (Da Nang, Quy Nhon), as a complement to your own Vietnam team
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -1980,19 +2064,20 @@ Dear Karl Gross Internationale Spedition GmbH team,
 
 We understand Karl Gross Internationale Spedition GmbH already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Coverage in Central Vietnam (Da Nang), as a complement to your own Vietnam team
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- Coverage in Central Vietnam (Da Nang, Quy Nhon), as a complement to your own Vietnam team
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2008,19 +2093,20 @@ Dear Hanjin Transportation Co. Ltd (한진) team,
 
 We understand Hanjin Transportation Co. Ltd (한진) already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form VK / AK (VKFTA, AKFTA)
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Coverage in Central Vietnam (Da Nang), as a complement to your own Vietnam team
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form VK / AK (VKFTA, AKFTA)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- Coverage in Central Vietnam (Da Nang, Quy Nhon), as a complement to your own Vietnam team
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2037,19 +2123,20 @@ Dear KCTC Co. Ltd team,
 
 We understand KCTC Co. Ltd already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form VK / AK (VKFTA, AKFTA)
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Coverage in Central Vietnam (Da Nang), as a complement to your own Vietnam team
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form VK / AK (VKFTA, AKFTA)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- Coverage in Central Vietnam (Da Nang, Quy Nhon), as a complement to your own Vietnam team
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2065,19 +2152,20 @@ Dear Xinquan International Logistics Co. Ltd (鑫泉国际货代) team,
 
 We understand Xinquan International Logistics Co. Ltd (鑫泉国际货代) ships cargo from China into Vietnam via Mong Cai.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Border clearance at Huu Nghi (Lang Son) / Mong Cai and trucking straight to the consignee's door
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- Border clearance at Huu Nghi (Lang Son) / Lao Cai and trucking straight to the consignee's door
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have a shipment heading to Vietnam we could quote destination charges for?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2093,19 +2181,20 @@ Dear CSC Logistics (Guangzhou Chengsu International Logistics Co. Ltd) team,
 
 We understand CSC Logistics (Guangzhou Chengsu International Logistics Co. Ltd) already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- Air import handling at Noi Bai (HAN) and Tan Son Nhat (SGN), including dangerous goods
 - Back-up capacity and a second quote when your Vietnam team is busy
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2121,19 +2210,20 @@ Dear Quanzhou Huaguo Freight Forwarding (华国货运) team,
 
 We understand Quanzhou Huaguo Freight Forwarding (华国货运) ships cargo from China into Vietnam.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Border clearance at Huu Nghi (Lang Son) / Mong Cai and trucking straight to the consignee's door
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- Border clearance at Huu Nghi (Lang Son) / Lao Cai and trucking straight to the consignee's door
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have a shipment heading to Vietnam we could quote destination charges for?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2149,19 +2239,20 @@ Dear Shandong Shengyang International Logistics (晟洋国际物流) team,
 
 We understand Shandong Shengyang International Logistics (晟洋国际物流) already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form E (ACFTA)
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Coverage in South Vietnam (Ho Chi Minh City, Cat Lai, Cai Mep) and Central Vietnam (Da Nang), as a complement to your own Vietnam team
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form E (ACFTA)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- Coverage in South Vietnam (Ho Chi Minh City, Vung Tau, Can Tho) and Central Vietnam (Da Nang, Quy Nhon), as a complement to your own Vietnam team
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2177,19 +2268,20 @@ Dear HEUEL Logistics / JDC-Dahmen team,
 
 We noticed Vietnam is part of HEUEL Logistics / JDC-Dahmen's network.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
+- Air import handling at Noi Bai (HAN) and Tan Son Nhat (SGN), including dangerous goods
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do your Vietnam shipments run mainly into or out of Vietnam? Happy to quote on the next one either way.
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2205,19 +2297,20 @@ Dear Berkman Forwarding team,
 
 We understand Berkman Forwarding already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and EVFTA origin documents (EUR.1 / REX statement)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
 - Back-up capacity and a second quote when your Vietnam team is busy
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2234,19 +2327,20 @@ Dear Amarine Shipping Co. Ltd team,
 
 We understand Amarine Shipping Co. Ltd already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form VK / AK (VKFTA, AKFTA)
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Coverage in North Vietnam (Hanoi, Hai Phong) and Central Vietnam (Da Nang), as a complement to your own Vietnam team
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form VK / AK (VKFTA, AKFTA)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- Coverage in North Vietnam (Hanoi, Hai Phong, Bac Ninh) and Central Vietnam (Da Nang, Quy Nhon), as a complement to your own Vietnam team
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2262,19 +2356,20 @@ Dear Family Express Co. Ltd (훼밀리익스프레스) team,
 
 We understand Family Express Co. Ltd (훼밀리익스프레스) already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
-- Coverage in Central Vietnam (Da Nang), as a complement to your own Vietnam team
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- Air import handling at Noi Bai (HAN) and Tan Son Nhat (SGN), including dangerous goods
+- Coverage in Central Vietnam (Da Nang, Quy Nhon), as a complement to your own Vietnam team
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2290,18 +2385,20 @@ Dear Portlogics team,
 
 We understand Portlogics ships cargo from South Korea into Vietnam.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- Air import handling at Noi Bai (HAN) and Tan Son Nhat (SGN), including dangerous goods
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have a shipment heading to Vietnam we could quote destination charges for?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2317,19 +2414,20 @@ Dear Samyoung Express Co. Ltd team,
 
 We understand Samyoung Express Co. Ltd already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form VK / AK (VKFTA, AKFTA)
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Coverage in North Vietnam (Hanoi, Hai Phong) and Central Vietnam (Da Nang), as a complement to your own Vietnam team
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form VK / AK (VKFTA, AKFTA)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- Coverage in North Vietnam (Hanoi, Hai Phong, Bac Ninh) and Central Vietnam (Da Nang, Quy Nhon), as a complement to your own Vietnam team
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2345,19 +2443,20 @@ Dear Smart Logitem Co. Ltd team,
 
 We understand Smart Logitem Co. Ltd already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form VK / AK (VKFTA, AKFTA)
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Coverage in Central Vietnam (Da Nang), as a complement to your own Vietnam team
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form VK / AK (VKFTA, AKFTA)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- Coverage in Central Vietnam (Da Nang, Quy Nhon), as a complement to your own Vietnam team
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2373,18 +2472,20 @@ Dear Global Distribution Logistics team,
 
 We understand Global Distribution Logistics handles cargo shipped from Vietnam to the US.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O / phytosanitary documents
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to the US, plus air freight via SGN and HAN
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O / phytosanitary documents
+- FMC-licensed NVOCC (ID 031924): we can issue our own house B/L for cargo to the USA
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to the US, plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do you have an upcoming Vietnam pick-up we could quote on?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2401,19 +2502,20 @@ Dear KCC Transport Systems, Inc. team,
 
 We noticed Vietnam is part of KCC Transport Systems, Inc.'s network.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O / phytosanitary documents
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O / phytosanitary documents
+- Air import handling at Noi Bai (HAN) and Tan Son Nhat (SGN), including dangerous goods
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do your Vietnam shipments run mainly into or out of Vietnam? Happy to quote on the next one either way.
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2429,19 +2531,20 @@ Dear Austral-Asia Freight Pty Ltd team,
 
 We noticed Vietnam is part of Austral-Asia Freight Pty Ltd's network.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form AANZ (AANZFTA)
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form AANZ (AANZFTA)
+- Air import handling at Noi Bai (HAN) and Tan Son Nhat (SGN), including dangerous goods
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do your Vietnam shipments run mainly into or out of Vietnam? Happy to quote on the next one either way.
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2457,19 +2560,20 @@ Dear Shenzhen Longxun Supply Chain (龙迅供应链) team,
 
 We understand Shenzhen Longxun Supply Chain (龙迅供应链) already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Border clearance at Huu Nghi (Lang Son) / Mong Cai and trucking straight to the consignee's door
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- Border clearance at Huu Nghi (Lang Son) / Lao Cai and trucking straight to the consignee's door
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
 - Back-up capacity and a second quote when your Vietnam team is busy
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2485,19 +2589,20 @@ Dear Vivek Freight & Logistics Pvt. Ltd. team,
 
 We understand Vivek Freight & Logistics Pvt. Ltd. already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form AI (AIFTA)
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Coverage in North Vietnam (Hanoi, Hai Phong) and Central Vietnam (Da Nang), as a complement to your own Vietnam team
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form AI (AIFTA)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- Coverage in North Vietnam (Hanoi, Hai Phong, Bac Ninh) and Central Vietnam (Da Nang, Quy Nhon), as a complement to your own Vietnam team
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2513,19 +2618,20 @@ Dear WTC Logistics (UK) Ltd team,
 
 We understand WTC Logistics (UK) Ltd already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and UKVFTA origin documents (EUR.1)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to the UK, plus air freight via SGN and HAN
-- Coverage in Central Vietnam (Da Nang), as a complement to your own Vietnam team
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and UKVFTA origin documents (EUR.1)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to the UK, plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)
+- Coverage in Central Vietnam (Da Nang, Quy Nhon), as a complement to your own Vietnam team
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2542,19 +2648,20 @@ Dear Hongye International Forwarding Co. Ltd team,
 
 We understand Hongye International Forwarding Co. Ltd already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O / phytosanitary documents
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Coverage in Central Vietnam (Da Nang), as a complement to your own Vietnam team
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O / phytosanitary documents
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- Coverage in Central Vietnam (Da Nang, Quy Nhon), as a complement to your own Vietnam team
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2570,19 +2677,20 @@ Dear DA Global Logistics team,
 
 We noticed Vietnam is part of DA Global Logistics's network.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form AANZ (AANZFTA)
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form AANZ (AANZFTA)
+- Air import handling at Noi Bai (HAN) and Tan Son Nhat (SGN), including dangerous goods
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do your Vietnam shipments run mainly into or out of Vietnam? Happy to quote on the next one either way.
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2598,19 +2706,20 @@ Dear Exim Express Australia team,
 
 We noticed Vietnam is part of Exim Express Australia's network.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form AANZ (AANZFTA)
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Door delivery anywhere in Vietnam, with warehousing if the consignee needs it
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form AANZ (AANZFTA)
+- Air import handling at Noi Bai (HAN) and Tan Son Nhat (SGN), including dangerous goods
+- DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Do your Vietnam shipments run mainly into or out of Vietnam? Happy to quote on the next one either way.
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2626,19 +2735,20 @@ Dear Zhejiang Haofeng International Freight Forwarding (豪峰国际) team,
 
 We understand Zhejiang Haofeng International Freight Forwarding (豪峰国际) already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- Border clearance at Huu Nghi (Lang Son) / Mong Cai and trucking straight to the consignee's door
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Coverage in Central Vietnam (Da Nang), as a complement to your own Vietnam team
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- Border clearance at Huu Nghi (Lang Son) / Lao Cai and trucking straight to the consignee's door
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- Coverage in Central Vietnam (Da Nang, Quy Nhon), as a complement to your own Vietnam team
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2655,19 +2765,20 @@ Dear Safround Logistics Co. Ltd team,
 
 We understand Safround Logistics Co. Ltd already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form E (ACFTA)
-- Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to China
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form E (ACFTA)
+- FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to China
 - Back-up capacity and a second quote when your Vietnam team is busy
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2683,19 +2794,20 @@ Dear Long Sailing International Logistics (长帆国际物流) team,
 
 We understand Long Sailing International Logistics (长帆国际物流) already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form E (ACFTA)
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Coverage in Central Vietnam (Da Nang), as a complement to your own Vietnam team
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form E (ACFTA)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- Coverage in Central Vietnam (Da Nang, Quy Nhon), as a complement to your own Vietnam team
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2711,19 +2823,20 @@ Dear Qingdao DSI International Forwarding (鼎世国际) team,
 
 We understand Qingdao DSI International Forwarding (鼎世国际) already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form E (ACFTA)
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form E (ACFTA)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
 - Back-up capacity and a second quote when your Vietnam team is busy
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2739,19 +2852,20 @@ Dear Shanghai Oriental Air Logistics (悦东国际) team,
 
 We understand Shanghai Oriental Air Logistics (悦东国际) already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form E (ACFTA)
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Coverage in South Vietnam (Ho Chi Minh City, Cat Lai, Cai Mep) and Central Vietnam (Da Nang), as a complement to your own Vietnam team
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form E (ACFTA)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- Coverage in South Vietnam (Ho Chi Minh City, Vung Tau, Can Tho) and Central Vietnam (Da Nang, Quy Nhon), as a complement to your own Vietnam team
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2768,19 +2882,20 @@ Dear Shenzhen Haiguang International Logistics (海光国际物流) team,
 
 We understand Shenzhen Haiguang International Logistics (海光国际物流) already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form E (ACFTA)
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form E (ACFTA)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
 - Back-up capacity and a second quote when your Vietnam team is busy
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2797,19 +2912,20 @@ Dear WAC International Logistics team,
 
 We understand WAC International Logistics already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form E (ACFTA)
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Coverage in Central Vietnam (Da Nang), as a complement to your own Vietnam team
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form E (ACFTA)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- Coverage in Central Vietnam (Da Nang, Quy Nhon), as a complement to your own Vietnam team
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2825,19 +2941,20 @@ Dear Wells Shipping (美林联合国际物流) team,
 
 We understand Wells Shipping (美林联合国际物流) already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form E (ACFTA)
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Coverage in North Vietnam (Hanoi, Hai Phong) and Central Vietnam (Da Nang), as a complement to your own Vietnam team
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form E (ACFTA)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- Coverage in North Vietnam (Hanoi, Hai Phong, Bac Ninh) and Central Vietnam (Da Nang, Quy Nhon), as a complement to your own Vietnam team
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2853,19 +2970,20 @@ Dear Navigators Visa Global Logistics Ltd (NVGL) team,
 
 We understand Navigators Visa Global Logistics Ltd (NVGL) already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form AI (AIFTA)
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form AI (AIFTA)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
 - Back-up capacity and a second quote when your Vietnam team is busy
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2881,19 +2999,20 @@ Dear VS Trans Lojistik Ltd team,
 
 We understand VS Trans Lojistik Ltd already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form AI (AIFTA)
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Coverage in South Vietnam (Ho Chi Minh City, Cat Lai, Cai Mep) and Central Vietnam (Da Nang), as a complement to your own Vietnam team
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form AI (AIFTA)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- Coverage in South Vietnam (Ho Chi Minh City, Vung Tau, Can Tho) and Central Vietnam (Da Nang, Quy Nhon), as a complement to your own Vietnam team
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2909,19 +3028,20 @@ Dear EUSU Logistics (유수로지스틱스) team,
 
 We understand EUSU Logistics (유수로지스틱스) already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form VK / AK (VKFTA, AKFTA)
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Coverage in Central Vietnam (Da Nang), as a complement to your own Vietnam team
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form VK / AK (VKFTA, AKFTA)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- Coverage in Central Vietnam (Da Nang, Quy Nhon), as a complement to your own Vietnam team
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2937,19 +3057,20 @@ Dear UWL Inc. team,
 
 We understand UWL Inc. already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O / phytosanitary documents
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Coverage in Central Vietnam (Da Nang), as a complement to your own Vietnam team
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O / phytosanitary documents
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- Coverage in Central Vietnam (Da Nang, Quy Nhon), as a complement to your own Vietnam team
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2965,19 +3086,20 @@ Dear KTL Australia team,
 
 We understand KTL Australia already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form AANZ (AANZFTA)
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form AANZ (AANZFTA)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
 - Back-up capacity and a second quote when your Vietnam team is busy
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -2993,19 +3115,20 @@ Dear Prime Global Logistics team,
 
 We understand Prime Global Logistics already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form AANZ (AANZFTA)
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Coverage in North Vietnam (Hanoi, Hai Phong) and Central Vietnam (Da Nang), as a complement to your own Vietnam team
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form AANZ (AANZFTA)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- Coverage in North Vietnam (Hanoi, Hai Phong, Bac Ninh) and Central Vietnam (Da Nang, Quy Nhon), as a complement to your own Vietnam team
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -3021,19 +3144,20 @@ Dear Indian Shipping & Logistics Facility (ISLF) team,
 
 We understand Indian Shipping & Logistics Facility (ISLF) already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O Form AI (AIFTA)
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
-- Coverage in North Vietnam (Hanoi, Hai Phong) and Central Vietnam (Da Nang), as a complement to your own Vietnam team
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O Form AI (AIFTA)
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
+- Coverage in North Vietnam (Hanoi, Hai Phong, Bac Ninh) and Central Vietnam (Da Nang, Quy Nhon), as a complement to your own Vietnam team
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```
@@ -3049,19 +3173,20 @@ Dear Transmodal Corporation team,
 
 We understand Transmodal Corporation already has its own presence in Vietnam. Many forwarders with a Vietnam office still use a local partner for regions or peaks their team doesn't cover, and that is where we would like to help.
 
-I'm Nguyen Van A, Overseas Business Development Manager at YOUR COMPANY LOGISTICS JSC, a Vietnam-based forwarder with offices in Ho Chi Minh City, Hai Phong, Ha Noi and Da Nang. We would like to support you as your agent in Vietnam:
-- FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance and C/O / phytosanitary documents
-- Deconsolidation at our CFS, import customs clearance and duty/tax handling
+I'm Ms. Tracy, Director of Oversea & Business Development at Glotrans (Global Logistics and Transport Co., Ltd), a Vietnamese forwarder headquartered in Hai Phong. We would like to support you as your agent in Vietnam:
+- FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance and C/O / phytosanitary documents
+- LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling
 - Back-up capacity and a second quote when your Vietnam team is busy
 
-Same-business-day quotations and an English-speaking operations team.
+About us: since 2009; 9 offices nationwide; members of WCA, JCtrans, PPL One Family, WWPC and FIATA; IATA cargo agent; FMC-licensed. 24/7 customer service with real-time shipment updates.
 
 Would you be open to keeping us as your Vietnam back-up agent and comparing rates on one shipment?
 
 Best regards,
-Nguyen Van A
-Overseas Business Development Manager | YOUR COMPANY LOGISTICS JSC
-overseas@your-company.com.vn | https://www.your-company.com.vn
+Ms. Tracy
+Director of Oversea & Business Development | Glotrans (Global Logistics and Transport Co., Ltd)
+oversea01.hq@glotransvn.com.vn | +84 904 027 587 (Tel/WhatsApp)
+https://www.glotransvn.com.vn
 
 If this isn't relevant, just reply "no thanks" and we won't contact you again.
 ```

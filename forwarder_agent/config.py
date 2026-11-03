@@ -23,6 +23,10 @@ class CompanyProfile:
     strengths: list[str]
     networks: list[str]
     extra_context: str = ""
+    phone: str = ""
+    founded: int | None = None
+    iata_code: str = ""
+    fmc_license: str = ""
 
     def as_prompt(self) -> str:
         bullet = lambda items: "\n".join(f"- {i}" for i in items) or "- (none)"

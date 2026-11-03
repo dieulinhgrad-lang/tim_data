@@ -25,8 +25,9 @@ NORTH = {"hải phòng": "Hai Phong", "hà nội": "Hanoi", "han": "Hanoi", "l�
 CENTRAL = {"đà nẵng": "Da Nang", "quy nhơn": "Quy Nhon"}
 SOUTH = {"hcm": "Ho Chi Minh City", "cát lái": "Cat Lai", "cái mép": "Cai Mep", "sgn": "Ho Chi Minh City",
          "vũng tàu": "Vung Tau", "đồng nai": "Dong Nai", "bình dương": "Binh Duong"}
-REGION_NAME = {"north": "North Vietnam (Hanoi, Hai Phong)", "central": "Central Vietnam (Da Nang)",
-               "south": "South Vietnam (Ho Chi Minh City, Cat Lai, Cai Mep)"}
+REGION_NAME = {"north": "North Vietnam (Hanoi, Hai Phong, Bac Ninh)", "central": "Central Vietnam (Da Nang, Quy Nhon)",
+               "south": "South Vietnam (Ho Chi Minh City, Vung Tau, Can Tho)"}
+NETWORK_KEYS = ["WCA", "JCtrans", "PPL", "WWPC", "FIATA"]
 
 FTA = {
     "China": "C/O Form E (ACFTA)",
@@ -133,16 +134,20 @@ def compose(r: dict, country: str, profile: CompanyProfile, contact: dict | None
 
     # --- what they need on the Vietnam side -------------------------------------------------------
     export, imp = [], []
-    export.append("FOB/EXW pick-ups at factories across North and South Vietnam, export customs clearance"
+    export.append("FOB/EXW pick-ups at factories across North, Central and South Vietnam, export customs clearance"
                   + (f" and {co}" if co else " and C/O / phytosanitary documents"))
     if road_china:
-        export.append("Cross-border trucking Vietnam to China (Lang Son / Huu Nghi, Mong Cai) with clearance on the Vietnam side")
-    export.append(f"Weekly LCL consolidation and FCL bookings from Cat Lai, Cai Mep, Hai Phong and Da Nang to {dest}"
-                  + (", plus air freight via SGN and HAN" if air else ""))
+        export.append("Cross-border trucking Vietnam to China via Huu Nghi (Lang Son) and Lao Cai, with clearance on the Vietnam side")
+    export.append(f"FCL and LCL consolidation from Hai Phong, Cat Lai, Cai Mep, Da Nang and Quy Nhon to {dest}"
+                  + (f", plus air freight as an IATA agent (VN, KE, CX, CI, CZ, EK, TK, BR...)" if air else ""))
+    if other == "the US" and profile.fmc_license:
+        export.insert(1, f"FMC-licensed NVOCC (ID {profile.fmc_license}): we can issue our own house B/L for cargo to the USA")
     if road_china:
-        imp.append("Border clearance at Huu Nghi (Lang Son) / Mong Cai and trucking straight to the consignee's door")
-    imp.append("Deconsolidation at our CFS, import customs clearance and duty/tax handling")
-    imp.append("Door delivery anywhere in Vietnam, with warehousing if the consignee needs it")
+        imp.append("Border clearance at Huu Nghi (Lang Son) / Lao Cai and trucking straight to the consignee's door")
+    imp.append("LCL deconsolidation, import customs clearance (Hai Phong, Cat Lai, Noi Bai, HCMC) and duty/tax handling")
+    imp.append("DDU/DDP and door-to-door delivery anywhere in Vietnam, with general, cold or DG warehousing if needed")
+    if air and not road_china:
+        imp.insert(1, "Air import handling at Noi Bai (HAN) and Tan Son Nhat (SGN), including dangerous goods")
 
     if has_office:
         missing = [REGION_NAME[x] for x in ("north", "south", "central") if x not in regions] if regions else []
@@ -183,26 +188,35 @@ def compose(r: dict, country: str, profile: CompanyProfile, contact: dict | None
         ask = ("Do your Vietnam shipments run mainly into or out of Vietnam? "
                "Happy to quote on the next one either way.")
 
+    theirs = r.get("Hiệp hội / Network", "")
+    shared = [k for k in NETWORK_KEYS if k.lower() in theirs.lower() and any(k in n for n in profile.networks)]
+    if shared:
+        opening = f"As fellow {'/'.join(shared)} members, I wanted to reach out directly. " + opening
+    creds = [f"since {profile.founded}" if profile.founded else "", f"{len(profile.offices)} offices nationwide",
+             ("members of " + _join([n.split(" (")[0] for n in profile.networks if n != "IATA"])) if profile.networks else "",
+             "IATA cargo agent" if profile.iata_code else "", "FMC-licensed" if profile.fmc_license else ""]
+    creds = "; ".join(c for c in creds if c)
     greet_name = contact.get("name", "").split()[0] if contact.get("name") else ""
     greeting = f"Dear {greet_name}," if greet_name else f"Dear {company} team,"
-    strengths = "Same-business-day quotations and an English-speaking operations team."
+    strengths = (f"About us: {creds}. " if creds else "") + (profile.strengths[1] + "." if len(profile.strengths) > 1 else "")
     body = "\n".join([
         greeting, "",
         f"{opening}", "",
-        f"I'm {profile.sender_name}, {profile.sender_title} at {profile.name}, a Vietnam-based forwarder with "
-        f"offices in {_join(profile.offices)}. We would like to support you as your agent in Vietnam:",
+        f"I'm {profile.sender_name}, {profile.sender_title} at {profile.name}, a Vietnamese forwarder headquartered "
+        f"in Hai Phong. We would like to support you as your agent in Vietnam:",
         *[f"- {p}" for p in pts],
         "", strengths, "", ask, "",
         "Best regards,",
         profile.sender_name, f"{profile.sender_title} | {profile.name}",
-        f"{profile.sender_email} | {profile.website}", "",
+        f"{profile.sender_email} | {profile.phone}" if profile.phone else profile.sender_email,
+        profile.website, "",
         OPT_OUT,
     ])
     followup = "\n".join([
         greeting, "",
         f"Just following up on my note about Vietnam agency support for {company}. "
         + ("If you have any cargo moving to or from Vietnam in the next few weeks, send us the details "
-           "and we'll come back with a quote the same business day."),
+           "and we'll come back with a quote promptly. Our team is available 24/7."),
         "", "Best regards,", profile.sender_name, "", OPT_OUT,
     ])
 

@@ -1,26 +1,32 @@
-# Hồ sơ công ty của bạn - agent dùng để chấm điểm mức phù hợp và viết email.
-# SỬA các giá trị dưới đây cho đúng thực tế. Agent chỉ được dùng dịch vụ/thế mạnh liệt kê ở đây,
-# không tự bịa thêm.
+# Hồ sơ công ty - nguồn: GLOTRANS_PROFILE.pdf, Glotransbroucher.pdf, Air_freight.pdf.
+# Agent chỉ được dùng dịch vụ/thế mạnh liệt kê ở đây, không tự bịa thêm.
 
 [company]
-name = "YOUR COMPANY LOGISTICS JSC"
-website = "https://www.your-company.com.vn"
-sender_name = "Nguyen Van A"
-sender_title = "Overseas Business Development Manager"
-sender_email = "overseas@your-company.com.vn"
-offices = ["Ho Chi Minh City", "Hai Phong", "Ha Noi", "Da Nang"]
+name = "Glotrans (Global Logistics and Transport Co., Ltd)"
+website = "https://www.glotransvn.com.vn"
+sender_name = "Ms. Tracy"
+sender_title = "Director of Oversea & Business Development"
+sender_email = "oversea01.hq@glotransvn.com.vn"
+phone = "+84 904 027 587 (Tel/WhatsApp)"
+offices = ["Hai Phong (HQ)", "Hanoi", "Bac Ninh", "Da Nang", "Quy Nhon", "Nha Trang", "Ho Chi Minh City", "Vung Tau", "Can Tho"]
+founded = 2009
 services = [
-  "Sea freight FCL/LCL export from HCMC (Cat Lai, Cai Mep), Hai Phong, Da Nang",
-  "Import door delivery and customs clearance in Vietnam",
-  "Air freight export/import via SGN and HAN",
-  "Weekly LCL consolidation to main Asian, EU and US gateways",
-  "Cross-border trucking Vietnam - China / Cambodia / Laos",
-  "Warehousing, CFS, fumigation, C/O and phytosanitary documentation",
+  "Sea freight FCL/LCL, with consol (LCL) opening at major Vietnam seaports",
+  "Air freight as IATA cargo agent (IATA 37303520004): competitive rates and space on VN, KE, VJ, TG, TK, CX, CI, CZ, EK, BR; part/full charter; air-sea; dangerous goods",
+  "FMC-licensed (ID 031924): issues own house bills of lading for cargo exported to the USA",
+  "Customs clearance at HCMC, Cat Lai, Noi Bai, Hai Phong and other customs branches nationwide",
+  "DDU/DDP and domestic door-to-door delivery",
+  "Cross-border trucking: China (Huu Nghi, Lao Cai), Laos (Lao Bao, Cau Treo/Cua Lo), Cambodia (Moc Bai)",
+  "Inland trucking for factories and industrial zones",
+  "Warehousing: general, cold storage and dangerous goods",
+  "Project cargo, cargo insurance (Bao Minh), international and domestic express",
 ]
 strengths = [
-  "Local agent for FOB / EXW pick-ups at factories across North and South Vietnam",
-  "Fast quotation (same business day) and English-speaking ops team",
-  "Experience with furniture, garments, footwear, coffee and agricultural cargo",
+  "Over 15 years in operation (since 2009) with 9 offices across North, Central and South Vietnam",
+  "24/7 customer service with real-time shipment updates",
+  "Competitive rates and fast turnaround for DDU/DDP and door-to-door services",
 ]
-networks = []  # ví dụ: ["WCA", "JCtrans", "FIATA"]
-extra_context = ""
+networks = ["WCA (ID 59535)", "JCtrans (ID 109626)", "PPL One Family (ID 23568)", "WWPC", "FIATA", "IATA"]
+iata_code = "37303520004"
+fmc_license = "031924"
+extra_context = "Agent network in more than 150 countries and territories."
