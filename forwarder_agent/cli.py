@@ -16,6 +16,7 @@
     python -m forwarder_agent import-lanes lanes.json                         # nạp kết quả kiểm tra tuyến VN
     python -m forwarder_agent sheet-rows --since 2026-11-03 --out rows.json   # dòng để ghi qua connector
     python -m forwarder_agent push-sheets --sheet-id <ID> [--country China]   # mỗi quốc gia 1 tab
+    python -m forwarder_agent bulk-drafts                                     # email nháp hàng loạt từ leads/*.csv (không gửi)
 """
 
 from __future__ import annotations
@@ -127,6 +128,13 @@ def main(argv: list[str] | None = None) -> None:
     sp.add_argument("--day", help="YYYY-MM-DD (mặc định: hôm nay theo giờ Việt Nam)")
     sp.add_argument("--target", type=int, help="mặc định: total_per_day trong config/daily.toml")
     sp.add_argument("--out-leads", default="leads")
+    sp = sub.add_parser("bulk-drafts", help="soạn email nháp hàng loạt từ leads/*.csv theo nhu cầu từng agent (không gửi)")
+    sp.add_argument("--leads-dir", default="leads")
+    sp.add_argument("--contacts", default="config/contacts.csv", help="CSV domain,name,title,email,linkedin")
+    sp.add_argument("--min-score", type=int, default=35)
+    sp.add_argument("--tiers", default="ABC")
+    sp.add_argument("--out", default="leads/outreach")
+    sp.add_argument("--day", help="tên file, mặc định hôm nay")
     sp = sub.add_parser("sheet-rows", help="xuất JSON {tab: rows} để ghi lên Sheets qua connector")
     sp.add_argument("--since", help="chỉ lead tạo từ ngày này (YYYY-MM-DD)")
     sp.add_argument("--out", default="-")
@@ -252,6 +260,19 @@ def main(argv: list[str] | None = None) -> None:
         (out / f"{day.isoformat()}-report.md").write_text(text, encoding="utf-8")
         print(text)
         print(f"CSV: {csv_path}")
+    elif args.cmd == "bulk-drafts":
+        from collections import Counter
+        from datetime import date as _date
+
+        from .mailmerge import build_drafts, write_outputs
+
+        drafts, no_email = build_drafts(load_profile(Path(args.profile)), args.leads_dir, args.contacts,
+                                        args.min_score, args.tiers)
+        paths = write_outputs(drafts, no_email, args.out, args.day or _date.today().isoformat())
+        print(f"{len(drafts)} email drafts, {len(no_email)} without public email (nothing sent)")
+        print("Theo chiều tuyến:", dict(Counter(d.direction for d in drafts)))
+        for k, v in paths.items():
+            print(f"{k}: {v}")
     elif args.cmd == "sheet-rows":
         import json
 

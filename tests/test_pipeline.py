@@ -418,3 +418,19 @@ def test_cli_import_quals_and_daily_report(tmp_path):
     day = daily_mod.local_today().isoformat()
     assert "Sino" in (tmp_path / "leads" / f"{day}.csv").read_text(encoding="utf-8-sig")
     assert "đạt: **1**" in (tmp_path / "leads" / f"{day}-report.md").read_text(encoding="utf-8")
+
+
+def test_bulk_draft_follows_lane_direction():
+    from forwarder_agent.config import CompanyProfile
+    from forwarder_agent.mailmerge import compose
+
+    prof = CompanyProfile("VN Co", "https://vn.co", "An", "BD", "bd@vn.co", ["Hai Phong", "HCMC"], [], [], [])
+    base = {"Domain": "x.co.uk", "Công ty": "X Ltd", "Tuyến VN: chiều": "Xuất từ VN", "Tuyến VN: phương thức": "sea",
+            "Phương thức": "sea", "Tuyến VN: cảng / cửa khẩu": "Hải Phòng", "Có VP tại VN?": "Không",
+            "Tuyến": "Vietnam-UK", "Thành phố": "London", "Email công khai": "info@x.co.uk; export@x.co.uk",
+            "Tuyến VN: độ tin cậy": "Cao", "Hạng": "A", "Điểm": "80", "Bằng chứng tuyến Việt Nam": "e",
+            "Tuyến VN: nguồn": "", "Nguồn": "", "Red flags": "", "Website": "", "Điện thoại": ""}
+    d = compose(base, "United Kingdom", prof)
+    assert d.to == "export@x.co.uk" and "origin" in d.subject and "UKVFTA" in d.body
+    d = compose(dict(base, **{"Tuyến VN: chiều": "Nhập vào VN", "Tuyến": "UK-Vietnam"}), "United Kingdom", prof)
+    assert "destination" in d.subject and "import customs clearance" in d.body
