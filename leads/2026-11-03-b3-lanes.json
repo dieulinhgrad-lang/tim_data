@@ -1,0 +1,1254 @@
+{
+ "stusupplychain.com": {
+  "direction": "both",
+  "modes": [
+   "road",
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "Lạng Sơn",
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "China→Vietnam door-to-door double clearance via Lang Son; import business incl. shipping from Vietnam to China",
+    "url": "https://stusupplychain.com/truck-transportation-from-china-to-vn.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Bằng chứng: China→Vietnam door-to-door double clearance via Lang Son; import business incl. shipping from Vietnam to China"
+ },
+ "deer-express.com": {
+  "direction": "both",
+  "modes": [
+   "road"
+  ],
+  "vn_gateways": [
+   "Hữu Nghị",
+   "Đông Hưng",
+   "Bắc Ninh"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "China↔Vietnam round-trip trucking; own customs broker in Pingxiang; Vietnam branch & Bac Ninh warehouse",
+    "url": "https://www.deer-express.com/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: China↔Vietnam round-trip trucking; own customs broker in Pingxiang; Vietnam branch & Bac Ninh warehouse"
+ },
+ "jikelogistics.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [
+   "Hải Phòng",
+   "HCM",
+   "Đà Nẵng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Focused on China-Vietnam since 2008 (≈5,000 TEU/week South China→Vietnam); quotes Haiphong→Caofeidian export freight",
+    "url": "https://www.jikelogistics.com/shipping-to/shipping-from-china-to-vietnam/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Focused on China-Vietnam since 2008 (≈5,000 TEU/week South China→Vietnam); quotes Haiphong→Caofeidian export freight"
+ },
+ "xunlaitong-china.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "road"
+  ],
+  "vn_gateways": [
+   "Hải Phòng",
+   "HCM",
+   "Đà Nẵng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Two LCL vessels weekly to Haiphong; FCL daily; Vietnam transportation to door (DDU/DDP)",
+    "url": "https://www.xunlaitong-china.com/freight-forwarding/sea-freight/fast-shipping-from-china-to-vietnam-ocean.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Bằng chứng: Two LCL vessels weekly to Haiphong; FCL daily; Vietnam transportation to door (DDU/DDP)"
+ },
+ "btshipping.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air",
+   "rail"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Hải Phòng",
+   "HAN",
+   "SGN"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "China to Vietnam door-to-door incl. customs, duties and taxes in Vietnam; rail via Kunming/Nanning",
+    "url": "https://www.btshipping.com/china-to-vietnam/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Bằng chứng: China to Vietnam door-to-door incl. customs, duties and taxes in Vietnam; rail via Kunming/Nanning"
+ },
+ "evereastlogistics.com.cn": {
+  "direction": "both",
+  "modes": [
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam→China, China→Vietnam, Vietnam↔Thailand DDP road with clearance at both ends",
+    "url": "https://www.evereastlogistics.com.cn/Thailand-to-Vietnam-DDP-road-transportation-shipping-special-line-service-p7101966.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Vietnam→China, China→Vietnam, Vietnam↔Thailand DDP road with clearance at both ends"
+ },
+ "honouroceanshipping.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Shipping from China to Vietnam incl. customs clearance and delivery",
+    "url": "https://www.honouroceanshipping.com/shipping-from-china-to-vietnam-your-best-freight-forwarder/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Shipping from China to Vietnam incl. customs clearance and delivery"
+ },
+ "cargofromchina.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "20+ years sea freight to Vietnam, door-to-door, transport and customs clearance handled",
+    "url": "https://cargofromchina.com/china-vietnam/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: 20+ years sea freight to Vietnam, door-to-door, transport and customs clearance handled"
+ },
+ "orientalair.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "Hải Phòng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Own branch in Hai Phong (Oriental Logistics Vietnam)",
+    "url": "https://orientalair.com/cn/about/team.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Own branch in Hai Phong (Oriental Logistics Vietnam)"
+ },
+ "longsailing.net": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Hà Nội"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Own offices in Ho Chi Minh City and Hanoi",
+    "url": "https://www.longsailing.net/Contact.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Own offices in Ho Chi Minh City and Hanoi"
+ },
+ "wells-shipping.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air",
+   "rail"
+  ],
+  "vn_gateways": [
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Own branch in Ho Chi Minh City (Vietnam@wells-shipping.com)",
+    "url": "https://www.wells-shipping.com/contact/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Own branch in Ho Chi Minh City (Vietnam@wells-shipping.com)"
+ },
+ "dsi-log.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air",
+   "rail"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Branch office in Vietnam (plus Thailand, Malaysia, Indonesia)",
+    "url": "https://www.dsi-log.com/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Branch office in Vietnam (plus Thailand, Malaysia, Indonesia)"
+ },
+ "ycccl.net": {
+  "direction": "import_to_vn",
+  "modes": [
+   "road",
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "Đông Hưng",
+   "Hà Nội",
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dongguan→Dongxing→Hanoi→HCMC road; sea to HCMC; double clearance door delivery",
+    "url": "http://www.ycccl.net/quan_yuenanzhuanxian/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Bằng chứng: Dongguan→Dongxing→Hanoi→HCMC road; sea to HCMC; double clearance door delivery"
+ },
+ "fggjwl.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam line sea 7-10d, air 1-4d, road 2-3d; Vietnam overseas warehousing & delivery",
+    "url": "https://www.fggjwl.com/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Bằng chứng: Vietnam line sea 7-10d, air 1-4d, road 2-3d; Vietnam overseas warehousing & delivery"
+ },
+ "cn.fjctnx.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "road",
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam road line service",
+    "url": "https://cn.fjctnx.com/product_details/130.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy thấp). Bằng chứng: Vietnam road line service"
+ },
+ "feituex.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "road",
+   "sea"
+  ],
+  "vn_gateways": [
+   "Hữu Nghị",
+   "Hà Nội",
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam road (Youyiguan) 5-8 days and sea 10-15 days, double clearance to Hanoi/HCMC",
+    "url": "https://www.feituex.com/routes/vietnam",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Vietnam road (Youyiguan) 5-8 days and sea 10-15 days, double clearance to Hanoi/HCMC"
+ },
+ "ldlog.com.cn": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Own Vietnam warehouse; door-to-door to Vietnam for e-commerce sellers",
+    "url": "http://www.ldlog.com.cn/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Own Vietnam warehouse; door-to-door to Vietnam for e-commerce sellers"
+ },
+ "dantful.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "Cát Lái",
+   "Hải Phòng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam→US ocean freight forwarding (FCL/LCL/RoRo/breakbulk)",
+    "url": "https://www.dantful.com/ship-by-region/america/vietnam-us/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Vietnam→US ocean freight forwarding (FCL/LCL/RoRo/breakbulk)"
+ },
+ "suaidglobal.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "Cát Lái",
+   "Cái Mép",
+   "Hải Phòng",
+   "Đà Nẵng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam to US ocean & air from HCMC/Hai Phong/Da Nang; books via NVOCC partners",
+    "url": "https://suaidglobal.com/shipping/vietnam-to-usa/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy cao). Bằng chứng: Vietnam to US ocean & air from HCMC/Hai Phong/Da Nang; books via NVOCC partners"
+ },
+ "carotrans.com": {
+  "direction": "both",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Launched direct LA–Ho Chi Minh LCL export & import service with Vietnamese alliance partner (2012)",
+    "url": "https://www.joc.com/article/carotrans-launches-direct-lcl-service-between-los-angeles-and-vietnam-5654122",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy thấp). Bằng chứng: Launched direct LA–Ho Chi Minh LCL export & import service with Vietnamese alliance partner (2012)"
+ },
+ "alltransportdepot.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [
+   "Cát Lái",
+   "Cái Mép",
+   "Hải Phòng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Container shipping USA→Vietnam (Cat Lai, Cai Mep, Hai Phong) with destination-agent handoff; FMC 021693",
+    "url": "https://alltransportdepot.com/ship-a-container-to-vietnam/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Container shipping USA→Vietnam (Cat Lai, Cai Mep, Hai Phong) with destination-agent handoff; FMC 021693"
+ },
+ "usgshipping.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Đà Nẵng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Shipping to Vietnam from USA; works with forwarders in Vietnam for door-to-door",
+    "url": "https://usgshipping.com/asia/shipping-to-vietnam-from-usa/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Shipping to Vietnam from USA; works with forwarders in Vietnam for door-to-door"
+ },
+ "kawanishi.co.jp": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "HCMC office since 2008 with dominant agent: agri, frozen marine, furniture, garments to Japan and vice versa; cold store in Tay Ninh",
+    "url": "https://www.kawanishi.co.jp/english/03office/overseas06.htm",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: HCMC office since 2008 with dominant agent: agri, frozen marine, furniture, garments to Japan and vice versa; cold store in Tay Ninh"
+ },
+ "kaisoten.co.jp": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "GOTO Vietnam (HCMC) since 2023, JV with local companies",
+    "url": "https://www.kaisoten.co.jp/en/about/group/vietnam",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: GOTO Vietnam (HCMC) since 2023, JV with local companies"
+ },
+ "maruwn.co.jp": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [
+   "Hà Nội"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Maruwn Logistics Vietnam (Hanoi, 100% owned, 2017)",
+    "url": "https://www.maruwn.co.jp/corporate/network/vietnam/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Maruwn Logistics Vietnam (Hanoi, 100% owned, 2017)"
+ },
+ "ait-jp.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "AITC Logistics (Vietnam) subsidiary",
+    "url": "https://linkedin.com/company/ait-corporation",
+    "source": "linkedin"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: AITC Logistics (Vietnam) subsidiary"
+ },
+ "next-international.co.jp": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Produces & ships fresh coconuts/fruit from Vietnam; forwarding and customs",
+    "url": "https://next-international.co.jp/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Produces & ships fresh coconuts/fruit from Vietnam; forwarding and customs"
+ },
+ "smartlogitem.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Hà Nội"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam-specialized forwarder; branches Smart Cargo Service in HCMC and Hanoi",
+    "url": "https://smartlogitem.com/en/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Vietnam-specialized forwarder; branches Smart Cargo Service in HCMC and Hanoi"
+ },
+ "eusu-logistics.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Hà Nội",
+   "Hải Phòng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Eusu Logistics Vietnam: HCMC HQ, Hanoi and Hai Phong branches",
+    "url": "https://www.eusu-logistics.com/en/sub/company/network.asp",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Eusu Logistics Vietnam: HCMC HQ, Hanoi and Hai Phong branches"
+ },
+ "pactra.co.kr": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Office and warehouse in Ho Chi Minh City",
+    "url": "http://www.pactra.co.kr/contact/aboutus?lang=en",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Office and warehouse in Ho Chi Minh City"
+ },
+ "kmtcas.co.kr": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Global network: Korea, China, Vietnam (subsidiary of Korea Marine Transport)",
+    "url": "http://www.kmtcas.co.kr/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Global network: Korea, China, Vietnam (subsidiary of Korea Marine Transport)"
+ },
+ "lotteglogis.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Hà Nội"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Lotte Vinatrans Global Logistics (HCMC, Hanoi) and Lotte Global Logistics Vietnam (Long An)",
+    "url": "https://www.lotteglogis.com/english/business/globalnetworks/international",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Lotte Vinatrans Global Logistics (HCMC, Hanoi) and Lotte Global Logistics Vietnam (Long An)"
+ },
+ "elvis-ag.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "SE Asia Link: export to Vietnam via Hamburg and import from SE Asia; local partner APX handles clearance",
+    "url": "https://www.elvis-ag.com/en/elvis-seal",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: SE Asia Link: export to Vietnam via Hamburg and import from SE Asia; local partner APX handles clearance"
+ },
+ "tsm24.de": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [
+   "Cát Lái",
+   "Vũng Tàu",
+   "Hải Phòng",
+   "HCM",
+   "Đà Nẵng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Imports and exports to Vietnam (Cat Lai, Vung Tau, Hanoi, Haiphong, HCMC, Da Nang) via worldwide partners; handles Vietnam customs",
+    "url": "https://tsm24.de/de/netzwerk/t-z/transport-vietnam.php",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Imports and exports to Vietnam (Cat Lai, Vung Tau, Hanoi, Haiphong, HCMC, Da Nang) via worldwide partners; handles Vietnam customs"
+ },
+ "seehafen-spedition.de": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Weekly LCL departures from Asia incl. Vietnam (Ho Chi Minh) incl. pickup in origin country",
+    "url": "https://www.seehafen-spedition.de/de/leistungen/seefracht-aus-hamburg",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Weekly LCL departures from Asia incl. Vietnam (Ho Chi Minh) incl. pickup in origin country"
+ },
+ "quick-cargo-service.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "air",
+   "sea",
+   "rail",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Container train freight from China, Japan and Vietnam to Europe",
+    "url": "https://www.quick-cargo-service.com/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Container train freight from China, Japan and Vietnam to Europe"
+ },
+ "heuel.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air",
+   "rail"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Air/sea transports to or from China, Vietnam, Australia, India etc.",
+    "url": "https://www.heuel.com/en/services/air-sea-freight.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Bằng chứng: Air/sea transports to or from China, Vietnam, Australia, India etc."
+ },
+ "hntransport.com.au": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Two-way Australia–Vietnam shipping since 2011; sea freight Vietnam→Australia for Vietnamese exporters",
+    "url": "https://www.hntransport.com.au/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Bằng chứng: Two-way Australia–Vietnam shipping since 2011; sea freight Vietnam→Australia for Vietnamese exporters"
+ },
+ "daglobal.com.au": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "35+ years shaping the Vietnam–Australia trade relationship (founder relocated manufacturing to HCMC 1991)",
+    "url": "https://www.daglobal.com.au/about/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy trung bình). Bằng chứng: 35+ years shaping the Vietnam–Australia trade relationship (founder relocated manufacturing to HCMC 1991)"
+ },
+ "eximex.com.au": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Experienced especially in Korea, Vietnam, Australia and New Zealand shipping",
+    "url": "https://www.eximex.com.au/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Bằng chứng: Experienced especially in Korea, Vietnam, Australia and New Zealand shipping"
+ },
+ "ktlaustralia.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Office locations include Vietnam",
+    "url": "https://www.ktlaustralia.com/about-us",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Office locations include Vietnam"
+ },
+ "islf.in": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Overseas branch at Ho Chi Minh City",
+    "url": "https://islf.in/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Overseas branch at Ho Chi Minh City"
+ },
+ "shiptrack.co.in": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam offices offering forwarding, customs clearance, warehousing",
+    "url": "https://shiptrack.co.in/global/vietnam",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Vietnam offices offering forwarding, customs clearance, warehousing"
+ },
+ "tglsindia.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [
+   "Hải Phòng",
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Group offices Transworld GLS Vietnam (Haiphong) & HCMC",
+    "url": "https://www.tgssol.com/our-agent.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Group offices Transworld GLS Vietnam (Haiphong) & HCMC"
+ },
+ "averlogistics.co.uk": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [
+   "Cái Mép",
+   "Hải Phòng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Weekly sailings Cai Mep & Haiphong → Felixstowe; FCL & LCL door-to-door",
+    "url": "https://averlogistics.co.uk/shipping-from-vietnam-to-the-uk/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy cao). Bằng chứng: Weekly sailings Cai Mep & Haiphong → Felixstowe; FCL & LCL door-to-door"
+ },
+ "aslworldwide.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Hải Phòng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Shipping from Vietnam to the UK from HCMC and Hai Phong, organising inland transport in Vietnam",
+    "url": "https://aslworldwide.com/countries/vietnam",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Shipping from Vietnam to the UK from HCMC and Hai Phong, organising inland transport in Vietnam"
+ },
+ "fastlanefwd.co.uk": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Weekly LCL groupage from UK to Far East incl. Vietnam",
+    "url": "https://fastlanefwd.co.uk/far_east_lcl_groupage.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy thấp). Bằng chứng: Weekly LCL groupage from UK to Far East incl. Vietnam"
+ },
+ "excessluggage.co.uk": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [
+   "Đà Nẵng",
+   "Hải Phòng",
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Commercial LCL groupage to Danang, Haiphong, Ho Chi Minh, Phuoc Long ICD",
+    "url": "https://www.excessluggage.co.uk/commercial-sea-freight-from-uk/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy thấp). Bằng chứng: Commercial LCL groupage to Danang, Haiphong, Ho Chi Minh, Phuoc Long ICD"
+ },
+ "berkmanforwarding.nl": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Offices in Netherlands, Vietnam, China and India",
+    "url": "https://berkmanforwarding.nl/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Offices in Netherlands, Vietnam, China and India"
+ },
+ "shipperz.nl": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Own agents on location in Vietnam, Cambodia, Indonesia, Philippines",
+    "url": "https://shipperz.nl/over-shipperz/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Own agents on location in Vietnam, Cambodia, Indonesia, Philippines"
+ }
+}

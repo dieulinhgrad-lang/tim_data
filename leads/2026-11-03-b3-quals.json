@@ -1,0 +1,704 @@
+{
+ "stusupplychain.com": {
+  "score": 85,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Bằng chứng: China→Vietnam door-to-door double clearance via Lang Son; import business incl. shipping from Vietnam to China",
+  "recommended_services": [],
+  "outreach_angle": "Two-way China-Vietnam: offer Vietnam-side clearance & pickup",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "deer-express.com": {
+  "score": 40,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: China↔Vietnam round-trip trucking; own customs broker in Pingxiang; Vietnam branch & Bac Ninh warehouse",
+  "recommended_services": [],
+  "outreach_angle": "Has VN branch: offer south VN / sea alternatives",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "jikelogistics.com": {
+  "score": 68,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Focused on China-Vietnam since 2008 (≈5,000 TEU/week South China→Vietnam); quotes Haiphong→Caofeidian export freight",
+  "recommended_services": [],
+  "outreach_angle": "Both directions: offer Vietnam origin/destination agency",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "xunlaitong-china.com": {
+  "score": 70,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy cao). Bằng chứng: Two LCL vessels weekly to Haiphong; FCL daily; Vietnam transportation to door (DDU/DDP)",
+  "recommended_services": [],
+  "outreach_angle": "High VN volume: offer Vietnam destination delivery",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "btshipping.com": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy cao). Bằng chứng: China to Vietnam door-to-door incl. customs, duties and taxes in Vietnam; rail via Kunming/Nanning",
+  "recommended_services": [],
+  "outreach_angle": "DDP to VN: offer Vietnam clearance & delivery",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "evereastlogistics.com.cn": {
+  "score": 53,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Vietnam→China, China→Vietnam, Vietnam↔Thailand DDP road with clearance at both ends",
+  "recommended_services": [],
+  "outreach_angle": "Cross-border DDP: offer Vietnam customs & trucking",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "honouroceanshipping.com": {
+  "score": 58,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Shipping from China to Vietnam incl. customs clearance and delivery",
+  "recommended_services": [],
+  "outreach_angle": "China→VN: offer Vietnam destination agency",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "cargofromchina.com": {
+  "score": 53,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy trung bình). Bằng chứng: 20+ years sea freight to Vietnam, door-to-door, transport and customs clearance handled",
+  "recommended_services": [],
+  "outreach_angle": "China→VN: offer Vietnam clearance",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "orientalair.com": {
+  "score": 40,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Own branch in Hai Phong (Oriental Logistics Vietnam)",
+  "recommended_services": [],
+  "outreach_angle": "Has Haiphong branch: offer south VN",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "longsailing.net": {
+  "score": 40,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Own offices in Ho Chi Minh City and Hanoi",
+  "recommended_services": [],
+  "outreach_angle": "Has VN offices: low priority",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "wells-shipping.com": {
+  "score": 40,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Own branch in Ho Chi Minh City (Vietnam@wells-shipping.com)",
+  "recommended_services": [],
+  "outreach_angle": "Has HCMC branch: offer north VN",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "dsi-log.com": {
+  "score": 40,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Branch office in Vietnam (plus Thailand, Malaysia, Indonesia)",
+  "recommended_services": [],
+  "outreach_angle": "Has VN branch: low priority",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "ycccl.net": {
+  "score": 58,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy cao). Bằng chứng: Dongguan→Dongxing→Hanoi→HCMC road; sea to HCMC; double clearance door delivery",
+  "recommended_services": [],
+  "outreach_angle": "Border road line: offer Vietnam trucking",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "fggjwl.com": {
+  "score": 63,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy cao). Bằng chứng: Vietnam line sea 7-10d, air 1-4d, road 2-3d; Vietnam overseas warehousing & delivery",
+  "recommended_services": [],
+  "outreach_angle": "China→VN DDP: offer Vietnam warehouse/clearance",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "cn.fjctnx.com": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy thấp). Bằng chứng: Vietnam road line service",
+  "recommended_services": [],
+  "outreach_angle": "Vietnam road line: offer last-mile/clearance",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "feituex.com": {
+  "score": 63,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Vietnam road (Youyiguan) 5-8 days and sea 10-15 days, double clearance to Hanoi/HCMC",
+  "recommended_services": [],
+  "outreach_angle": "DDP to VN: offer Vietnam clearance",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "ldlog.com.cn": {
+  "score": 50,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Own Vietnam warehouse; door-to-door to Vietnam for e-commerce sellers",
+  "recommended_services": [],
+  "outreach_angle": "Has VN warehouse: offer B2B clearance",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "dantful.com": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Vietnam→US ocean freight forwarding (FCL/LCL/RoRo/breakbulk)",
+  "recommended_services": [],
+  "outreach_angle": "Cross-trade VN→US: offer Vietnam origin agency",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "suaidglobal.com": {
+  "score": 73,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy cao). Bằng chứng: Vietnam to US ocean & air from HCMC/Hai Phong/Da Nang; books via NVOCC partners",
+  "recommended_services": [],
+  "outreach_angle": "Partner-orchestrated: pitch as their Vietnam origin agent",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "carotrans.com": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy thấp). Bằng chứng: Launched direct LA–Ho Chi Minh LCL export & import service with Vietnamese alliance partner (2012)",
+  "recommended_services": [],
+  "outreach_angle": "LCL NVOCC: offer Vietnam CFS/deconsol partner",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "alltransportdepot.com": {
+  "score": 63,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Container shipping USA→Vietnam (Cat Lai, Cai Mep, Hai Phong) with destination-agent handoff; FMC 021693",
+  "recommended_services": [],
+  "outreach_angle": "Uses destination agents: offer import clearance & delivery",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "usgshipping.com": {
+  "score": 53,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Shipping to Vietnam from USA; works with forwarders in Vietnam for door-to-door",
+  "recommended_services": [],
+  "outreach_angle": "Works with VN forwarders: pitch as their agent",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "kawanishi.co.jp": {
+  "score": 60,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: HCMC office since 2008 with dominant agent: agri, frozen marine, furniture, garments to Japan and vice versa; cold store in Tay Ninh",
+  "recommended_services": [],
+  "outreach_angle": "Has HCMC office: offer north VN / Haiphong",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "kaisoten.co.jp": {
+  "score": 25,
+  "tier": "D",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: GOTO Vietnam (HCMC) since 2023, JV with local companies",
+  "recommended_services": [],
+  "outreach_angle": "Has HCMC JV: offer north VN",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found",
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "maruwn.co.jp": {
+  "score": 30,
+  "tier": "D",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Maruwn Logistics Vietnam (Hanoi, 100% owned, 2017)",
+  "recommended_services": [],
+  "outreach_angle": "Has Hanoi sub: offer south VN",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found",
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "ait-jp.com": {
+  "score": 30,
+  "tier": "D",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: AITC Logistics (Vietnam) subsidiary",
+  "recommended_services": [],
+  "outreach_angle": "Has VN sub: low priority",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found",
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "next-international.co.jp": {
+  "score": 63,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Produces & ships fresh coconuts/fruit from Vietnam; forwarding and customs",
+  "recommended_services": [],
+  "outreach_angle": "VN perishables exporter: offer reefer origin handling",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "smartlogitem.com": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Vietnam-specialized forwarder; branches Smart Cargo Service in HCMC and Hanoi",
+  "recommended_services": [],
+  "outreach_angle": "Has VN branches: offer Haiphong/central VN",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "eusu-logistics.com": {
+  "score": 40,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Eusu Logistics Vietnam: HCMC HQ, Hanoi and Hai Phong branches",
+  "recommended_services": [],
+  "outreach_angle": "Has VN sub: low priority",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "pactra.co.kr": {
+  "score": 35,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Office and warehouse in Ho Chi Minh City",
+  "recommended_services": [],
+  "outreach_angle": "Has HCMC office: offer north VN",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found",
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "kmtcas.co.kr": {
+  "score": 35,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Global network: Korea, China, Vietnam (subsidiary of Korea Marine Transport)",
+  "recommended_services": [],
+  "outreach_angle": "Has VN network: low priority",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found",
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "lotteglogis.com": {
+  "score": 30,
+  "tier": "D",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Lotte Vinatrans Global Logistics (HCMC, Hanoi) and Lotte Global Logistics Vietnam (Long An)",
+  "recommended_services": [],
+  "outreach_angle": "Large VN presence: low priority",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found",
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "elvis-ag.com": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: SE Asia Link: export to Vietnam via Hamburg and import from SE Asia; local partner APX handles clearance",
+  "recommended_services": [],
+  "outreach_angle": "Uses local partner: pitch as Vietnam agent",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "tsm24.de": {
+  "score": 58,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Imports and exports to Vietnam (Cat Lai, Vung Tau, Hanoi, Haiphong, HCMC, Da Nang) via worldwide partners; handles Vietnam customs",
+  "recommended_services": [],
+  "outreach_angle": "Uses partners: offer Vietnam agency",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "seehafen-spedition.de": {
+  "score": 53,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Weekly LCL departures from Asia incl. Vietnam (Ho Chi Minh) incl. pickup in origin country",
+  "recommended_services": [],
+  "outreach_angle": "LCL from HCMC: offer origin consol/pickup",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "quick-cargo-service.com": {
+  "score": 70,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Container train freight from China, Japan and Vietnam to Europe",
+  "recommended_services": [],
+  "outreach_angle": "Rail/sea from VN: offer origin handling",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "heuel.com": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy thấp). Bằng chứng: Air/sea transports to or from China, Vietnam, Australia, India etc.",
+  "recommended_services": [],
+  "outreach_angle": "Offer Vietnam agency",
+  "red_flags": [
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "hntransport.com.au": {
+  "score": 68,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Bằng chứng: Two-way Australia–Vietnam shipping since 2011; sea freight Vietnam→Australia for Vietnamese exporters",
+  "recommended_services": [],
+  "outreach_angle": "VN-focused: offer B2B clearance & consolidation",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "daglobal.com.au": {
+  "score": 48,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy trung bình). Bằng chứng: 35+ years shaping the Vietnam–Australia trade relationship (founder relocated manufacturing to HCMC 1991)",
+  "recommended_services": [],
+  "outreach_angle": "Vietnam-linked: offer as Vietnam partner",
+  "red_flags": [
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "eximex.com.au": {
+  "score": 48,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy thấp). Bằng chứng: Experienced especially in Korea, Vietnam, Australia and New Zealand shipping",
+  "recommended_services": [],
+  "outreach_angle": "Offer Vietnam agency",
+  "red_flags": [
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "ktlaustralia.com": {
+  "score": 35,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Office locations include Vietnam",
+  "recommended_services": [],
+  "outreach_angle": "Has VN office: low priority",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "islf.in": {
+  "score": 35,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Overseas branch at Ho Chi Minh City",
+  "recommended_services": [],
+  "outreach_angle": "Has HCMC branch: offer north VN",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "shiptrack.co.in": {
+  "score": 33,
+  "tier": "D",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Vietnam offices offering forwarding, customs clearance, warehousing",
+  "recommended_services": [],
+  "outreach_angle": "Has VN office: offer support",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "tglsindia.com": {
+  "score": 35,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Group offices Transworld GLS Vietnam (Haiphong) & HCMC",
+  "recommended_services": [],
+  "outreach_angle": "Group has VN offices: low priority",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found",
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "averlogistics.co.uk": {
+  "score": 53,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy cao). Bằng chứng: Weekly sailings Cai Mep & Haiphong → Felixstowe; FCL & LCL door-to-door",
+  "recommended_services": [],
+  "outreach_angle": "Needs VN origin handling: pitch as origin agent",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "aslworldwide.com": {
+  "score": 53,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Shipping from Vietnam to the UK from HCMC and Hai Phong, organising inland transport in Vietnam",
+  "recommended_services": [],
+  "outreach_angle": "Organises VN inland: offer origin trucking",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "fastlanefwd.co.uk": {
+  "score": 43,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy thấp). Bằng chứng: Weekly LCL groupage from UK to Far East incl. Vietnam",
+  "recommended_services": [],
+  "outreach_angle": "Exports to VN: offer destination deconsol",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "excessluggage.co.uk": {
+  "score": 43,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy thấp). Bằng chứng: Commercial LCL groupage to Danang, Haiphong, Ho Chi Minh, Phuoc Long ICD",
+  "recommended_services": [],
+  "outreach_angle": "Exports LCL to VN: offer destination clearance",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "berkmanforwarding.nl": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Offices in Netherlands, Vietnam, China and India",
+  "recommended_services": [],
+  "outreach_angle": "Has VN office: offer north/central VN",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "shipperz.nl": {
+  "score": 63,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Own agents on location in Vietnam, Cambodia, Indonesia, Philippines",
+  "recommended_services": [],
+  "outreach_angle": "Uses VN agents: pitch as their agent",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-03-b3: rubric scoring by Claude Code (mode B)"
+  ]
+ }
+}
