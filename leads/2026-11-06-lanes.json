@@ -1,0 +1,468 @@
+{
+ "foresmart.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam listed as supported origin for shipments",
+    "url": "https://www.foresmart.com/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy thấp). Bằng chứng: Vietnam listed as supported origin for shipments"
+ },
+ "sdilogistics-shippings.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Ocean service destinations include Vietnam",
+    "url": "https://www.sdilogistics-shippings.com/sea-freight/ocean-shipping-freight-cargo-service-sea.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy thấp). Bằng chứng: Ocean service destinations include Vietnam"
+ },
+ "harchenlogistics.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated Vietnam to USA route page",
+    "url": "https://www.harchenlogistics.com/en/routes/vietnam-to-usa.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy thấp). Bằng chứng: Dedicated Vietnam to USA route page"
+ },
+ "rz-freight.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Ship-to-USA page covers China and Vietnam origins",
+    "url": "https://www.rz-freight.com/shiptousa.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy thấp). Bằng chứng: Ship-to-USA page covers China and Vietnam origins"
+ },
+ "maofengscm.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "road",
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "Hà Khẩu/Lào Cai"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "China–Vietnam sea, road and air line page",
+    "url": "http://maofengscm.com/col.jsp?id=110",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: China–Vietnam sea, road and air line page"
+ },
+ "darong56.cn": {
+  "direction": "import_to_vn",
+  "modes": [
+   "road",
+   "sea"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam line service listed on site",
+    "url": "http://www.darong56.cn/contarct/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy thấp). Bằng chứng: Vietnam line service listed on site"
+ },
+ "xinexpress-vn.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "road",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Hà Nội",
+   "Đà Nẵng",
+   "Hải Phòng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam truck line DDP 8-12 days, delivery HCMC/Hanoi/Da Nang/Haiphong",
+    "url": "http://www.xinexpress-vn.com/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Bằng chứng: Vietnam truck line DDP 8-12 days, delivery HCMC/Hanoi/Da Nang/Haiphong"
+ },
+ "5656o.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "road",
+   "sea"
+  ],
+  "vn_gateways": [
+   "Hà Nội",
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "20 years China→Vietnam line: road 2-3 days Hanoi, sea 10-12 days DDP",
+    "url": "http://www.5656o.com/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Bằng chứng: 20 years China→Vietnam line: road 2-3 days Hanoi, sea 10-12 days DDP"
+ },
+ "dg-joyocean.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "road",
+   "rail"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam double-clearance door delivery line",
+    "url": "https://www.dg-joyocean.com/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Vietnam double-clearance door delivery line"
+ },
+ "pacificstar-china.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "Hải Phòng",
+   "HCM",
+   "Hà Nội"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Group offices Star Concord (Viet Nam) in Haiphong, HCMC, Hanoi, Binh Duong",
+    "url": "https://www.pacificstar-china.com/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Group offices Star Concord (Viet Nam) in Haiphong, HCMC, Hanoi, Binh Duong"
+ },
+ "abgroupshipping.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Ocean freight page lists Ho Chi Minh → Houston lane",
+    "url": "https://www.abgroupshipping.com/services/ocean-freight.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Ocean freight page lists Ho Chi Minh → Houston lane"
+ },
+ "seattle3pl.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Mentions Vietnam↔Seattle freight",
+    "url": "https://seattle3pl.com/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Bằng chứng: Mentions Vietnam↔Seattle freight"
+ },
+ "rwfreight.co.uk": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "Hà Nội",
+   "Hải Phòng",
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam freight services page: to/from Hanoi, Haiphong, HCMC",
+    "url": "https://www.rwfreight.co.uk/vietnam-freight-services.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Vietnam freight services page: to/from Hanoi, Haiphong, HCMC"
+ },
+ "abadkr.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam business division / local entity",
+    "url": "https://www.abadkr.com/ko/sub/business5.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Vietnam business division / local entity"
+ },
+ "gnkglobal.co.kr": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam among service regions",
+    "url": "http://gnkglobal.co.kr/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Bằng chứng: Vietnam among service regions"
+ },
+ "dosung.co.kr": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "Hà Nội"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Hanoi branch listed in forwarder.kr directory",
+    "url": "https://www.forwarder.kr/biz/3237",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Hanoi branch listed in forwarder.kr directory"
+ },
+ "doora.co.kr": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated Vietnam desk (vn@doora.co.kr)",
+    "url": "https://www.doora.co.kr/?p=7f539c81-5ea8-4dc5-b23f-67d4cbc71c71",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Dedicated Vietnam desk (vn@doora.co.kr)"
+ },
+ "meiko-trans.co.jp": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam subsidiary with HCMC branch (news 2025-01)",
+    "url": "https://www.meiko-trans.co.jp/news280125-2",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Vietnam subsidiary with HCMC branch (news 2025-01)"
+ },
+ "sbs-nexthird.co.jp": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Hải Phòng",
+   "Đồng Nai"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam warehouses HCMC, Haiphong, Long Binh",
+    "url": "https://www.sbs-nexthird.co.jp/sbsnexd/logistics/global/vietnam/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Vietnam warehouses HCMC, Haiphong, Long Binh"
+ }
+}
