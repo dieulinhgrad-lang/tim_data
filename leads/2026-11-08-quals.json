@@ -1,0 +1,118 @@
+{
+ "topsealand.com": {
+  "score": 35,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Own Vietnam branch office in District 1, Ho Chi Minh City listed on contact page",
+  "recommended_services": [],
+  "outreach_angle": "Has HCMC branch: offer Haiphong/north VN",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-08: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "sglog-group.com": {
+  "score": 30,
+  "tier": "D",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Ho Chi Minh City office opened 2023",
+  "recommended_services": [],
+  "outreach_angle": "New HCMC office: offer north VN/Haiphong",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found",
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-08: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "yap56.com": {
+  "score": 58,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy cao). Bằng chứng: Vietnam double-clearance DDP line, door delivery HCMC/Hanoi/Haiphong/Da Nang/Can Tho, 7-12 days",
+  "recommended_services": [],
+  "outreach_angle": "DDP to VN: offer VN clearance & last-mile",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-08: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "pfcexpress.com": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Vietnam to China import service: general trade import, commercial express, pickup in Vietnam & export clearance",
+  "recommended_services": [],
+  "outreach_angle": "VN→CN import: offer VN pickup & export clearance",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-08: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "everglorylogistics.com": {
+  "score": 50,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy thấp). Bằng chứng: LA branch handles apparel shipments from China and Vietnam",
+  "recommended_services": [],
+  "outreach_angle": "VN apparel to US: offer VN origin consol",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-08: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "dfsworldwide.com": {
+  "score": 60,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Published FCL/LCL rates both UK→Vietnam and Vietnam→UK (HCMC, Haiphong, Da Nang)",
+  "recommended_services": [],
+  "outreach_angle": "Two-way UK-VN LCL: offer VN CFS/agency",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-08: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "stgl.co.in": {
+  "score": 58,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: FCL services in Vietnam for import and export cargo (HCMC, Hanoi, Da Nang, Haiphong, Can Tho)",
+  "recommended_services": [],
+  "outreach_angle": "IN-VN FCL: offer VN destination/origin agency",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-08: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "scanwell.in": {
+  "score": 45,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy thấp). Bằng chứng: Vietnam listed in Scanwell network",
+  "recommended_services": [],
+  "outreach_angle": "Offer VN agency",
+  "red_flags": [
+   "No public email found",
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-08: rubric scoring by Claude Code (mode B)"
+  ]
+ }
+}

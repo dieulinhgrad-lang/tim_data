@@ -1,0 +1,205 @@
+{
+ "topsealand.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Own Vietnam branch office in District 1, Ho Chi Minh City listed on contact page",
+    "url": "http://topsealand.com/contact",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Own Vietnam branch office in District 1, Ho Chi Minh City listed on contact page"
+ },
+ "sglog-group.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Ho Chi Minh City office opened 2023",
+    "url": "https://www.sglog-group.com/about.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Ho Chi Minh City office opened 2023"
+ },
+ "yap56.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "road",
+   "sea"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Hà Nội",
+   "Hải Phòng",
+   "Đà Nẵng",
+   "Cần Thơ"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam double-clearance DDP line, door delivery HCMC/Hanoi/Haiphong/Da Nang/Can Tho, 7-12 days",
+    "url": "http://www.yap56.com/news/detail/346",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Bằng chứng: Vietnam double-clearance DDP line, door delivery HCMC/Hanoi/Haiphong/Da Nang/Can Tho, 7-12 days"
+ },
+ "pfcexpress.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "air",
+   "sea",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam to China import service: general trade import, commercial express, pickup in Vietnam & export clearance",
+    "url": "https://www.pfcexpress.com/jinkou/vietnam.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Vietnam to China import service: general trade import, commercial express, pickup in Vietnam & export clearance"
+ },
+ "everglorylogistics.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "LA branch handles apparel shipments from China and Vietnam",
+    "url": "https://everglorylogistics.com/meet-branch-everglory-los-angeles/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy thấp). Bằng chứng: LA branch handles apparel shipments from China and Vietnam"
+ },
+ "dfsworldwide.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Hải Phòng",
+   "Đà Nẵng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Published FCL/LCL rates both UK→Vietnam and Vietnam→UK (HCMC, Haiphong, Da Nang)",
+    "url": "https://www.dfsworldwide.com/destinations/shipping-to-vietnam",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Published FCL/LCL rates both UK→Vietnam and Vietnam→UK (HCMC, Haiphong, Da Nang)"
+ },
+ "stgl.co.in": {
+  "direction": "both",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Hà Nội",
+   "Đà Nẵng",
+   "Hải Phòng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "FCL services in Vietnam for import and export cargo (HCMC, Hanoi, Da Nang, Haiphong, Can Tho)",
+    "url": "https://www.stgl.co.in/full-container-load-fcl-service-in-vietnam/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: FCL services in Vietnam for import and export cargo (HCMC, Hanoi, Da Nang, Haiphong, Can Tho)"
+ },
+ "scanwell.in": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam listed in Scanwell network",
+    "url": "https://scanwell.in/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Bằng chứng: Vietnam listed in Scanwell network"
+ }
+}
