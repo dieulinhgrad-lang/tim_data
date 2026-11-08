@@ -1,0 +1,101 @@
+{
+ "shenmaship.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "road",
+   "air",
+   "sea"
+  ],
+  "vn_gateways": [
+   "Hà Nội",
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam road DDP line: Hanoi 4-6 days, HCMC 7-9 working days, delivery across Vietnam",
+    "url": "https://shenmaship.com/zh-CN/services",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Bằng chứng: Vietnam road DDP line: Hanoi 4-6 days, HCMC 7-9 working days, delivery across Vietnam"
+ },
+ "weiningcargo.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam sea/land door-to-door double clearance line since 2015; weekly LCL to Vietnam",
+    "url": "https://www.weiningcargo.com/project/detail?id=1008",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Bằng chứng: Vietnam sea/land door-to-door double clearance line since 2015; weekly LCL to Vietnam"
+ },
+ "patnascm.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "road"
+  ],
+  "vn_gateways": [
+   "Đông Hưng",
+   "Hữu Nghị",
+   "Hà Nội",
+   "Hải Phòng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "China-Vietnam road line with Dongxing/Pingxiang branches and Hanoi/Haiphong service points",
+    "url": "http://www.patnascm.com/public/index/about/11.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: China-Vietnam road line with Dongxing/Pingxiang branches and Hanoi/Haiphong service points"
+ },
+ "cp-56.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam line door-to-door with customs clearance",
+    "url": "http://www.cp-56.com/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Vietnam line door-to-door with customs clearance"
+ }
+}
