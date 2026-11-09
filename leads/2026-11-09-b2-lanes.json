@@ -1,0 +1,710 @@
+{
+ "mingsung.com.tw": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Hà Nội",
+   "Hải Phòng",
+   "Đà Nẵng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Own Vietnam branch (Shanghai Minsheng Shipping Vietnam) HCMC/Hanoi/Haiphong; Taiwan-Vietnam two-way trade, 5-8 days transit",
+    "url": "https://www.mingsung.com.tw/service-network/asia-market/vietnam-market",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Own Vietnam branch (Shanghai Minsheng Shipping Vietnam) HCMC/Hanoi/Haiphong; Taiwan-Vietnam two-way trade, 5-8 days transit"
+ },
+ "iti-international.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Đà Nẵng",
+   "Hải Phòng",
+   "Hà Nội"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam offices in HCMC, Da Nang, Haiphong, Hanoi since 1995 linking Taiwan, South/North Vietnam and China",
+    "url": "https://www.iti-international.com/offices_vietnam.aspx",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Vietnam offices in HCMC, Da Nang, Haiphong, Hanoi since 1995 linking Taiwan, South/North Vietnam and China"
+ },
+ "clarefreight.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Hà Nội",
+   "Hải Phòng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Branches in Ho Chi Minh, Hanoi, Haiphong listed",
+    "url": "https://www.clarefreight.com/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Branches in Ho Chi Minh, Hanoi, Haiphong listed"
+ },
+ "twttwn.com.tw": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Subsidiary Transworld Transportation (Vietnam) in HCMC District 1",
+    "url": "http://www.twttwn.com.tw/contact.htm",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Subsidiary Transworld Transportation (Vietnam) in HCMC District 1"
+ },
+ "101logist.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Hải Phòng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam sea freight back to Taiwan from HCMC/Haiphong (LCL/FCL) and Taiwan→Vietnam",
+    "url": "https://101logist.com/services/VN/vn-sea",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Vietnam sea freight back to Taiwan from HCMC/Haiphong (LCL/FCL) and Taiwan→Vietnam"
+ },
+ "guship.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Business scope lists Southeast Asia incl. Vietnam",
+    "url": "http://www.guship.com/index_business.php",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Bằng chứng: Business scope lists Southeast Asia incl. Vietnam"
+ },
+ "cargo.sg": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "road"
+  ],
+  "vn_gateways": [
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "18 years Singapore–Vietnam corridor; sister company Cargo International Logistics Co. in HCMC",
+    "url": "https://cargo.sg/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: 18 years Singapore–Vietnam corridor; sister company Cargo International Logistics Co. in HCMC"
+ },
+ "transglobal.com.sg": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Hà Nội",
+   "Hải Phòng",
+   "Đà Nẵng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam to Singapore freight forwarder page (HCMC, Hanoi pickup; Haiphong, Da Nang, Cat Lai)",
+    "url": "https://www.transglobal.com.sg/freight-forwarder-vietnam-to-singapore/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Vietnam to Singapore freight forwarder page (HCMC, Hanoi pickup; Haiphong, Da Nang, Cat Lai)"
+ },
+ "addicongroup.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Hải Phòng",
+   "Hà Nội"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Addicon Vietnam since 2010 with HCMC, Haiphong, Hanoi branches",
+    "url": "https://addicongroup.com/about-us/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Addicon Vietnam since 2010 with HCMC, Haiphong, Hanoi branches"
+ },
+ "bsifreight.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "air",
+   "road",
+   "sea"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Hà Nội",
+   "Hải Phòng",
+   "Đà Nẵng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "China to Vietnam route page with Vietnam branch handling import clearance and delivery",
+    "url": "https://www.bsifreight.com/shipping-routes/shipping-from-china-to-vietnam",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: China to Vietnam route page with Vietnam branch handling import clearance and delivery"
+ },
+ "smp-global.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "HQ Singapore with office in Vietnam (SMP Logistics Vietnam, 2023)",
+    "url": "https://smp-global.com/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: HQ Singapore with office in Vietnam (SMP Logistics Vietnam, 2023)"
+ },
+ "wmlogistics.com.sg": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [
+   "Hải Phòng",
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Sea freight coverage incl. Haiphong and Ho Chi Minh with listed Vietnam agents",
+    "url": "https://wmlogistics.com.sg/our-services/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Sea freight coverage incl. Haiphong and Ho Chi Minh with listed Vietnam agents"
+ },
+ "gelines.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "Hà Nội",
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "GE Lines Vietnam offices in Hanoi and Ho Chi Minh City",
+    "url": "https://gelines.com/our-network/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: GE Lines Vietnam offices in Hanoi and Ho Chi Minh City"
+ },
+ "sgl.co.th": {
+  "direction": "import_to_vn",
+  "modes": [
+   "road",
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "Lao Bảo"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Cross-border transport Thailand→Vietnam via Laos with customs clearance",
+    "url": "https://www.sgl.co.th/en/our-services/transportation/crossing-borders",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Cross-border transport Thailand→Vietnam via Laos with customs clearance"
+ },
+ "sagawa.co.th": {
+  "direction": "both",
+  "modes": [
+   "road",
+   "sea"
+  ],
+  "vn_gateways": [
+   "Hà Nội",
+   "HCM",
+   "Đà Nẵng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Weekly Thailand⇄Vietnam cross-border, Bangkok–Hanoi/HCMC/Da Nang transit 2-4 days",
+    "url": "https://www.sagawa.co.th/services/cross-border/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Bằng chứng: Weekly Thailand⇄Vietnam cross-border, Bangkok–Hanoi/HCMC/Da Nang transit 2-4 days"
+ },
+ "scgjwd.com": {
+  "direction": "both",
+  "modes": [
+   "road",
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Hải Phòng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Thailand–Vietnam transport and SCGJWD Vietnam operations (Transimex partner)",
+    "url": "https://www.scgjwd.com/services/logistics-supply-chain-overseas/vietnam",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Thailand–Vietnam transport and SCGJWD Vietnam operations (Transimex partner)"
+ },
+ "thaiglobalfreight.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Hải Phòng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Thailand→Vietnam route page: Laem Chabang to Cat Lai/Hai Phong, air to SGN/HAN",
+    "url": "https://www.thaiglobalfreight.com/en/shipping/thailand-to-vietnam",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Thailand→Vietnam route page: Laem Chabang to Cat Lai/Hai Phong, air to SGN/HAN"
+ },
+ "pkinterfreight.co.th": {
+  "direction": "unknown",
+  "modes": [
+   "road",
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Cross-border transportation across Thailand, Laos, Myanmar, Cambodia, Vietnam, Malaysia",
+    "url": "https://pkinterfreight.co.th/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Bằng chứng: Cross-border transportation across Thailand, Laos, Myanmar, Cambodia, Vietnam, Malaysia"
+ },
+ "apc.co.th": {
+  "direction": "unknown",
+  "modes": [
+   "road",
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Cross-border trucking incl. Vietnam (FTL/groupage)",
+    "url": "https://apc.co.th/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Bằng chứng: Cross-border trucking incl. Vietnam (FTL/groupage)"
+ },
+ "siam-shipping.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Cross-border transport into Vietnam among services",
+    "url": "https://siam-shipping.com/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Bằng chứng: Cross-border transport into Vietnam among services"
+ },
+ "chiefoversea.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "road",
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Transit/transhipment customs to Vietnam among CLMV countries",
+    "url": "https://www.chiefoversea.com/th-services",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy thấp). Bằng chứng: Transit/transhipment customs to Vietnam among CLMV countries"
+ },
+ "thanalogisticsth.com": {
+  "direction": "unknown",
+  "modes": [
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Logistics services in Thailand, Laos, Vietnam and China",
+    "url": "https://www.thanalogisticsth.com/home/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Bằng chứng: Logistics services in Thailand, Laos, Vietnam and China"
+ },
+ "vr168logistics.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Thai fruit export to Vietnam-China via R9/R12 through Laos",
+    "url": "https://www.vr168logistics.com/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Thai fruit export to Vietnam-China via R9/R12 through Laos"
+ },
+ "tnslog.com": {
+  "direction": "both",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Hải Phòng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Malaysia–Vietnam FCL both directions, Port Klang→HCMC 3-4 days, →Haiphong 4-5 days",
+    "url": "https://tnslog.com/sea-freight-malaysia-to-vietnam/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Bằng chứng: Malaysia–Vietnam FCL both directions, Port Klang→HCMC 3-4 days, →Haiphong 4-5 days"
+ },
+ "detopsexpress.com": {
+  "direction": "both",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam listed as export destination and import origin",
+    "url": "https://detopsexpress.com/fcl-shipment/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy thấp). Bằng chứng: Vietnam listed as export destination and import origin"
+ },
+ "jglww.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Hải Phòng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Group offices in Ho Chi Minh City and Hai Phong alongside Penang/Klang",
+    "url": "https://jglww.com/contact-us/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Group offices in Ho Chi Minh City and Hai Phong alongside Penang/Klang"
+ },
+ "fukutsu.com.my": {
+  "direction": "unknown",
+  "modes": [
+   "road",
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Cross-border road freight extending into Laos, Cambodia and Vietnam",
+    "url": "https://fukutsu.com.my/services/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Bằng chứng: Cross-border road freight extending into Laos, Cambodia and Vietnam"
+ },
+ "kgwlogistics.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "KGW Vietnam office established 2019",
+    "url": "https://www.kgwlogistics.com/about-us/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: KGW Vietnam office established 2019"
+ }
+}
