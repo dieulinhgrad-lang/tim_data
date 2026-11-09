@@ -8,12 +8,16 @@ lane_providers = ["gemini", "claude"]
 min_score_for_draft = 55
 
 [quota]
-china = 15
-us_transpacific = 6
-japan = 5
-korea = 5
-germany_sea_air = 4
-australia = 4
-india = 4
-uk = 4
-netherlands_belgium = 3
+china = 10
+taiwan = 4
+singapore = 4
+thailand = 4
+malaysia = 4
+us_transpacific = 4
+japan = 3
+korea = 3
+germany_sea_air = 3
+australia = 3
+india = 3
+uk = 3
+netherlands_belgium = 2

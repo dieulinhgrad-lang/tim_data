@@ -71,6 +71,10 @@ Với mỗi thị trường trong `[quota]` (đi theo thứ tự, mỗi thị tr
    - Nhật: `ベトナム 輸入 フォワーダー`
    - Hàn: `베트남 포워딩`
    - Đức: `Spedition Vietnam Seefracht`
+   - Đài Loan: `越南 海運 承攬`, `台灣 越南 物流 報關`
+   - Singapore: `Singapore freight forwarder Vietnam LCL consolidation`
+   - Thái Lan: `ขนส่งสินค้า เวียดนาม`, `Thailand Vietnam cross-border trucking`
+   - Malaysia: `penghantaran Vietnam`, `Port Klang Vietnam freight forwarder`
 
    Dùng thêm danh sách thành viên hiệp hội và danh sách đơn vị tham gia hội chợ ghi trong `preferred_sources`.
 2. Với mỗi ứng viên: lấy tên miền, bỏ qua nếu nằm trong KNOWN hoặc đã thấy hôm nay.

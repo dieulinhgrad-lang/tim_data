@@ -77,3 +77,56 @@ focus = "Indian forwarders with Vietnam/ASEAN lanes, project cargo and break-bul
 target_count = 10
 cities = ["Mumbai", "Chennai", "Delhi", "Kolkata"]
 preferred_sources = ["FFFAI member directory"]
+
+[campaigns.taiwan]
+country = "Taiwan"
+focus = """Taiwanese forwarders / NVOCCs (海運承攬、貨運代理) with Taiwan <-> Vietnam sea/air services (Keelung, \
+Taichung, Kaohsiung <-> Haiphong / HCMC), especially those serving Taiwanese manufacturers in Vietnam \
+(台商, textile, footwear, electronics, machinery). Search in English AND Traditional Chinese (e.g. 越南 海運 承攬, \
+台灣 越南 物流, 越南 報關 代理). Note if they already own a Vietnam branch."""
+target_count = 10
+cities = ["Taipei", "Taoyuan", "Taichung", "Kaohsiung", "Keelung"]
+preferred_sources = [
+  "Official company websites with a Vietnam service page",
+  "Taiwan Int'l Freight Forwarders Association (IFFA) public member info",
+  "Public WCA / JCtrans directory pages (only to discover the company; record its own website)",
+]
+
+[campaigns.singapore]
+country = "Singapore"
+focus = """Singapore-based forwarders, NVOCCs and transhipment/consolidation hubs with Vietnam lanes \
+(Singapore <-> Haiphong / HCMC / Da Nang LCL consolidation, sea-air, cross-border trucking to Vietnam). \
+Exclude companies headquartered in Vietnam. Note if they already own a Vietnam branch."""
+target_count = 10
+cities = ["Singapore"]
+preferred_sources = [
+  "Official company websites with a Vietnam service page",
+  "SLA (Singapore Logistics Association) public member info",
+  "Public WCA / JCtrans directory pages (only to discover the company; record its own website)",
+]
+
+[campaigns.thailand]
+country = "Thailand"
+focus = """Thai forwarders / customs brokers with Thailand <-> Vietnam lanes: sea (Laem Chabang / Bangkok <-> \
+HCMC / Haiphong), cross-border trucking via Laos/Cambodia (R9 / EWEC, Mukdahan-Savannakhet-Lao Bao, R12) \
+and air. Search in English AND Thai (e.g. ขนส่งสินค้า เวียดนาม, ชิปปิ้ง เวียดนาม). Note if they already own a Vietnam branch."""
+target_count = 10
+cities = ["Bangkok", "Laem Chabang", "Chonburi", "Mukdahan", "Nakhon Phanom"]
+preferred_sources = [
+  "Official company websites with a Vietnam service page",
+  "TIFFA (Thai International Freight Forwarders Association) public member info",
+  "Public WCA / JCtrans directory pages (only to discover the company; record its own website)",
+]
+
+[campaigns.malaysia]
+country = "Malaysia"
+focus = """Malaysian forwarders / NVOCCs with Malaysia <-> Vietnam lanes (Port Klang / Penang / Pasir Gudang <-> \
+HCMC / Haiphong LCL & FCL, air, cross-border trucking via Thailand/Cambodia). Search in English and Malay \
+(e.g. penghantaran Vietnam, ejen penghantaran Vietnam). Note if they already own a Vietnam branch."""
+target_count = 10
+cities = ["Kuala Lumpur", "Port Klang", "Penang", "Johor Bahru", "Pasir Gudang"]
+preferred_sources = [
+  "Official company websites with a Vietnam service page",
+  "FMFF (Federation of Malaysian Freight Forwarders) public member info",
+  "Public WCA / JCtrans directory pages (only to discover the company; record its own website)",
+]
