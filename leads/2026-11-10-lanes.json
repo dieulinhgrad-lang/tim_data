@@ -1,0 +1,608 @@
+{
+ "dgca56.com": {
+  "direction": "both",
+  "modes": [
+   "road",
+   "air"
+  ],
+  "vn_gateways": [
+   "Đông Hưng",
+   "Hữu Nghị",
+   "Hà Nội",
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "China↔Vietnam round-trip line; truck to Hanoi 4 days, HCMC 7-8 days; branches in Dongxing/Pingxiang",
+    "url": "http://dgca56.com/guojiwuliu.php?id=31",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Bằng chứng: China↔Vietnam round-trip line; truck to Hanoi 4 days, HCMC 7-8 days; branches in Dongxing/Pingxiang"
+ },
+ "donho56.com": {
+  "direction": "both",
+  "modes": [
+   "road",
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "Hải Phòng",
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Own branches in Haiphong and HCMC; Vietnam sea/road DDP and Vietnam-origin global forwarding",
+    "url": "https://www.donho56.com/service/8.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Own branches in Haiphong and HCMC; Vietnam sea/road DDP and Vietnam-origin global forwarding"
+ },
+ "yuncargo.cn": {
+  "direction": "import_to_vn",
+  "modes": [
+   "road",
+   "sea"
+  ],
+  "vn_gateways": [
+   "Đông Hưng",
+   "Hà Nội"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam sea/road double-clearance line via Pingxiang/Dongxing to Hanoi, delivery nationwide",
+    "url": "https://www.yuncargo.cn/vietnam-shipping-ddp/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Bằng chứng: Vietnam sea/road double-clearance line via Pingxiang/Dongxing to Hanoi, delivery nationwide"
+ },
+ "szssscm.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "road",
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "China–Vietnam road/sea double clearance door-to-door incl. formal customs and DG/chemicals",
+    "url": "https://www.szssscm.com/h-col-116.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Bằng chứng: China–Vietnam road/sea double clearance door-to-door incl. formal customs and DG/chemicals"
+ },
+ "dtimp.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "road",
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "Hữu Nghị",
+   "Hà Nội",
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "China to Vietnam line: Youyiguan/Pingxiang road 2-4 days north, 6-8 days south; sea and air",
+    "url": "https://www.dtimp.com/new/2260.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: China to Vietnam line: Youyiguan/Pingxiang road 2-4 days north, 6-8 days south; sea and air"
+ },
+ "funuosupplychain.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "road",
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "Hữu Nghị",
+   "Hà Nội",
+   "HCM",
+   "Hải Phòng",
+   "Đà Nẵng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam line via Dongguan–Pingxiang–Hanoi–HCMC; sea to HCMC/Haiphong/Hanoi/Da Nang",
+    "url": "http://www.funuosupplychain.com/index.php/about-57",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Vietnam line via Dongguan–Pingxiang–Hanoi–HCMC; sea to HCMC/Haiphong/Hanoi/Da Nang"
+ },
+ "grandtravelonline.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Hà Nội",
+   "Hải Phòng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Weekly Taiwan→Vietnam LCL DDP door service (Keelung/Taichung/Kaohsiung to HCMC/Hanoi/Haiphong), ~12 days",
+    "url": "https://grandtravelonline.com/forwarder/vietnam.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Bằng chứng: Weekly Taiwan→Vietnam LCL DDP door service (Keelung/Taichung/Kaohsiung to HCMC/Hanoi/Haiphong), ~12 days"
+ },
+ "loxson.com.tw": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "Hà Nội",
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Group subsidiary ADP Loxson Viet Nam in Hanoi and HCMC",
+    "url": "https://www.loxson.com.tw/?lang=cn",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Group subsidiary ADP Loxson Viet Nam in Hanoi and HCMC"
+ },
+ "visionexpress.com.tw": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "Hà Nội",
+   "Hải Phòng",
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Offices in Hanoi, Haiphong, HCMC listed",
+    "url": "http://www.visionexpress.com.tw/lalitw/index_FRLS.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Offices in Hanoi, Haiphong, HCMC listed"
+ },
+ "t3ex-group.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Group members T.H.I. Group Vietnam and TEC Logistics Vietnam",
+    "url": "https://www.t3ex-group.com/About/Index",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Group members T.H.I. Group Vietnam and TEC Logistics Vietnam"
+ },
+ "dimerco.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [
+   "Hà Nội",
+   "Hải Phòng",
+   "Đà Nẵng",
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dimerco Vietnam since 1995 (Hanoi, Haiphong, Da Nang, HCMC); cross-border trucking to/from China",
+    "url": "https://cn.dimerco.com/global-logistics-network/vietnam-freight-forwarders/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Dimerco Vietnam since 1995 (Hanoi, Haiphong, Da Nang, HCMC); cross-border trucking to/from China"
+ },
+ "greenlanesc.com": {
+  "direction": "both",
+  "modes": [
+   "road",
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Cross-border trucking Singapore to Malaysia, Thailand, Cambodia, Laos, Vietnam and China vice-versa",
+    "url": "https://greenlanesc.com/What-We-Do",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy thấp). Bằng chứng: Cross-border trucking Singapore to Malaysia, Thailand, Cambodia, Laos, Vietnam and China vice-versa"
+ },
+ "nexuscargo.co": {
+  "direction": "import_to_vn",
+  "modes": [
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Forwarding specialising in door-to-door services to Vietnam since 2005",
+    "url": "https://nexuscargo.co/nx_about",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Forwarding specialising in door-to-door services to Vietnam since 2005"
+ },
+ "mitsui-soko.sg": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Cross-border service to Malaysia, Thailand, Cambodia, Vietnam & China",
+    "url": "https://www.mitsui-soko.sg/services/freight-forwarder",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Bằng chứng: Cross-border service to Malaysia, Thailand, Cambodia, Vietnam & China"
+ },
+ "tvctransport.co.th": {
+  "direction": "both",
+  "modes": [
+   "road"
+  ],
+  "vn_gateways": [
+   "Hà Nội",
+   "Lạng Sơn",
+   "Móng Cái",
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Network incl. Hanoi, Lang Son, Mong Cai, HCMC offices (Thai Viet China Transport)",
+    "url": "https://www.tvctransport.co.th/regional-network",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Network incl. Hanoi, Lang Son, Mong Cai, HCMC offices (Thai Viet China Transport)"
+ },
+ "amazing-lsc.com": {
+  "direction": "unknown",
+  "modes": [
+   "road",
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Hà Nội"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "JV offices ADS Amazing Logistics Vietnam (HCMC) and Andashun Amazing (Hanoi)",
+    "url": "https://www.amazing-lsc.com/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: JV offices ADS Amazing Logistics Vietnam (HCMC) and Andashun Amazing (Hanoi)"
+ },
+ "speedth.com": {
+  "direction": "both",
+  "modes": [
+   "road",
+   "rail"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Cross-border export between Thailand, Laos, Vietnam, China and return cargo into Thailand",
+    "url": "https://www.speedth.com/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Cross-border export between Thailand, Laos, Vietnam, China and return cargo into Thailand"
+ },
+ "v-servelogistics.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "road"
+  ],
+  "vn_gateways": [
+   "Lao Bảo",
+   "Đà Nẵng",
+   "Hà Nội"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Thai exports to Vietnam via Mukdahan–Savannakhet–Lao Bao to Hue/Da Nang/Vinh/Hanoi",
+    "url": "https://www.v-servelogistics.com/media/vserve2017/vservenewlists_th_2017.php?qid=1560",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Thai exports to Vietnam via Mukdahan–Savannakhet–Lao Bao to Hue/Da Nang/Vinh/Hanoi"
+ },
+ "petcharoenkit.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Cross-border Thailand–Laos–Vietnam via Nakhon Phanom, Mukdahan, Bueng Kan",
+    "url": "https://www.petcharoenkit.com/product/61939-81739/cross-border-freight-transport-service-thailandlaosvietnam",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Cross-border Thailand–Laos–Vietnam via Nakhon Phanom, Mukdahan, Bueng Kan"
+ },
+ "tara-asia.com": {
+  "direction": "unknown",
+  "modes": [
+   "road",
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Cross-border service expanded to Vietnam and China",
+    "url": "https://www.tara-asia.com/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Bằng chứng: Cross-border service expanded to Vietnam and China"
+ },
+ "teglogistics.co.th": {
+  "direction": "both",
+  "modes": [
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Cross-border routes Thailand–Vietnam and China–Vietnam",
+    "url": "https://teglogistics.co.th/services/cross-border/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy thấp). Bằng chứng: Cross-border routes Thailand–Vietnam and China–Vietnam"
+ },
+ "ktclogistics.co.th": {
+  "direction": "import_to_vn",
+  "modes": [
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Thailand–Vietnam cross-border trucking route offered (via transit)",
+    "url": "https://ktclogistics.co.th/services/cross-border/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy thấp). Bằng chứng: Thailand–Vietnam cross-border trucking route offered (via transit)"
+ },
+ "otlsb.com": {
+  "direction": "both",
+  "modes": [
+   "road"
+  ],
+  "vn_gateways": [
+   "Bắc Ninh",
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "LTL across Malaysia, Thailand, Vietnam; bonded warehouses at ICD Tien Son (Bac Ninh) and ICD Transimex (HCMC)",
+    "url": "https://www.otlsb.com/ltl-services/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: LTL across Malaysia, Thailand, Vietnam; bonded warehouses at ICD Tien Son (Bac Ninh) and ICD Transimex (HCMC)"
+ },
+ "yoongmei.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "road",
+   "sea"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Import services from Vietnam and cross-border lorry routes incl. Vietnam",
+    "url": "https://yoongmei.com/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Import services from Vietnam and cross-border lorry routes incl. Vietnam"
+ }
+}
