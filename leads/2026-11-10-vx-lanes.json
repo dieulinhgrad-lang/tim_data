@@ -1,0 +1,793 @@
+{
+ "hartlogistic.com": {
+  "direction": "both",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Door-to-door China→Vietnam under DDP/DDU; shipping from Vietnam to China also stated",
+    "url": "https://www.hartlogistic.com/shipping-from-china-to-vietnam/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Door-to-door China→Vietnam under DDP/DDU; shipping from Vietnam to China also stated"
+ },
+ "senghorshipping.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Shipments from Vietnam and other SE Asian countries to USA and Europe",
+    "url": "https://www.senghorshipping.com/from-vietnam-to/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Shipments from Vietnam and other SE Asian countries to USA and Europe"
+ },
+ "rragroup.ca": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "FCL/LCL ocean freight Vietnam→Canada incl. origin coordination, export docs, customs clearance, drayage, inland delivery",
+    "url": "https://www.rragroup.ca/compliance-certifications/ https://www.rragroup.ca/trade-lanes/vietnam-to-canada/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: FCL/LCL ocean freight Vietnam→Canada incl. origin coordination, export docs, customs clearance, drayage, inland delivery"
+ },
+ "venax.net": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "road"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Hải Phòng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Sea containers Vietnam→Poland, loading Ho Chi Minh/Haiphong to Gdansk/Gdynia",
+    "url": "https://venax.net/en/sea-container-from-vietnam/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Sea containers Vietnam→Poland, loading Ho Chi Minh/Haiphong to Gdansk/Gdynia"
+ },
+ "balancedlogistics.fi": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Air and sea freight between Finland and Vietnam incl. shipping from Vietnam to Finland",
+    "url": "https://balancedlogistics.fi/freight-finland-to-vietnam/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Air and sea freight between Finland and Vietnam incl. shipping from Vietnam to Finland"
+ },
+ "united-logistics.de": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air",
+   "rail"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Asian sea-freight imports with listed Vietnam network partners in Haiphong, Hanoi, HCMC",
+    "url": "https://www.united-logistics.de/en/about-us/network-partner",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy thấp). Bằng chứng: Asian sea-freight imports with listed Vietnam network partners in Haiphong, Hanoi, HCMC"
+ },
+ "scorejp.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Door-to-door air shipping Vietnam→Japan (Vietnamese-language page)",
+    "url": "https://www.scorejp.com/about.html https://www.scorejp.com/viet/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Door-to-door air shipping Vietnam→Japan (Vietnamese-language page)"
+ },
+ "wwcf.com.au": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Furniture import guide names Vietnam as origin; customs clearance, biosecurity, delivery into Australia",
+    "url": "https://www.wwcf.com.au/customs-broker-sydney/ https://www.wwcf.com.au/importing-furniture-to-australia/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy thấp). Bằng chứng: Furniture import guide names Vietnam as origin; customs clearance, biosecurity, delivery into Australia"
+ },
+ "falconfreight.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Sea and air freight Vietnam→India incl. door-to-door and import clearance",
+    "url": "https://falconfreight.com/best-freight-rates-from-vietnam-to-india/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Sea and air freight Vietnam→India incl. door-to-door and import clearance"
+ },
+ "pioneer.co.th": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Cross-border road transport covering Vietnam and other Asian countries",
+    "url": "https://www.pioneer.co.th/services/services/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy thấp). Bằng chứng: Cross-border road transport covering Vietnam and other Asian countries"
+ },
+ "dvclogistics.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Domestic and cross-border trucking with Vietnam and Thailand from Phnom Penh Dry Port",
+    "url": "http://www.dvclogistics.com/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Domestic and cross-border trucking with Vietnam and Thailand from Phnom Penh Dry Port"
+ },
+ "power-link.com.cn": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air",
+   "rail"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Door-to-door DDP into Vietnam (Vietnam in DDP destination list)",
+    "url": "https://power-link.com.cn/about-us/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Door-to-door DDP into Vietnam (Vietnam in DDP destination list)"
+ },
+ "gwtworldwide.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air",
+   "rail"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "China–Vietnam both ways: export Vietnam→China and DDP delivery into Vietnam",
+    "url": "https://gwtworldwide.com/ https://gwtworldwide.com/shipping-from-china-to-vietnam/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Bằng chứng: China–Vietnam both ways: export Vietnam→China and DDP delivery into Vietnam"
+ },
+ "forestleopard.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "China→Vietnam air DDP and sea LCL DDP with customs clearance and final delivery incl. HCMC",
+    "url": "https://forestleopard.com/knowledgedetail/2026-china-to-vietnam-b2b-ecommerce-air-sea-ddp-hs-code-customs",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Bằng chứng: China→Vietnam air DDP and sea LCL DDP with customs clearance and final delivery incl. HCMC"
+ },
+ "focusglobal-logistics.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air",
+   "road",
+   "rail"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "DDP air-sea-rail transport China→Vietnam (service page title)",
+    "url": "https://www.focusglobal-logistics.com/certification/ https://www.focusglobal-logistics.com/ddp-air-sea-rail-transport-from-china-to-europe-indonesia-vietnam-cambodia-singapore-factory-product/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: DDP air-sea-rail transport China→Vietnam (service page title)"
+ },
+ "ducis.cl": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Hải Phòng",
+   "Đà Nẵng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Lists Vietnam (HCMC, Haiphong, Da Nang) as import-origin market to Chile, 35–45 days ocean",
+    "url": "https://ducis.cl/agentes/ https://ducis.cl/en/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Lists Vietnam (HCMC, Haiphong, Da Nang) as import-origin market to Chile, 35–45 days ocean"
+ },
+ "amtrans.com.br": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Tire-import guide names Vietnam as source of Brazil imports; maritime import logistics",
+    "url": "https://amtrans.com.br/solucoes/pt/ https://amtrans.com.br/post/importacao-de-pneus-no-brasil-exigencias-impostos-logistica-e-cuidados-na-operacao/pt/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy thấp). Bằng chứng: Tire-import guide names Vietnam as source of Brazil imports; maritime import logistics"
+ },
+ "asianausa.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Article on shipping/importing Vietnam→USA; sister site valdivialogistics.com describes Vietnam origin teams and FOB-to-DDP",
+    "url": "https://www.asianausa.com/company/ https://www.asianausa.com/shipping-importing-from-vietnam-us/ https://www.valdivialogistics.com/services/freight-forwarding-service/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Article on shipping/importing Vietnam→USA; sister site valdivialogistics.com describes Vietnam origin teams and FOB-to-DDP"
+ },
+ "worldcraftlogistics.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Hải Phòng",
+   "Đà Nẵng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Sea and air freight Vietnam→USA with origin tables for HCMC, Haiphong, Da Nang",
+    "url": "https://worldcraftlogistics.com/forms/WCL-Brochure-2025.pdf https://worldcraftlogistics.com/blog/shipping/shipping-from-vietnam-to-the-united-states-reduce-time-cost",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy cao). Bằng chứng: Sea and air freight Vietnam→USA with origin tables for HCMC, Haiphong, Da Nang"
+ },
+ "americannewlogistics.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Freight Vietnam→USA connected to US warehousing, inland logistics, final delivery",
+    "url": "https://www.americannewlogistics.com/about/certifications https://www.americannewlogistics.com/services/trade-lanes",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Freight Vietnam→USA connected to US warehousing, inland logistics, final delivery"
+ },
+ "approvedforwarders.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Asia→USA shipping guide explicitly covers Vietnam and Ho Chi Minh City–US West Coast ocean freight",
+    "url": "https://www.approvedforwarders.com/why-freight-forwarders-join-professional-orgs-and-what-that-means-for-you/ https://www.approvedforwarders.com/ship-freight-from-asia-to-usa/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Asia→USA shipping guide explicitly covers Vietnam and Ho Chi Minh City–US West Coast ocean freight"
+ },
+ "coppersmith.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Forwarding support for US importers sourcing from Vietnam: air/ocean, consolidation, customs",
+    "url": "https://www.coppersmith.com/coppersmith-attends-wca/ https://www.coppersmith.com/supply-chain-resilience-asia/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy thấp). Bằng chứng: Forwarding support for US importers sourcing from Vietnam: air/ocean, consolidation, customs"
+ },
+ "freightright.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Explicit Vietnam→US transpacific lane, ocean FCL/LCL and air",
+    "url": "https://www.freightright.com/network https://www.freightright.com/solution/transpacific-freight-forwarding-services",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Explicit Vietnam→US transpacific lane, ocean FCL/LCL and air"
+ },
+ "cargomind.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air",
+   "rail"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "China office page describes rail projects incl. shipments from Vietnam to Europe",
+    "url": "https://www.cargomind.com/en https://www.cargomind.com/en/locations/china",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy thấp). Bằng chứng: China office page describes rail projects incl. shipments from Vietnam to Europe"
+ },
+ "wavelogistic.cz": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air",
+   "road",
+   "rail"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Sea-freight page cites containers of textiles shipped from Vietnam with import clearance",
+    "url": "https://www.wavelogistic.cz/en/about-us/t1218 https://www.wavelogistic.cz/namorni-a-lodni-doprava/s1053",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy thấp). Bằng chứng: Sea-freight page cites containers of textiles shipped from Vietnam with import clearance"
+ },
+ "cigisped.it": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Hải Phòng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Cross-trade network incl. Vietnam (HCMC, Haiphong) and Europe",
+    "url": "https://www.cigisped.it/en/2025/03/26/decima-conferenza-annuale-wca-a-singapore-4-8-marzo-2018/ https://www.cigisped.it/en/cross-trade-and-international-destinations-for-logistics/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy thấp). Bằng chứng: Cross-trade network incl. Vietnam (HCMC, Haiphong) and Europe"
+ },
+ "steamship.pt": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Operates Asia–Europe and SE Asia trade with offices incl. Vietnam",
+    "url": "https://www.steamship.pt/about-us/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Operates Asia–Europe and SE Asia trade with offices incl. Vietnam"
+ },
+ "cargonepal.com.np": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Routes article includes Vietnam under SE Asia→Nepal imports",
+    "url": "https://www.cargonepal.com.np/page/3/commitment-to-quality https://cargonepal.com.np/blog/118/cheapest-vs-most-expensive-shipping-routes-in-2026",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy thấp). Bằng chứng: Routes article includes Vietnam under SE Asia→Nepal imports"
+ },
+ "ads-intl.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Imports into Malaysia with Vietnam listed among established inbound origins",
+    "url": "https://ads-intl.com/services/freight-forwarding-malaysia/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Imports into Malaysia with Vietnam listed among established inbound origins"
+ },
+ "t-ocean.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam listed among SE Asian destinations with DDU/DDP one-stop service; Nanning branch",
+    "url": "http://www.t-ocean.com/en/Content/2692174.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy thấp). Bằng chứng: Vietnam listed among SE Asian destinations with DDU/DDP one-stop service; Nanning branch"
+ },
+ "cai-airsea.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam↔China Mainland import/export lane with DAP/DDU/DDP, customs clearance, door-to-door",
+    "url": "https://www.cai-airsea.com/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Bằng chứng: Vietnam↔China Mainland import/export lane with DAP/DDU/DDP, customs clearance, door-to-door"
+ },
+ "jieyuantj.com": {
+  "direction": "both",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Cát Lái"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Import/export between Tianjin Xingang, Qingdao, Shanghai and Cat Lai HCMC; DDU/DAP/DDP handling",
+    "url": "https://www.jieyuantj.com/ocean-0057.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Bằng chứng: Import/export between Tianjin Xingang, Qingdao, Shanghai and Cat Lai HCMC; DDU/DAP/DDP handling"
+ },
+ "seabaycargo.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Company profile accepts shipments departing from Vietnam; DDP/DDU services",
+    "url": "https://www.seabaycargo.com/help/aboutus.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Company profile accepts shipments departing from Vietnam; DDP/DDU services"
+ }
+}

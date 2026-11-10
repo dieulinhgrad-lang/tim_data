@@ -1,0 +1,426 @@
+{
+ "hartlogistic.com": {
+  "score": 85,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Door-to-door China→Vietnam under DDP/DDU; shipping from Vietnam to China also stated",
+  "recommended_services": [],
+  "outreach_angle": "Two-way VN lane: offer VN origin & destination handling both ways",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "senghorshipping.com": {
+  "score": 80,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Shipments from Vietnam and other SE Asian countries to USA and Europe",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-Vietnam: offer VN origin pickup, export customs & consolidation",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "rragroup.ca": {
+  "score": 80,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: FCL/LCL ocean freight Vietnam→Canada incl. origin coordination, export docs, customs clearance, drayage, inland delivery",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-Vietnam: offer VN origin pickup, export customs & consolidation",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "venax.net": {
+  "score": 80,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Sea containers Vietnam→Poland, loading Ho Chi Minh/Haiphong to Gdansk/Gdynia",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-Vietnam: offer VN origin pickup, export customs & consolidation",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "balancedlogistics.fi": {
+  "score": 85,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Air and sea freight between Finland and Vietnam incl. shipping from Vietnam to Finland",
+  "recommended_services": [],
+  "outreach_angle": "Two-way VN lane: offer VN origin & destination handling both ways",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "united-logistics.de": {
+  "score": 70,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy thấp). Bằng chứng: Asian sea-freight imports with listed Vietnam network partners in Haiphong, Hanoi, HCMC",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-Vietnam: offer VN origin pickup, export customs & consolidation",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "scorejp.com": {
+  "score": 75,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Door-to-door air shipping Vietnam→Japan (Vietnamese-language page)",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-Vietnam: offer VN origin pickup, export customs & consolidation",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "wwcf.com.au": {
+  "score": 70,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy thấp). Bằng chứng: Furniture import guide names Vietnam as origin; customs clearance, biosecurity, delivery into Australia",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-Vietnam: offer VN origin pickup, export customs & consolidation",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "falconfreight.com": {
+  "score": 80,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Sea and air freight Vietnam→India incl. door-to-door and import clearance",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-Vietnam: offer VN origin pickup, export customs & consolidation",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "pioneer.co.th": {
+  "score": 85,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy thấp). Bằng chứng: Cross-border road transport covering Vietnam and other Asian countries",
+  "recommended_services": [],
+  "outreach_angle": "Two-way VN lane: offer VN origin & destination handling both ways",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "dvclogistics.com": {
+  "score": 85,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Domestic and cross-border trucking with Vietnam and Thailand from Phnom Penh Dry Port",
+  "recommended_services": [],
+  "outreach_angle": "Two-way VN lane: offer VN origin & destination handling both ways",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "power-link.com.cn": {
+  "score": 75,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Door-to-door DDP into Vietnam (Vietnam in DDP destination list)",
+  "recommended_services": [],
+  "outreach_angle": "DDU/DDP into Vietnam: offer VN import clearance & last-mile delivery",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "gwtworldwide.com": {
+  "score": 80,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Bằng chứng: China–Vietnam both ways: export Vietnam→China and DDP delivery into Vietnam",
+  "recommended_services": [],
+  "outreach_angle": "Two-way VN lane: offer VN origin & destination handling both ways",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "forestleopard.com": {
+  "score": 80,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy cao). Bằng chứng: China→Vietnam air DDP and sea LCL DDP with customs clearance and final delivery incl. HCMC",
+  "recommended_services": [],
+  "outreach_angle": "DDU/DDP into Vietnam: offer VN import clearance & last-mile delivery",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "focusglobal-logistics.com": {
+  "score": 80,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy trung bình). Bằng chứng: DDP air-sea-rail transport China→Vietnam (service page title)",
+  "recommended_services": [],
+  "outreach_angle": "DDU/DDP into Vietnam: offer VN import clearance & last-mile delivery",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "ducis.cl": {
+  "score": 80,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Lists Vietnam (HCMC, Haiphong, Da Nang) as import-origin market to Chile, 35–45 days ocean",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-Vietnam: offer VN origin pickup, export customs & consolidation",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "amtrans.com.br": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy thấp). Bằng chứng: Tire-import guide names Vietnam as source of Brazil imports; maritime import logistics",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-Vietnam: offer VN origin pickup, export customs & consolidation",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "asianausa.com": {
+  "score": 80,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Article on shipping/importing Vietnam→USA; sister site valdivialogistics.com describes Vietnam origin teams and FOB-to-DDP",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-Vietnam: offer VN origin pickup, export customs & consolidation",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "worldcraftlogistics.com": {
+  "score": 80,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy cao). Bằng chứng: Sea and air freight Vietnam→USA with origin tables for HCMC, Haiphong, Da Nang",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-Vietnam: offer VN origin pickup, export customs & consolidation",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "americannewlogistics.com": {
+  "score": 75,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Freight Vietnam→USA connected to US warehousing, inland logistics, final delivery",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-Vietnam: offer VN origin pickup, export customs & consolidation",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "approvedforwarders.com": {
+  "score": 70,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Asia→USA shipping guide explicitly covers Vietnam and Ho Chi Minh City–US West Coast ocean freight",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-Vietnam: offer VN origin pickup, export customs & consolidation",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "coppersmith.com": {
+  "score": 60,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy thấp). Bằng chứng: Forwarding support for US importers sourcing from Vietnam: air/ocean, consolidation, customs",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-Vietnam: offer VN origin pickup, export customs & consolidation",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "freightright.com": {
+  "score": 70,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Explicit Vietnam→US transpacific lane, ocean FCL/LCL and air",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-Vietnam: offer VN origin pickup, export customs & consolidation",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "cargomind.com": {
+  "score": 60,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy thấp). Bằng chứng: China office page describes rail projects incl. shipments from Vietnam to Europe",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-Vietnam: offer VN origin pickup, export customs & consolidation",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "wavelogistic.cz": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy thấp). Bằng chứng: Sea-freight page cites containers of textiles shipped from Vietnam with import clearance",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-Vietnam: offer VN origin pickup, export customs & consolidation",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "cigisped.it": {
+  "score": 70,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy thấp). Bằng chứng: Cross-trade network incl. Vietnam (HCMC, Haiphong) and Europe",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-Vietnam: offer VN origin pickup, export customs & consolidation",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "steamship.pt": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Operates Asia–Europe and SE Asia trade with offices incl. Vietnam",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-Vietnam: offer VN origin pickup, export customs & consolidation",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "cargonepal.com.np": {
+  "score": 70,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy thấp). Bằng chứng: Routes article includes Vietnam under SE Asia→Nepal imports",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-Vietnam: offer VN origin pickup, export customs & consolidation",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "ads-intl.com": {
+  "score": 80,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Imports into Malaysia with Vietnam listed among established inbound origins",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-Vietnam: offer VN origin pickup, export customs & consolidation",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "t-ocean.com": {
+  "score": 60,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy thấp). Bằng chứng: Vietnam listed among SE Asian destinations with DDU/DDP one-stop service; Nanning branch",
+  "recommended_services": [],
+  "outreach_angle": "DDU/DDP into Vietnam: offer VN import clearance & last-mile delivery",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "cai-airsea.com": {
+  "score": 75,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Bằng chứng: Vietnam↔China Mainland import/export lane with DAP/DDU/DDP, customs clearance, door-to-door",
+  "recommended_services": [],
+  "outreach_angle": "Two-way VN lane: offer VN origin & destination handling both ways",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "jieyuantj.com": {
+  "score": 75,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Bằng chứng: Import/export between Tianjin Xingang, Qingdao, Shanghai and Cat Lai HCMC; DDU/DAP/DDP handling",
+  "recommended_services": [],
+  "outreach_angle": "Two-way VN lane: offer VN origin & destination handling both ways",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "seabaycargo.com": {
+  "score": 70,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Company profile accepts shipments departing from Vietnam; DDP/DDU services",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-Vietnam: offer VN origin pickup, export customs & consolidation",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-vx: rubric scoring by Claude Code (mode B)"
+  ]
+ }
+}
