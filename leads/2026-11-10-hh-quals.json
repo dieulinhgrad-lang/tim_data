@@ -1,0 +1,266 @@
+{
+ "vico.com.hk": {
+  "score": 80,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Indochina specialist since 1990; own offices HCMC, Da Nang, Haiphong; direct LCL Shenzhen/Shanghai-Danang, HCM/Danang/Haiphong-Hong Kong",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN offices: offer overflow/central-north coverage and customs",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-hh: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "myhomecargo.net": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy thấp). Bằng chứng: Lists one-stop door service across SE Asia incl. Vietnam (destination list on About page)",
+  "recommended_services": [],
+  "outreach_angle": "WCA member shipping China-SE Asia: offer VN delivery agent",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-hh: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "ensignfreight.com": {
+  "score": 40,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Vietnam office opened 2018 as part of Asian branch expansion",
+  "recommended_services": [],
+  "outreach_angle": "Has VN branch: offer secondary agent on north/central lanes",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found",
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-hh: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "highlinkgroup.com.hk": {
+  "score": 40,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Own branches HKH SCM (HCMC) and HKH Logistics Haiphong",
+  "recommended_services": [],
+  "outreach_angle": "Own VN branches: offer cold chain/overflow cooperation",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found",
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-hh: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "in-freight.com": {
+  "score": 50,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Own office in HCMC (IMC Tower, District 1) among SE Asia branches",
+  "recommended_services": [],
+  "outreach_angle": "Has HCMC office: offer north VN / customs support",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-hh: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "sz-patent.com": {
+  "score": 50,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Opened Vietnam branch in 2020",
+  "recommended_services": [],
+  "outreach_angle": "Has VN branch: offer co-loading / north VN",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-hh: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "wansam.com": {
+  "score": 80,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: First China–Vietnam door-to-door; own companies in Hanoi, Haiphong, Da Nang, HCMC, Mong Cai, Lang Son",
+  "recommended_services": [],
+  "outreach_angle": "Large own VN network: approach for sea LCL/overflow",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-hh: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "pml-intl.com": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Own Vietnam express line and overseas office in Vietnam",
+  "recommended_services": [],
+  "outreach_angle": "Taiwan-VN express/perishables: offer VN clearance",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-hh: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "pandalog.com": {
+  "score": 45,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Branches Haiphong & HCMC (2008), Bac Ninh (2018), Da Nang (2015), Haiphong co. (2024)",
+  "recommended_services": [],
+  "outreach_angle": "Large own VN network: offer specialised services",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found",
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-hh: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "wns.co.th": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy thấp). Bằng chứng: Routes incl. Indochina cross-border trucking",
+  "recommended_services": [],
+  "outreach_angle": "Cross-border trucking TH-Indochina: offer VN leg",
+  "red_flags": [
+   "No public email found",
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-hh: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "globaltracklines.com": {
+  "score": 68,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy thấp). Bằng chứng: ASEAN network list includes Vietnam",
+  "recommended_services": [],
+  "outreach_angle": "Port Klang LCL: offer VN destination agent",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-10-hh: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "fescous.com": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy thấp). Bằng chứng: Exclusive office and co-op partners within WCA family across 40 countries incl. Vietnam",
+  "recommended_services": [],
+  "outreach_angle": "US NVOCC with WCA partners: offer Vietnam origin agent",
+  "red_flags": [
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-hh: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "hansameyer.com": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Own branch Hansa Meyer Global Vietnam Co. Ltd. in HCMC",
+  "recommended_services": [],
+  "outreach_angle": "Project cargo with VN branch: offer north VN/Haiphong support",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-hh: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "tycsintl.com": {
+  "score": 40,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Tycs Logistics Vietnam established in HCMC (2014)",
+  "recommended_services": [],
+  "outreach_angle": "Has HCMC sub: offer north VN coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found",
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-hh: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "fps-id.com": {
+  "score": 80,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Consolidation destinations include Saigon, Haiphong, Cai Mep, Ho Chi Minh",
+  "recommended_services": [],
+  "outreach_angle": "LCL consolidator to VN: offer VN deconsolidation/CFS",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-10-hh: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "andalanlintasnusa.com": {
+  "score": 53,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy thấp). Bằng chứng: International partnerships include Vietnam",
+  "recommended_services": [],
+  "outreach_angle": "Semarang NVOCC: offer VN partner",
+  "red_flags": [
+   "No public email found",
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-hh: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "continentalgroup.com": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy thấp). Bằng chứng: Overseas network page lists Vietnam under South East Asia",
+  "recommended_services": [],
+  "outreach_angle": "India-SEA network: offer Vietnam partner",
+  "red_flags": [
+   "No public email found",
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-hh: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "ttl-co.com": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy thấp). Bằng chứng: Global coverage list includes Vietnam",
+  "recommended_services": [],
+  "outreach_angle": "Gulf forwarder: offer Vietnam origin agent",
+  "red_flags": [
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-hh: rubric scoring by Claude Code (mode B)"
+  ]
+ }
+}

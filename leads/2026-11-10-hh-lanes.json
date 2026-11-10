@@ -1,0 +1,451 @@
+{
+ "vico.com.hk": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Đà Nẵng",
+   "Hải Phòng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Indochina specialist since 1990; own offices HCMC, Da Nang, Haiphong; direct LCL Shenzhen/Shanghai-Danang, HCM/Danang/Haiphong-Hong Kong",
+    "url": "https://vico.com.hk/we-are-proud-to-announce-our-recent-membership-with-jctrans-global https://vico.com.hk/file/VICO%20company%20profile.pdf",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Indochina specialist since 1990; own offices HCMC, Da Nang, Haiphong; direct LCL Shenzhen/Shanghai-Danang, HCM/Danang/Haiphong-Hong Kong"
+ },
+ "myhomecargo.net": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Lists one-stop door service across SE Asia incl. Vietnam (destination list on About page)",
+    "url": "https://www.myhomecargo.net/about-t-150.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy thấp). Bằng chứng: Lists one-stop door service across SE Asia incl. Vietnam (destination list on About page)"
+ },
+ "ensignfreight.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam office opened 2018 as part of Asian branch expansion",
+    "url": "https://ensignfreight.com/en/about/our-story",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Vietnam office opened 2018 as part of Asian branch expansion"
+ },
+ "highlinkgroup.com.hk": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air",
+   "road",
+   "rail"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Hải Phòng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Own branches HKH SCM (HCMC) and HKH Logistics Haiphong",
+    "url": "https://highlinkgroup.com.hk/html/en/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Own branches HKH SCM (HCMC) and HKH Logistics Haiphong"
+ },
+ "in-freight.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Own office in HCMC (IMC Tower, District 1) among SE Asia branches",
+    "url": "https://www.in-freight.com/interfreight-company-profile/ https://www.in-freight.com/contact-us/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Own office in HCMC (IMC Tower, District 1) among SE Asia branches"
+ },
+ "sz-patent.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Opened Vietnam branch in 2020",
+    "url": "https://www.sz-patent.com/index.php?act=about&con=web",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Opened Vietnam branch in 2020"
+ },
+ "wansam.com": {
+  "direction": "both",
+  "modes": [
+   "road",
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "Móng Cái",
+   "Lạng Sơn",
+   "Hà Nội",
+   "Hải Phòng",
+   "Đà Nẵng",
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "First China–Vietnam door-to-door; own companies in Hanoi, Haiphong, Da Nang, HCMC, Mong Cai, Lang Son",
+    "url": "http://www.wansam.com/About/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: First China–Vietnam door-to-door; own companies in Hanoi, Haiphong, Da Nang, HCMC, Mong Cai, Lang Son"
+ },
+ "pml-intl.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Own Vietnam express line and overseas office in Vietnam",
+    "url": "https://www.pml-intl.com/pml/pc/introduce/introduce.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Own Vietnam express line and overseas office in Vietnam"
+ },
+ "pandalog.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "Hải Phòng",
+   "HCM",
+   "Bắc Ninh",
+   "Đà Nẵng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Branches Haiphong & HCMC (2008), Bac Ninh (2018), Da Nang (2015), Haiphong co. (2024)",
+    "url": "https://www.pandalog.com/about",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Branches Haiphong & HCMC (2008), Bac Ninh (2018), Da Nang (2015), Haiphong co. (2024)"
+ },
+ "wns.co.th": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Routes incl. Indochina cross-border trucking",
+    "url": "https://wns.co.th/en/about",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Bằng chứng: Routes incl. Indochina cross-border trucking"
+ },
+ "globaltracklines.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "ASEAN network list includes Vietnam",
+    "url": "https://globaltracklines.com/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy thấp). Bằng chứng: ASEAN network list includes Vietnam"
+ },
+ "fescous.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Exclusive office and co-op partners within WCA family across 40 countries incl. Vietnam",
+    "url": "https://www.fescous.com/about-us/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Bằng chứng: Exclusive office and co-op partners within WCA family across 40 countries incl. Vietnam"
+ },
+ "hansameyer.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Own branch Hansa Meyer Global Vietnam Co. Ltd. in HCMC",
+    "url": "https://www.hansameyer.com/en/branch-offices/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Own branch Hansa Meyer Global Vietnam Co. Ltd. in HCMC"
+ },
+ "tycsintl.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Tycs Logistics Vietnam established in HCMC (2014)",
+    "url": "https://www.tycsintl.com/blank-1",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Tycs Logistics Vietnam established in HCMC (2014)"
+ },
+ "fps-id.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Hải Phòng",
+   "Cái Mép"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Consolidation destinations include Saigon, Haiphong, Cai Mep, Ho Chi Minh",
+    "url": "https://www.fps-id.com/_files/ugd/20367a_bf1fd9599fb141488a66ed61a76dddba.pdf",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Consolidation destinations include Saigon, Haiphong, Cai Mep, Ho Chi Minh"
+ },
+ "andalanlintasnusa.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "International partnerships include Vietnam",
+    "url": "https://www.andalanlintasnusa.com/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Bằng chứng: International partnerships include Vietnam"
+ },
+ "continentalgroup.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Overseas network page lists Vietnam under South East Asia",
+    "url": "https://continentalgroup.com/overseas-network/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Bằng chứng: Overseas network page lists Vietnam under South East Asia"
+ },
+ "ttl-co.com": {
+  "direction": "unknown",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Global coverage list includes Vietnam",
+    "url": "https://www.ttl-co.com/en/networks",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Chưa rõ chiều (tin cậy thấp). Bằng chứng: Global coverage list includes Vietnam"
+ }
+}
