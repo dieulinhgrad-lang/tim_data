@@ -1,0 +1,114 @@
+{
+ "ritimegroup.com": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Own branch in Vietnam (one of 3 SE Asia branches: Vietnam, Malaysia, Thailand)",
+  "recommended_services": [],
+  "outreach_angle": "Has VN branch: offer north VN/overflow & customs support",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-as: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "qsdshipping.com": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Branch/office in Ho Chi Minh City (胡志明) among overseas offices",
+  "recommended_services": [],
+  "outreach_angle": "Large Qingdao NVOCC with HCMC office: offer Haiphong/north VN coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-as: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "basenton.com": {
+  "score": 70,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy cao). Bằng chứng: Dedicated China→Vietnam page: FCL/LCL to Haiphong & Ho Chi Minh, air to Hanoi/HCMC",
+  "recommended_services": [],
+  "outreach_angle": "China→VN FCL/LCL: offer VN destination clearance & delivery",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-as: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "hongocean.com": {
+  "score": 70,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Dedicated China→Vietnam shipping guide (sea & air)",
+  "recommended_services": [],
+  "outreach_angle": "China→VN shipper: offer VN destination agent",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-as: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "lojologistics.com": {
+  "score": 70,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy thấp). Bằng chứng: Vietnam listed among destinations; sister site micocean.cn lists SE Asia as key lane",
+  "recommended_services": [],
+  "outreach_angle": "DG/battery DDP shipper: offer VN DG clearance",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-10-as: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "air-shipment.com": {
+  "score": 60,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy thấp). Bằng chứng: China→Southeast Asia air freight page names Vietnam",
+  "recommended_services": [],
+  "outreach_angle": "Air/charter from China: offer VN airport clearance (HAN/SGN)",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-as: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "cn.mclhk.net": {
+  "score": 45,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Chưa rõ chiều (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Own branch in Ho Chi Minh City (with Shanghai, Ningbo, Qingdao, Xiamen, Vancouver, Toronto)",
+  "recommended_services": [],
+  "outreach_angle": "Has HCMC branch: offer north VN / Haiphong support",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found",
+   "Vietnam direction not confirmed"
+  ],
+  "reasons": [
+   "daily run 2026-11-10-as: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "weshipping.com": {
+  "score": 80,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Product page 'Sea service from China to Thailand Vietnam'",
+  "recommended_services": [],
+  "outreach_angle": "DDP sea to VN: offer VN clearance/delivery",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-10-as: rubric scoring by Claude Code (mode B)"
+  ]
+ }
+}
