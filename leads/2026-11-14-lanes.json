@@ -1,0 +1,272 @@
+{
+ "tonlexing.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated DDP China→Vietnam page (air & sea, customs, delivery)",
+    "url": "https://www.tonlexing.com/ddp-shipping-from-china-to-vietnam/ https://www.tonlexing.com/about-us/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Bằng chứng: Dedicated DDP China→Vietnam page (air & sea, customs, delivery)"
+ },
+ "sino-shipping.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "China→Vietnam sea & air freight guide incl. VNACCS clearance and last-mile delivery",
+    "url": "https://www.sino-shipping.com/country-guides/freight-from-china-to-vietnam/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: China→Vietnam sea & air freight guide incl. VNACCS clearance and last-mile delivery"
+ },
+ "hartrodt.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Hải Phòng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "LCL Hamburg→Haiphong/HCMC; own a. hartrodt logistics (Vietnam) in HCMC with Vietnam–Germany trade lane manager",
+    "url": "https://www.hartrodt.com/de-en/news/sea-service-center-organizes-lcl-services-from-hamburg https://www.hartrodt.com/news/new-trade-land-manager-for-vietnam-germany",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: LCL Hamburg→Haiphong/HCMC; own a. hartrodt logistics (Vietnam) in HCMC with Vietnam–Germany trade lane manager"
+ },
+ "rohlig.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Own Röhlig Vietnam office offering sea/air freight",
+    "url": "https://www.rohlig.com/offices/asia/vietnam/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Own Röhlig Vietnam office offering sea/air freight"
+ },
+ "leschaco.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Own Leschaco Vietnam Co. Ltd with head office in Ho Chi Minh City",
+    "url": "https://www.leschaco.com/en/global-presence/apac/vietnam/leschaco-vietnam-co-ltd.html",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Own Leschaco Vietnam Co. Ltd with head office in Ho Chi Minh City"
+ },
+ "aitworldwide.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "Hà Nội",
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam logistics team; import/export Vietnam (offices with +84 24 and +84 28 numbers)",
+    "url": "https://www.aitworldwide.com/asia/vietnam/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Vietnam logistics team; import/export Vietnam (offices with +84 24 and +84 28 numbers)"
+ },
+ "craneww.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Supports customers in Vietnam through local forwarding, contract logistics and customs coordination",
+    "url": "https://www.craneww.com/locations/vietnam/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Supports customers in Vietnam through local forwarding, contract logistics and customs coordination"
+ },
+ "sekologistics.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "SEKO Vietnam team in HCMC manages inbound and outbound shipments to/from Vietnam",
+    "url": "https://www.sekologistics.com/en/regions/asia/vietnam/seko-logistics-ho-chi-minh-city/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: SEKO Vietnam team in HCMC manages inbound and outbound shipments to/from Vietnam"
+ },
+ "icontainers.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Cái Mép",
+   "Hải Phòng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Import from Vietnam to the US guide: FCL/LCL/air via HCMC, Cai Mep, Haiphong",
+    "url": "https://www.icontainers.com/import/vietnam/ https://www.icontainers.com/about-us/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Import from Vietnam to the US guide: FCL/LCL/air via HCMC, Cai Mep, Haiphong"
+ },
+ "slg-logistics.co.uk": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Sea freight UK→Vietnam service page (Ho Chi Minh etc.)",
+    "url": "https://slg-logistics.co.uk/services/sea-freight-from-uk-to-vietnam",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Sea freight UK→Vietnam service page (Ho Chi Minh etc.)"
+ },
+ "yamatosingapore.com": {
+  "direction": "both",
+  "modes": [
+   "road",
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Cross-border trucking network listed incl. Vietnam",
+    "url": "https://www.yamatosingapore.com/services/freight-forwarding/cross-border-trucking-land-freight/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy thấp). Bằng chứng: Cross-border trucking network listed incl. Vietnam"
+ }
+}
