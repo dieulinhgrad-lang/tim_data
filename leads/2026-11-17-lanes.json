@@ -1,0 +1,551 @@
+{
+ "emotrans-global.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated Vietnam profile page (EMO Trans office network incl. Vietnam)",
+    "url": "https://www.emotrans-global.com/vietnam-profile/ https://freightforwarderservices.com/california",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Dedicated Vietnam profile page (EMO Trans office network incl. Vietnam)"
+ },
+ "alsshipping.com.sg": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated 'Shipping to Vietnam' service page",
+    "url": "https://alsshipping.com.sg/shipping-to-vietnam/ https://freightforwarderservices.com/singapore",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Bằng chứng: Dedicated 'Shipping to Vietnam' service page"
+ },
+ "barringtonfreight.co.uk": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated 'Export to Vietnam' sea freight page",
+    "url": "https://www.barringtonfreight.co.uk/sea-freight/export-to-vietnam/ https://freightforwarderservices.com/UK",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Bằng chứng: Dedicated 'Export to Vietnam' sea freight page"
+ },
+ "ibrahimlogistics.pk": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated 'Sea freight from Vietnam to Pakistan' page (16–24 days)",
+    "url": "https://ibrahimlogistics.pk/sea-freight-from-vietnam-to-pakistan/ https://freightforwarderservices.com/pakistan",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy cao). Bằng chứng: Dedicated 'Sea freight from Vietnam to Pakistan' page (16–24 days)"
+ },
+ "ffc-international.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air",
+   "rail"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Office network lists Vietnam alongside HK HQ, Taipei, China offices",
+    "url": "https://www.ffc-international.com/ https://freightforwarderservices.com/taiwan",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Office network lists Vietnam alongside HK HQ, Taipei, China offices"
+ },
+ "pacificstar-hk.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [
+   "HCM",
+   "Hải Phòng",
+   "Hà Nội",
+   "Bình Dương"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Group network: Star Concord Vietnam offices in HCMC, Hai Phong, Ha Noi, Binh Duong",
+    "url": "https://www.pacificstar-hk.com/ENG/index.html https://freightforwarderservices.com/hong-kong",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Group network: Star Concord Vietnam offices in HCMC, Hai Phong, Ha Noi, Binh Duong"
+ },
+ "korman-group.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Regional site covers Singapore/Malaysia/Vietnam/Thailand with Vietnamese-language version",
+    "url": "https://korman-group.com/ https://freightforwarderservices.com/China",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Regional site covers Singapore/Malaysia/Vietnam/Thailand with Vietnamese-language version"
+ },
+ "antaralogistic.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "'Jasa Import Vietnam' (import-from-Vietnam service) listed on site",
+    "url": "https://antaralogistic.com/ https://freightforwarderservices.com/indonesia",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: 'Jasa Import Vietnam' (import-from-Vietnam service) listed on site"
+ },
+ "kc-intl.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "E-commerce logistics handling in 13 countries incl. Vietnam",
+    "url": "https://www.kc-intl.com/home https://freightforwarderservices.com/taiwan",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy thấp). Bằng chứng: E-commerce logistics handling in 13 countries incl. Vietnam"
+ },
+ "ctsitwn.url.tw": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Transports textile materials to 胡志明 (HCMC); offices incl. Vietnam",
+    "url": "https://www.ctsitwn.url.tw/ https://freightforwarderservices.com/taiwan",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Transports textile materials to 胡志明 (HCMC); offices incl. Vietnam"
+ },
+ "fmgloballogistics.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "FM Global offices list includes Vietnam",
+    "url": "https://www.fmgloballogistics.com/ https://freightforwarderservices.com/port-klang",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: FM Global offices list includes Vietnam"
+ },
+ "slrshipping.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "International freight forwarding service list includes Vietnam",
+    "url": "https://www.slrshipping.com/ https://freightforwarderservices.com/dubai",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy thấp). Bằng chứng: International freight forwarding service list includes Vietnam"
+ },
+ "atlantic-gate.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air",
+   "rail"
+  ],
+  "vn_gateways": [
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Own office page: Atlantic Gate (Vietnam) Company, Ho Chi Minh City",
+    "url": "https://www.atlantic-gate.com/offices/vietnam-ho-chi-minh-city https://freightforwarderservices.com/xiamen",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Own office page: Atlantic Gate (Vietnam) Company, Ho Chi Minh City"
+ },
+ "goodhopefreight.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air",
+   "rail"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated 'Freight shipping from China to Vietnam' page",
+    "url": "https://goodhopefreight.com/vietnam.html https://freightforwarderservices.com/shenzhen",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Bằng chứng: Dedicated 'Freight shipping from China to Vietnam' page"
+ },
+ "winskyfreight.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated 'Shipping from China to Vietnam' page",
+    "url": "https://www.winskyfreight.com/shipping-from-china-to-vietnam/ https://freightforwarderservices.com/shenzhen",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Bằng chứng: Dedicated 'Shipping from China to Vietnam' page"
+ },
+ "airsealogistics.com.sg": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated 'Shipping from Vietnam to Singapore' page",
+    "url": "https://airsealogistics.com.sg/freight-forwarder-vietnam-to-singapore/ https://freightforwarderservices.com/singapore",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy cao). Bằng chứng: Dedicated 'Shipping from Vietnam to Singapore' page"
+ },
+ "vanguardlogistics.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "'Vanguard now in Vietnam' – own Vietnam operation announced",
+    "url": "https://www.vanguardlogistics.com/vanguard-now-in-vietnam/ https://freightforwarderservices.com/singapore",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: 'Vanguard now in Vietnam' – own Vietnam operation announced"
+ },
+ "txintlfreight.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated 'Shipping to Vietnam from Houston' (machinery) page",
+    "url": "https://www.txintlfreight.com/destination/shipping-to-vietnam/ https://freightforwarderservices.com/houston",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Bằng chứng: Dedicated 'Shipping to Vietnam from Houston' (machinery) page"
+ },
+ "shipall.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated 'Shipping from US to Vietnam' page",
+    "url": "https://shipall.com/international-shipping/233/shipping-from-US-to-vietnam https://freightforwarderservices.com/Florida",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Bằng chứng: Dedicated 'Shipping from US to Vietnam' page"
+ },
+ "kinternational.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated 'International car shipping to Vietnam' page",
+    "url": "https://www.kinternational.com/international-car-shipping-to-vietnam/ https://freightforwarderservices.com/New-York",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Dedicated 'International car shipping to Vietnam' page"
+ },
+ "mwll.co.uk": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated 'Direct service for shipping from Vietnam to UK' page",
+    "url": "https://www.mwll.co.uk/shipping-from-vietnam-to-uk/ https://freightforwarderservices.com/UK",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy cao). Bằng chứng: Dedicated 'Direct service for shipping from Vietnam to UK' page"
+ },
+ "alsharqi.co": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Door-to-door 'Vietnam Exports' service page",
+    "url": "https://www.alsharqi.co/services/door-to-door/asia-pacific/vietnam/exports/ https://freightforwarderservices.com/sharjah",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Door-to-door 'Vietnam Exports' service page"
+ },
+ "arc-worldwide.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Page 'Sea freight from UAE to Vietnam'; site lists Vietnam among locations",
+    "url": "https://www.arc-worldwide.com/export/sea-freight-from-uae-to-vietnam.html https://freightforwarderservices.com/canada",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Page 'Sea freight from UAE to Vietnam'; site lists Vietnam among locations"
+ }
+}

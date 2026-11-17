@@ -1,0 +1,300 @@
+{
+ "emotrans-global.com": {
+  "score": 75,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Dedicated Vietnam profile page (EMO Trans office network incl. Vietnam)",
+  "recommended_services": [],
+  "outreach_angle": "Has VN office: offer niche trucking/customs support",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-17: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "alsshipping.com.sg": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy cao). Bằng chứng: Dedicated 'Shipping to Vietnam' service page",
+  "recommended_services": [],
+  "outreach_angle": "SG→VN LCL: offer VN deconsolidation, customs & delivery",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-17: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "barringtonfreight.co.uk": {
+  "score": 80,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy cao). Bằng chứng: Dedicated 'Export to Vietnam' sea freight page",
+  "recommended_services": [],
+  "outreach_angle": "UK→VN exports: offer VN destination clearance & delivery",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-17: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "ibrahimlogistics.pk": {
+  "score": 63,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy cao). Bằng chứng: Dedicated 'Sea freight from Vietnam to Pakistan' page (16–24 days)",
+  "recommended_services": [],
+  "outreach_angle": "VN→PK imports: offer VN origin pickup & export customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-17: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "ffc-international.com": {
+  "score": 60,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Office network lists Vietnam alongside HK HQ, Taipei, China offices",
+  "recommended_services": [],
+  "outreach_angle": "Has VN office: offer north VN trucking/customs",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-17: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "pacificstar-hk.com": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Group network: Star Concord Vietnam offices in HCMC, Hai Phong, Ha Noi, Binh Duong",
+  "recommended_services": [],
+  "outreach_angle": "Group has VN offices: offer niche services/overflow",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-17: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "korman-group.com": {
+  "score": 50,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Regional site covers Singapore/Malaysia/Vietnam/Thailand with Vietnamese-language version",
+  "recommended_services": [],
+  "outreach_angle": "VN presence: offer partner trucking/customs",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-17: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "antaralogistic.com": {
+  "score": 63,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: 'Jasa Import Vietnam' (import-from-Vietnam service) listed on site",
+  "recommended_services": [],
+  "outreach_angle": "VN→ID imports: offer VN origin consolidation",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-17: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "kc-intl.com": {
+  "score": 70,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy thấp). Bằng chứng: E-commerce logistics handling in 13 countries incl. Vietnam",
+  "recommended_services": [],
+  "outreach_angle": "E-com network incl. VN: offer VN last-mile/customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-17: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "ctsitwn.url.tw": {
+  "score": 60,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Transports textile materials to 胡志明 (HCMC); offices incl. Vietnam",
+  "recommended_services": [],
+  "outreach_angle": "Textile flows with VN office: offer north VN/overflow",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-17: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "fmgloballogistics.com": {
+  "score": 75,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: FM Global offices list includes Vietnam",
+  "recommended_services": [],
+  "outreach_angle": "Has VN office: offer niche services/overflow",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-17: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "slrshipping.com": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy thấp). Bằng chứng: International freight forwarding service list includes Vietnam",
+  "recommended_services": [],
+  "outreach_angle": "UAE→VN: offer VN destination clearance",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-17: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "atlantic-gate.com": {
+  "score": 60,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Own office page: Atlantic Gate (Vietnam) Company, Ho Chi Minh City",
+  "recommended_services": [],
+  "outreach_angle": "Has VN office: offer north VN trucking/customs",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-17: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "goodhopefreight.com": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy cao). Bằng chứng: Dedicated 'Freight shipping from China to Vietnam' page",
+  "recommended_services": [],
+  "outreach_angle": "China→VN: offer VN import clearance & delivery",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-17: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "winskyfreight.com": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy cao). Bằng chứng: Dedicated 'Shipping from China to Vietnam' page",
+  "recommended_services": [],
+  "outreach_angle": "China→VN DDP: offer VN clearance & last-mile",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-17: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "airsealogistics.com.sg": {
+  "score": 60,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy cao). Bằng chứng: Dedicated 'Shipping from Vietnam to Singapore' page",
+  "recommended_services": [],
+  "outreach_angle": "VN→SG: offer VN origin pickup & export customs",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-17: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "vanguardlogistics.com": {
+  "score": 70,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: 'Vanguard now in Vietnam' – own Vietnam operation announced",
+  "recommended_services": [],
+  "outreach_angle": "Has VN entity: offer overflow/north VN support",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-17: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "txintlfreight.com": {
+  "score": 90,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy cao). Bằng chứng: Dedicated 'Shipping to Vietnam from Houston' (machinery) page",
+  "recommended_services": [],
+  "outreach_angle": "US→VN machinery: offer VN project/OOG clearance & delivery",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-17: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "shipall.com": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy cao). Bằng chứng: Dedicated 'Shipping from US to Vietnam' page",
+  "recommended_services": [],
+  "outreach_angle": "US→VN: offer VN destination clearance & delivery",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-17: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "kinternational.com": {
+  "score": 78,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Dedicated 'International car shipping to Vietnam' page",
+  "recommended_services": [],
+  "outreach_angle": "US→VN vehicles: offer VN customs/delivery",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-17: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "mwll.co.uk": {
+  "score": 80,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy cao). Bằng chứng: Dedicated 'Direct service for shipping from Vietnam to UK' page",
+  "recommended_services": [],
+  "outreach_angle": "VN→UK imports: offer VN origin pickup & export customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-17: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "alsharqi.co": {
+  "score": 70,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Door-to-door 'Vietnam Exports' service page",
+  "recommended_services": [],
+  "outreach_angle": "VN door-to-door exports: offer VN origin handling",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-17: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "arc-worldwide.com": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Page 'Sea freight from UAE to Vietnam'; site lists Vietnam among locations",
+  "recommended_services": [],
+  "outreach_angle": "Ships into VN: offer VN destination clearance",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-17: rubric scoring by Claude Code (mode B)"
+  ]
+ }
+}
