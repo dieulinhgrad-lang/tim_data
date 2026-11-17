@@ -1,0 +1,26 @@
+{
+ "kcilogistics.co.uk": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated 'Shipping From Vietnam' country page",
+    "url": "https://kcilogistics.co.uk/vietnam https://freightforwarderservices.com/UK",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy cao). Bằng chứng: Dedicated 'Shipping From Vietnam' country page"
+ }
+}

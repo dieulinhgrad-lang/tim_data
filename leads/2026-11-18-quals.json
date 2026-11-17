@@ -1,0 +1,14 @@
+{
+ "kcilogistics.co.uk": {
+  "score": 63,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy cao). Bằng chứng: Dedicated 'Shipping From Vietnam' country page",
+  "recommended_services": [],
+  "outreach_angle": "VN→UK imports: offer VN origin pickup & export customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-18: rubric scoring by Claude Code (mode B)"
+  ]
+ }
+}
