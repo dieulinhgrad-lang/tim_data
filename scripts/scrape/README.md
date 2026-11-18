@@ -7,3 +7,6 @@ Nguồn: danh bạ công khai freightforwarderservices.com (tên, website, đị
 3. `python3 -I scripts/scrape/vncheck.py ffs_cand.json ffs_vn.json` — đọc trang chủ + link có chữ Vietnam, lấy đoạn bằng chứng, email, hiệp hội.
 4. `python3 -I scripts/scrape/smap.py ffs_vn.json ffs_sm.json` — quét sitemap tìm trang Vietnam ẩn sâu.
 5. Duyệt tay đoạn bằng chứng (loại trường hợp Việt Nam chỉ nằm trong ô chọn quốc gia), rồi chạy pipeline như skill daily-agent-hunt.
+
+## Nguồn 2: freightnet.com
+`python3 -I scripts/scrape/fnet.py out/fnet_all.json 15` — đọc JSON-LD trên trang danh bạ freightnet (mã quốc gia trong biến C), lấy website ở trường `sameAs`. Sau đó lọc trùng và chạy `vncheck.py` + `smap.py` như trên.
