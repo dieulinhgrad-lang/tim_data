@@ -1,0 +1,211 @@
+{
+ "prodoerlogistics.com": {
+  "score": 80,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy cao). Bằng chứng: Dedicated 'Shipping from China to Vietnam' page",
+  "recommended_services": [],
+  "outreach_angle": "China→VN: offer VN import clearance & delivery",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-20: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "megaspeedcargo.com": {
+  "score": 63,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy cao). Bằng chứng: Dedicated 'Shipping to Vietnam' destination page",
+  "recommended_services": [],
+  "outreach_angle": "UAE→VN: offer VN destination clearance & delivery",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-20: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "sunhill-shipping.com": {
+  "score": 90,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Project case: export breakbulk/project cargo to Vietnam Nghi Son (宜山港) port; long-term Vietnam partners",
+  "recommended_services": [],
+  "outreach_angle": "Project cargo to VN: offer VN port/OOG handling",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-20: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "npsel.com": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Group has own Vietnam company (越南公司) page",
+  "recommended_services": [],
+  "outreach_angle": "Has VN company: offer overflow/north VN trucking",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-20: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "worthcargo.com": {
+  "score": 85,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Door-to-door to ASEAN incl. Vietnam; case: Shenzhen→Vietnam factory relocation (500 machines)",
+  "recommended_services": [],
+  "outreach_angle": "Plant relocation to VN: offer VN project clearance & delivery",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-20: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "ibakcargo.com": {
+  "score": 63,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Handles cargo from Shanghai, Singapore, Malaysia, Thailand and Vietnam to Bangladesh/India/Nepal/Bhutan",
+  "recommended_services": [],
+  "outreach_angle": "VN→IN/BD: offer VN origin handling",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-20: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "markalogistics.com": {
+  "score": 70,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Office network lists Vietnam alongside China branches",
+  "recommended_services": [],
+  "outreach_angle": "VN office: offer partner trucking/customs",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-20: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "rtnlogistics.com": {
+  "score": 63,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Cross-border services from Thailand to Myanmar, Cambodia, Laos, Malaysia, Vietnam, Singapore, China",
+  "recommended_services": [],
+  "outreach_angle": "Cross-border TH-VN: offer VN leg & customs",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-20: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "psshipping.in": {
+  "score": 53,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Global offices listed incl. Vietnam",
+  "recommended_services": [],
+  "outreach_angle": "VN office: offer partner services",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-20: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "chinatopforwarder.com": {
+  "score": 80,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy cao). Bằng chứng: Vietnam guides/pages (shipping China→Vietnam, delays, costs); sister sites chinatopfreight.com, chinashippinghub.com, bestchinaforwarder.com share phone",
+  "recommended_services": [],
+  "outreach_angle": "China→VN: offer VN import clearance & delivery",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-20: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "topchinafreight.com": {
+  "score": 63,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Page 'Shipping from China to Vietnam – air, rail, sea freight'",
+  "recommended_services": [],
+  "outreach_angle": "China→VN: offer VN clearance & delivery",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-20: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "agfus.com": {
+  "score": 53,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: News: 'Atlantic Global Forwarding expands to Vietnam'",
+  "recommended_services": [],
+  "outreach_angle": "Expanding into VN: offer local partner services",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-20: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "theallianceshipping.com": {
+  "score": 63,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy cao). Bằng chứng: Dedicated 'Cargo from Vietnam to Karachi' page",
+  "recommended_services": [],
+  "outreach_angle": "VN→Karachi: offer VN origin pickup & export customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-20: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "shipafreight.com": {
+  "score": 60,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Trade-lane page 'Ocean & Air Freight – Vietnam to the US'",
+  "recommended_services": [],
+  "outreach_angle": "Books ex-VN cargo: offer VN origin services",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-20: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "batigroup.com.tr": {
+  "score": 75,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Project case: mobile power station Ankara → Ho Chi Minh (Donghai)",
+  "recommended_services": [],
+  "outreach_angle": "Project cargo to VN: offer VN OOG clearance & delivery",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-20: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "pacelogs.com": {
+  "score": 63,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy cao). Bằng chứng: Dedicated 'Pakistan to Vietnam logistics services by air & sea' page",
+  "recommended_services": [],
+  "outreach_angle": "PK→VN: offer VN destination clearance & delivery",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-20: rubric scoring by Claude Code (mode B)"
+  ]
+ }
+}

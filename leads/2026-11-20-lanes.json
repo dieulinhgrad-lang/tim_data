@@ -1,0 +1,376 @@
+{
+ "prodoerlogistics.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air",
+   "rail"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated 'Shipping from China to Vietnam' page",
+    "url": "https://www.prodoerlogistics.com/en/shipping/china-to-vietnam https://www.freightnet.com/directory/cCN/s30.htm",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Bằng chứng: Dedicated 'Shipping from China to Vietnam' page"
+ },
+ "megaspeedcargo.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated 'Shipping to Vietnam' destination page",
+    "url": "https://megaspeedcargo.com/destination/shipping-to-vietnam/ https://www.freightnet.com/directory/cAE/s30.htm",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Bằng chứng: Dedicated 'Shipping to Vietnam' destination page"
+ },
+ "sunhill-shipping.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [
+   "Nghi Sơn"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Project case: export breakbulk/project cargo to Vietnam Nghi Son (宜山港) port; long-term Vietnam partners",
+    "url": "https://www.sunhill-shipping.com/nav58-55.html https://www.freightnet.com/directory/cCN/s30.htm",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Project case: export breakbulk/project cargo to Vietnam Nghi Son (宜山港) port; long-term Vietnam partners"
+ },
+ "npsel.com": {
+  "direction": "both",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Group has own Vietnam company (越南公司) page",
+    "url": "https://www.npsel.com/web/yuenangongsi.html https://www.freightnet.com/directory/cCN/s30.htm",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Group has own Vietnam company (越南公司) page"
+ },
+ "worthcargo.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Door-to-door to ASEAN incl. Vietnam; case: Shenzhen→Vietnam factory relocation (500 machines)",
+    "url": "https://www.worthcargo.com/ https://www.freightnet.com/directory/cCN/s30.htm",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Door-to-door to ASEAN incl. Vietnam; case: Shenzhen→Vietnam factory relocation (500 machines)"
+ },
+ "ibakcargo.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Handles cargo from Shanghai, Singapore, Malaysia, Thailand and Vietnam to Bangladesh/India/Nepal/Bhutan",
+    "url": "https://www.ibakcargo.com/ https://www.freightnet.com/directory/cIN/s30.htm",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Handles cargo from Shanghai, Singapore, Malaysia, Thailand and Vietnam to Bangladesh/India/Nepal/Bhutan"
+ },
+ "markalogistics.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Office network lists Vietnam alongside China branches",
+    "url": "https://www.markalogistics.com/ https://www.freightnet.com/directory/cCN/s30.htm",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Office network lists Vietnam alongside China branches"
+ },
+ "rtnlogistics.com": {
+  "direction": "both",
+  "modes": [
+   "road",
+   "sea"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Cross-border services from Thailand to Myanmar, Cambodia, Laos, Malaysia, Vietnam, Singapore, China",
+    "url": "https://www.rtnlogistics.com/ https://www.freightnet.com/directory/cTH/s30.htm",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Cross-border services from Thailand to Myanmar, Cambodia, Laos, Malaysia, Vietnam, Singapore, China"
+ },
+ "psshipping.in": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Global offices listed incl. Vietnam",
+    "url": "https://psshipping.in/ https://www.freightnet.com/directory/cIN/s30.htm",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy thấp). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Global offices listed incl. Vietnam"
+ },
+ "chinatopforwarder.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air",
+   "rail",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam guides/pages (shipping China→Vietnam, delays, costs); sister sites chinatopfreight.com, chinashippinghub.com, bestchinaforwarder.com share phone",
+    "url": "https://chinatopforwarder.com/how-to-handle-shipping-delays-to-vietnam/ https://chinatopfreight.com/shipping-cost-from-china-to-vietnam/ https://www.freightnet.com/directory/cCN/s30.htm",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Bằng chứng: Vietnam guides/pages (shipping China→Vietnam, delays, costs); sister sites chinatopfreight.com, chinashippinghub.com, bestchinaforwarder.com share phone"
+ },
+ "topchinafreight.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air",
+   "rail"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Page 'Shipping from China to Vietnam – air, rail, sea freight'",
+    "url": "https://topchinafreight.com/shipping-from-china-to-vietnam-air-rail-sea-freight-2024/ https://www.freightnet.com/directory/cCN/s30.htm",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Page 'Shipping from China to Vietnam – air, rail, sea freight'"
+ },
+ "agfus.com": {
+  "direction": "both",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "News: 'Atlantic Global Forwarding expands to Vietnam'",
+    "url": "https://www.agfus.com/post/atlantic-global-forwarding-agfus-expands-to-vietnam https://www.freightnet.com/directory/cUS/s30.htm",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: News: 'Atlantic Global Forwarding expands to Vietnam'"
+ },
+ "theallianceshipping.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated 'Cargo from Vietnam to Karachi' page",
+    "url": "https://theallianceshipping.com/cargo-from-vietnam-to-karachi/ https://www.freightnet.com/directory/cAE/s30.htm",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy cao). Bằng chứng: Dedicated 'Cargo from Vietnam to Karachi' page"
+ },
+ "shipafreight.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Trade-lane page 'Ocean & Air Freight – Vietnam to the US'",
+    "url": "https://www.shipafreight.com/tradelane/vietnam-to-usa/ https://www.freightnet.com/directory/cAE/s30.htm",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Trade-lane page 'Ocean & Air Freight – Vietnam to the US'"
+ },
+ "batigroup.com.tr": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "road"
+  ],
+  "vn_gateways": [
+   "HCM"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Project case: mobile power station Ankara → Ho Chi Minh (Donghai)",
+    "url": "https://www.batigroup.com.tr/it/progetto/donghai-vietnam https://www.freightnet.com/directory/cTR/s30.htm",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Project case: mobile power station Ankara → Ho Chi Minh (Donghai)"
+ },
+ "pacelogs.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated 'Pakistan to Vietnam logistics services by air & sea' page",
+    "url": "https://pacelogs.com/pakistan-to-vietnam-logistics-services-by-air-sea/ https://www.freightnet.com/directory/cPK/s30.htm",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Bằng chứng: Dedicated 'Pakistan to Vietnam logistics services by air & sea' page"
+ }
+}
