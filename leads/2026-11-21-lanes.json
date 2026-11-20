@@ -1,0 +1,1036 @@
+{
+ "g8tous.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "air",
+   "sea"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated direction page 'Vietnam-USA/Canada' (from 5.5 $/kg, from 5 days)",
+    "url": "https://g8tous.com/en/main-direction/vietnam-usa-canada/ https://www.freightnet.com/profile/263324.htm",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy cao). Bằng chứng: Dedicated direction page 'Vietnam-USA/Canada' (from 5.5 $/kg, from 5 days)"
+ },
+ "airsupplycn.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "air",
+   "sea",
+   "rail"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated guide 'Ship from China to Vietnam: costs, shipping time and import duties'",
+    "url": "https://www.airsupplycn.com/ship-from-china-to-vietnam/ https://www.forwardingcompanies.com/company/air-supply-international-logistics-group-limited",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Bằng chứng: Dedicated guide 'Ship from China to Vietnam: costs, shipping time and import duties'"
+ },
+ "super-internationalshipping.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "air",
+   "sea"
+  ],
+  "vn_gateways": [
+   "Hải Phòng",
+   "Cát Lái"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated guide 'Shipping from China to Vietnam 2026: Hai Phong, Cat Lai & customs'",
+    "url": "https://www.super-internationalshipping.com/shipping-from-china-to-vietnam https://www.forwardingcompanies.com/company/super-international-shipping",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Bằng chứng: Dedicated guide 'Shipping from China to Vietnam 2026: Hai Phong, Cat Lai & customs'"
+ },
+ "taijiewuliu.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air",
+   "rail"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Topic page 越南海运 (Shenzhen→Vietnam sea freight) and route 深圳到越南海运",
+    "url": "https://www.taijiewuliu.com/tags/越南海运.html https://www.freightnet.com/profile/262716.htm",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Topic page 越南海运 (Shenzhen→Vietnam sea freight) and route 深圳到越南海运"
+ },
+ "herbertwatson.co.uk": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated Vietnam origin page (multi-supplier consolidation into UK)",
+    "url": "https://www.herbertwatson.co.uk/vietnam/ https://www.forwardingcompanies.com/company/herbert-watson-freight-services-ltd",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy cao). Bằng chứng: Dedicated Vietnam origin page (multi-supplier consolidation into UK)"
+ },
+ "petersandmay.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Case study '24m Mast to Vietnam' door-to-door project cargo",
+    "url": "https://www.petersandmay.com/case-study/24m-mast-to-vietnam/ https://www.forwardingcompanies.com/company/peters-%26-may-ltd",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Case study '24m Mast to Vietnam' door-to-door project cargo"
+ },
+ "ktluk.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Page on global partner 'KTL Vietnam'",
+    "url": "https://www.ktluk.com/ktl-freight-case-studies/ktl-vietnam https://www.forwardingcompanies.com/company/ktl-europe--uk--ltd",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Page on global partner 'KTL Vietnam'"
+ },
+ "denholmgoodlogistics.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Offices in UK, Ireland, China, Vietnam, Türkiye; news of new Ho Chi Minh City office",
+    "url": "https://denholmgoodlogistics.com/big-logistics-strengthens-its-presence-in-vietnam-with-new-ho-chi-minh-city-office/ https://www.forwardingcompanies.com/company/good-logistics-group-",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Offices in UK, Ireland, China, Vietnam, Türkiye; news of new Ho Chi Minh City office"
+ },
+ "agxlogistics.com": {
+  "direction": "both",
+  "modes": [
+   "air",
+   "sea"
+  ],
+  "vn_gateways": [
+   "Hồ Chí Minh"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Own branch in Ho Chi Minh City (Hai Au Building); news 'AGX Logistics Vietnam receives IATA accreditation'",
+    "url": "https://agxlogistics.com/agx-logistics-vietnam-receives-iata-accreditation-in-vietnam/ https://www.forwardingcompanies.com/company/agx-logistics--m--sdn-bhd",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Own branch in Ho Chi Minh City (Hai Au Building); news 'AGX Logistics Vietnam receives IATA accreditation'"
+ },
+ "transvisionshipping.com": {
+  "direction": "both",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Group history: 'Transvision Shipping Vietnam Ltd., VIETNAM' started 2017",
+    "url": "https://www.transvisionshipping.com/ https://www.freightnet.com/profile/271919.htm",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Group history: 'Transvision Shipping Vietnam Ltd., VIETNAM' started 2017"
+ },
+ "altuslogistics.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [
+   "Vũng Tàu",
+   "Hồ Chí Minh",
+   "Hà Nội"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam office at 3bis Phan Van Dat, District 1, HCMC; other offices Hanoi, Vung Tau; HCM & Hanoi warehouses",
+    "url": "https://www.altuslogistics.com/altuspage/ https://www.forwardingcompanies.com/company/altus-oil-%26-gas-services-pte-ltd",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Vietnam office at 3bis Phan Van Dat, District 1, HCMC; other offices Hanoi, Vung Tau; HCM & Hanoi warehouses"
+ },
+ "faithlogistic.net": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Homepage: 'regular Vietnam–Singapore service' (FCL & LCL)",
+    "url": "https://faithlogistic.net/ https://www.freightnet.com/profile/280852.htm",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Bằng chứng: Homepage: 'regular Vietnam–Singapore service' (FCL & LCL)"
+ },
+ "jasaimportservice.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Import origin list includes 'Vietnam Import' service",
+    "url": "https://jasaimportservice.com/ https://www.freightnet.com/profile/279700.htm",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Import origin list includes 'Vietnam Import' service"
+ },
+ "dakoworld.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "News 'Project Cargo Success: Vietnam to Ohio' (May 2026)",
+    "url": "https://dakoworld.com/news/dako-worldwide-transport-gmbhs-post/ https://www.forwardingcompanies.com/company/dako-worldwide-transport-gmbh",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: News 'Project Cargo Success: Vietnam to Ohio' (May 2026)"
+ },
+ "gulfcharter.ae": {
+  "direction": "export_from_vn",
+  "modes": [
+   "air"
+  ],
+  "vn_gateways": [
+   "Tân Sơn Nhất"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "News: delivery of industrial equipment from Ho Chi Minh / Vietnam to Cairo / Egypt",
+    "url": "https://gulfcharter.ae/ https://www.freightnet.com/profile/225697.htm",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: News: delivery of industrial equipment from Ho Chi Minh / Vietnam to Cairo / Egypt"
+ },
+ "logix.co.jp": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Homepage service 'Vietnam Direct Consolidation Service' (LCL)",
+    "url": "https://www.logix.co.jp/en/ https://www.forwardingcompanies.com/company/seino-logix-co---ltd-",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Homepage service 'Vietnam Direct Consolidation Service' (LCL)"
+ },
+ "mentfield.com": {
+  "direction": "both",
+  "modes": [
+   "air",
+   "sea",
+   "road"
+  ],
+  "vn_gateways": [
+   "Hồ Chí Minh"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Vietnam office (JV since 2013) at Satra Bldg, 275B Pham Ngu Lao, Dist.1, HCMC; 'Webtracker Vietnam'",
+    "url": "https://mentfield.com/contact-us/ https://www.forwardingcompanies.com/company/mentfield-uk-ltd",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Vietnam office (JV since 2013) at Satra Bldg, 275B Pham Ngu Lao, Dist.1, HCMC; 'Webtracker Vietnam'"
+ },
+ "dt-asia-group.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Group offices in Hong Kong, China, Vietnam, Malaysia, Singapore; Vietnamese-language site",
+    "url": "https://dt-asia-group.com/?lang=vi https://www.forwardingcompanies.com/company/dt-logistics--hong-kong--limited",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Group offices in Hong Kong, China, Vietnam, Malaysia, Singapore; Vietnamese-language site"
+ },
+ "pkdlogistics.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Partner offices listed in Italy, Spain, Turkey, Vietnam, China, Taiwan",
+    "url": "https://pkdlogistics.com/ https://www.forwardingcompanies.com/company/pkd-logictics",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy thấp). Bằng chứng: Partner offices listed in Italy, Spain, Turkey, Vietnam, China, Taiwan"
+ },
+ "mercatorcargo.co.uk": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Locations list includes Vietnam",
+    "url": "https://www.mercatorcargo.co.uk/ https://www.forwardingcompanies.com/company/mercator-cargo-systems-ltd",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy thấp). Bằng chứng: Locations list includes Vietnam"
+ },
+ "siberialine.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "'Our Service Points' include Vietnam",
+    "url": "https://www.siberialine.com/ https://www.freightnet.com/profile/248794.htm",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy thấp). Bằng chứng: 'Our Service Points' include Vietnam"
+ },
+ "pontusline.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [
+   "Hồ Chí Minh"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Trade lane 'Europe → Asia: Hamburg, Felixstowe → Shanghai, Singapore, Ho Chi Minh'",
+    "url": "https://www.pontusline.com/ https://www.freightnet.com/profile/267930.htm",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Trade lane 'Europe → Asia: Hamburg, Felixstowe → Shanghai, Singapore, Ho Chi Minh'"
+ },
+ "navis-ag.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "News 'Partnerbesuch aus Vietnam': Sotrans International Freight Forwarder has been NAVIS partner in Vietnam for almost 10 years; also EU-Vietnam FTA posts",
+    "url": "https://www.navis-ag.com/partnerbesuch-aus-vietnam/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Bằng chứng: News 'Partnerbesuch aus Vietnam': Sotrans International Freight Forwarder has been NAVIS partner in Vietnam for almost 10 years; also EU-Vietnam FTA posts"
+ },
+ "tudorfreight.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "Hà Nội",
+   "Hồ Chí Minh"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated pages 'Shipping to Vietnam from the UK', incl. Hanoi and Ho Chi Minh pages",
+    "url": "https://tudorfreight.com/shipping/asia/vietnam/ https://tudorfreight.com/shipping/asia/vietnam/ho-chi-minh/ https://www.forwardingcompanies.com/company/tudor-international-freight-limited",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Bằng chứng: Dedicated pages 'Shipping to Vietnam from the UK', incl. Hanoi and Ho Chi Minh pages"
+ },
+ "supplychainsolution.co.uk": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Pages 'Exports and Imports, Cambodia, Thailand & Vietnam', 'CPTPP: logistics for UK exporters to Japan & Vietnam', fact-finding trip to Vietnam",
+    "url": "https://supplychainsolution.co.uk/exports-and-imports-cambodia-thailand-vietnam https://www.forwardingcompanies.com/company/frigore-limited",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Pages 'Exports and Imports, Cambodia, Thailand & Vietnam', 'CPTPP: logistics for UK exporters to Japan & Vietnam', fact-finding trip to Vietnam"
+ },
+ "simarco.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "News 'Vietnam: Simarco's New Strategic Partnership'",
+    "url": "https://www.simarco.com/vietnam-simarcos-new-strategic-partnership/ https://www.forwardingcompanies.com/company/simarco-international-ltd",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: News 'Vietnam: Simarco's New Strategic Partnership'"
+ },
+ "aircgc.com": {
+  "direction": "both",
+  "modes": [
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated page 'Air freight to and from Vietnam'",
+    "url": "https://aircgc.com/shipping-directions/air-freight-to-and-from-vietnam/ https://www.forwardingcompanies.com/company/air-cargo-green-capabilities-sarl",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Bằng chứng: Dedicated page 'Air freight to and from Vietnam'"
+ },
+ "cerindo.co.id": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Project case for Ministry of Marine Affairs & Fisheries: 3 feeding barges from Vietnam; materials from Norway to Vietnam",
+    "url": "https://www.cerindo.co.id/blog/kementrian-kelautan-dan-perikanan https://www.forwardingcompanies.com/company/pt-cerindo-prima-logistik",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Project case for Ministry of Marine Affairs & Fisheries: 3 feeding barges from Vietnam; materials from Norway to Vietnam"
+ },
+ "kamorlogistics.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [
+   "Hải Phòng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Project case: cable drums shipped from Haiphong, Vietnam to Ashdod; Kamor did clearance & local services",
+    "url": "https://kamorlogistics.com/ https://www.forwardingcompanies.com/company/kamor-logistics-ltd",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Project case: cable drums shipped from Haiphong, Vietnam to Ashdod; Kamor did clearance & local services"
+ },
+ "infinity-intl.net": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "Hồ Chí Minh"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Group branches include 越南分公司 (Vietnam branch, infinity-hcm.com contact)",
+    "url": "https://www.infinity-intl.net/ch/location.html?lId=5 https://www.forwardingcompanies.com/company/infinity-logistics-international-co-ltd",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Group branches include 越南分公司 (Vietnam branch, infinity-hcm.com contact)"
+ },
+ "odysseyshipping.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [
+   "Đà Nẵng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Destination port list includes Da Nang, Viet Nam",
+    "url": "https://www.odysseyshipping.com/ https://www.forwardingcompanies.com/company/odyssey-shipping-ltd-",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy thấp). Bằng chứng: Destination port list includes Da Nang, Viet Nam"
+ },
+ "columbiatransport.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "Hà Nội",
+   "Hồ Chí Minh"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Network list: Vietnam – Hanoi, Ho Chi Minh",
+    "url": "https://www.columbiatransport.com/ https://www.forwardingcompanies.com/company/columbia-transport-s-r-l-",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy thấp). Bằng chứng: Network list: Vietnam – Hanoi, Ho Chi Minh"
+ },
+ "topexpert.ro": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Homepage: international freight links with China, USA, Vietnam, Thailand, India… by sea and air",
+    "url": "https://topexpert.ro/ https://www.forwardingcompanies.com/company/top-expert-dce-srl",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy thấp). Bằng chứng: Homepage: international freight links with China, USA, Vietnam, Thailand, India… by sea and air"
+ },
+ "pesa.global": {
+  "direction": "import_to_vn",
+  "modes": [
+   "air",
+   "sea"
+  ],
+  "vn_gateways": [
+   "Hà Nội"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Homepage case: urgent spare part from Switzerland to a textile plant in Hanoi via express air",
+    "url": "https://pesa.global/en/ https://www.forwardingcompanies.com/company/pesa-port-franc-%26-entrepots-de-lausanne-chavornay-sa",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Homepage case: urgent spare part from Switzerland to a textile plant in Hanoi via express air"
+ },
+ "onelogtr.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [
+   "Hồ Chí Minh"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Port coverage list includes Ho Chi Minh City",
+    "url": "https://www.onelogtr.com/ https://www.forwardingcompanies.com/company/one-uluslararasi-tasimacilik-ve-dis-ticaret-as-",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy thấp). Bằng chứng: Port coverage list includes Ho Chi Minh City"
+ },
+ "setara.ca": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated service page 'Shipping from Vietnam to Toronto: FCL, LCL'",
+    "url": "https://setara.ca/services/ocean/vietnam-to-toronto/ https://www.forwardingcompanies.com/company/setara-logistics-inc-",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy cao). Bằng chứng: Dedicated service page 'Shipping from Vietnam to Toronto: FCL, LCL'"
+ },
+ "teamcdg.com": {
+  "direction": "both",
+  "modes": [
+   "air",
+   "sea"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated page 'Logistique Vietnam : Expert Team International' (transport Vietnam)",
+    "url": "https://teamcdg.com/transport-vietnam/ https://www.forwardingcompanies.com/company/transport-express-aerien-mondial",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Bằng chứng: Dedicated page 'Logistique Vietnam : Expert Team International' (transport Vietnam)"
+ },
+ "rpa-port.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Page on Israel–Vietnam free trade agreement (what it covers for importers)",
+    "url": "https://rpa-port.com/he/trade-agreement-israel-vietnam https://www.forwardingcompanies.com/company/r-p-a-port-ltd",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Page on Israel–Vietnam free trade agreement (what it covers for importers)"
+ },
+ "gcelogistic.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated page 'Importer Of Record IOR Service in Vietnam'",
+    "url": "https://gcelogistic.com/importer-of-record-ior-service-in-vietnam/ https://www.forwardingcompanies.com/company/gulf-coast-enterprise-for-logistic-services",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Dedicated page 'Importer Of Record IOR Service in Vietnam'"
+ },
+ "cmlogistics.com.mx": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Blog posts: 'Cómo exportar mercancía mexicana a Vietnam'; real transit times sea freight from Vietnam to Mexico",
+    "url": "https://www.cmlogistics.com.mx/post/cómo-exportar-mercancía-mexicana-a-vietnam https://www.forwardingcompanies.com/company/cm-logistics",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Bằng chứng: Blog posts: 'Cómo exportar mercancía mexicana a Vietnam'; real transit times sea freight from Vietnam to Mexico"
+ },
+ "t3ex-tec.com": {
+  "direction": "both",
+  "modes": [
+   "air",
+   "sea"
+  ],
+  "vn_gateways": [
+   "Hà Nội"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "News '賀！台灣空運越南分公司正式開幕' (Vietnam branch opened); Hanoi phone listed",
+    "url": "https://t3ex-tec.com/tec-vietnam/ https://www.forwardingcompanies.com/company/taiwan-express-co-ltd",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: News '賀！台灣空運越南分公司正式開幕' (Vietnam branch opened); Hanoi phone listed"
+ },
+ "eltglobal.com.tr": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [
+   "Hải Phòng",
+   "Hồ Chí Minh"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Online LCL products: Haiphong → Haydarpaşa, Ho Chi Minh → Haydarpaşa / Ambarlı (Istanbul)",
+    "url": "https://eltglobal.com.tr/magaza/deniz-yolu-parsiyel-lojistik-ho-chi-minh-limani-ambarli-limani-istanbul/ https://www.forwardingcompanies.com/company/elt-global-lojistik-ve-dis-tic-a-s-",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy cao). Bằng chứng: Online LCL products: Haiphong → Haydarpaşa, Ho Chi Minh → Haydarpaşa / Ambarlı (Istanbul)"
+ },
+ "brokbridge.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "road",
+   "air",
+   "sea"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated page 'Доставка из Вьетнама' (delivery from Vietnam)",
+    "url": "https://brokbridge.com/vietnam.html https://www.forwardingcompanies.com/company/brokbridge-llc",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy cao). Bằng chứng: Dedicated page 'Доставка из Вьетнама' (delivery from Vietnam)"
+ }
+}
