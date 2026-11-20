@@ -691,31 +691,6 @@
   "sources_agree": null,
   "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Project case: cable drums shipped from Haiphong, Vietnam to Ashdod; Kamor did clearance & local services"
  },
- "infinity-intl.net": {
-  "direction": "both",
-  "modes": [
-   "sea",
-   "air"
-  ],
-  "vn_gateways": [
-   "Hồ Chí Minh"
-  ],
-  "counterpart_gateways": [],
-  "commodities": [],
-  "frequency_hint": null,
-  "has_vietnam_office": true,
-  "vietnam_partners": [],
-  "evidence": [
-   {
-    "claim": "Group branches include 越南分公司 (Vietnam branch, infinity-hcm.com contact)",
-    "url": "https://www.infinity-intl.net/ch/location.html?lId=5 https://www.forwardingcompanies.com/company/infinity-logistics-international-co-ltd",
-    "source": "company_site"
-   }
-  ],
-  "confidence": "high",
-  "sources_agree": null,
-  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Group branches include 越南分公司 (Vietnam branch, infinity-hcm.com contact)"
- },
  "odysseyshipping.com": {
   "direction": "import_to_vn",
   "modes": [
@@ -956,31 +931,6 @@
   "confidence": "high",
   "sources_agree": null,
   "summary_vi": "Cả nhập & xuất (tin cậy cao). Bằng chứng: Blog posts: 'Cómo exportar mercancía mexicana a Vietnam'; real transit times sea freight from Vietnam to Mexico"
- },
- "t3ex-tec.com": {
-  "direction": "both",
-  "modes": [
-   "air",
-   "sea"
-  ],
-  "vn_gateways": [
-   "Hà Nội"
-  ],
-  "counterpart_gateways": [],
-  "commodities": [],
-  "frequency_hint": null,
-  "has_vietnam_office": true,
-  "vietnam_partners": [],
-  "evidence": [
-   {
-    "claim": "News '賀！台灣空運越南分公司正式開幕' (Vietnam branch opened); Hanoi phone listed",
-    "url": "https://t3ex-tec.com/tec-vietnam/ https://www.forwardingcompanies.com/company/taiwan-express-co-ltd",
-    "source": "company_site"
-   }
-  ],
-  "confidence": "high",
-  "sources_agree": null,
-  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: News '賀！台灣空運越南分公司正式開幕' (Vietnam branch opened); Hanoi phone listed"
  },
  "eltglobal.com.tr": {
   "direction": "export_from_vn",

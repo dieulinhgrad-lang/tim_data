@@ -369,21 +369,6 @@
    "daily run 2026-11-21: rubric scoring by Claude Code (mode B)"
   ]
  },
- "infinity-intl.net": {
-  "score": 50,
-  "tier": "C",
-  "is_forwarder": true,
-  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Group branches include 越南分公司 (Vietnam branch, infinity-hcm.com contact)",
-  "recommended_services": [],
-  "outreach_angle": "Has VN branch: offer north VN coverage/trucking",
-  "red_flags": [
-   "Already has own office/subsidiary in Vietnam",
-   "No public email found"
-  ],
-  "reasons": [
-   "daily run 2026-11-21: rubric scoring by Claude Code (mode B)"
-  ]
- },
  "odysseyshipping.com": {
   "score": 58,
   "tier": "B",
@@ -508,20 +493,6 @@
   "recommended_services": [],
   "outreach_angle": "MX↔VN: offer VN origin & destination services",
   "red_flags": [],
-  "reasons": [
-   "daily run 2026-11-21: rubric scoring by Claude Code (mode B)"
-  ]
- },
- "t3ex-tec.com": {
-  "score": 60,
-  "tier": "B",
-  "is_forwarder": true,
-  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: News '賀！台灣空運越南分公司正式開幕' (Vietnam branch opened); Hanoi phone listed",
-  "recommended_services": [],
-  "outreach_angle": "Has new VN branch: offer HCM/Hai Phong support",
-  "red_flags": [
-   "Already has own office/subsidiary in Vietnam"
-  ],
   "reasons": [
    "daily run 2026-11-21: rubric scoring by Claude Code (mode B)"
   ]
