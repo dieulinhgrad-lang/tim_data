@@ -1,0 +1,157 @@
+{
+ "gocubic.io": {
+  "score": 63,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy cao). Bằng chứng: Route guide page 'Vietnam to Los Angeles Shipping' (popular route Vietnam → Los Angeles)",
+  "recommended_services": [],
+  "outreach_angle": "VN→LA: offer VN origin pickup, CFS & export customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-22: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "orientstargroup.com": {
+  "score": 60,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Office network: Vietnam (2 offices) – HCMC Dreamplex 195 Dien Bien Phu, and Hanoi",
+  "recommended_services": [],
+  "outreach_angle": "Has VN offices: offer trucking/customs overflow",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-22: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "dcplogisticsgroup.co.uk": {
+  "score": 63,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy cao). Bằng chứng: Dedicated page 'Import from Vietnam to UK | Customs Duty & Clearance'",
+  "recommended_services": [],
+  "outreach_angle": "VN→UK imports: offer VN origin pickup & export customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-22: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "latzer-logistics.at": {
+  "score": 68,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Bằng chứng: Dedicated country page 'Vietnam' under freight networks (China, Germany, USA, Vietnam)",
+  "recommended_services": [],
+  "outreach_angle": "VN network page: offer VN partner services both ways",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-22: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "ahlers.com": {
+  "score": 70,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: News: 500+ MT oversized steel structures from Vietnam to Mozambique; new warehouse in Ho Chi Minh City",
+  "recommended_services": [],
+  "outreach_angle": "Has HCMC warehouse: offer north VN coverage & OOG trucking",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-22: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "ajlogistica.com": {
+  "score": 63,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Homepage lane 'Asia-Pacific → Spain: Philippines, Vietnam, Indonesia, Thailand… air and sea'",
+  "recommended_services": [],
+  "outreach_angle": "Asia→Spain incl. VN: offer VN origin handling",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-22: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "logisteasy.fr": {
+  "score": 63,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Homepage partner corridors include Vietnam → France",
+  "recommended_services": [],
+  "outreach_angle": "VN→FR imports: offer VN origin consolidation & export customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-22: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "exw.lv": {
+  "score": 63,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy cao). Bằng chứng: Dedicated page 'Freight Latvia Vietnam – delivery from Vietnam to Latvia, sea and air cargo'",
+  "recommended_services": [],
+  "outreach_angle": "VN→Baltics: offer VN origin pickup, CFS & export customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-22: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "leman.com": {
+  "score": 60,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Own Vietnam contact page with HCMC phone (+84 28 7306 8237) and Vietnam sales department",
+  "recommended_services": [],
+  "outreach_angle": "Has VN office: offer north VN/Hai Phong support",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-22: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "jma-express.com": {
+  "score": 53,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Article 'Pensez à exporter de Lyon-Grenoble vers le Vietnam grâce à l'accord de libre-échange UE-Vietnam'",
+  "recommended_services": [],
+  "outreach_angle": "FR→VN (EVFTA): offer VN destination clearance & delivery",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-22: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "aeroaffaires.fr": {
+  "score": 68,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Guide page 'Fret aérien au Vietnam' (air cargo charter to/from Vietnam)",
+  "recommended_services": [],
+  "outreach_angle": "Air charters VN: offer VN airport handling & customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-22: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "ferrarigroup.net": {
+  "score": 50,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: News: new owned subsidiary in Ho Chi Minh City, Vietnam (opening 2026)",
+  "recommended_services": [],
+  "outreach_angle": "New HCMC subsidiary: offer local trucking/customs support",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-22: rubric scoring by Claude Code (mode B)"
+  ]
+ }
+}
