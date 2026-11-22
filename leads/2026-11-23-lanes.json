@@ -1,0 +1,454 @@
+{
+ "mtalines.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated service 'Weekly Vietnam to U.S. Consolidation Service' (weekly dedicated routes)",
+    "url": "https://mtalines.com/weekly-vietnam-to-u-s-consolidation-service/ https://www.yellowpages.com/search?search_terms=freight+forwarder&geo_location_terms=Boston%2C+MA",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy cao). Bằng chứng: Dedicated service 'Weekly Vietnam to U.S. Consolidation Service' (weekly dedicated routes)"
+ },
+ "utcoverseas.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Project case 'From Finland to Vietnam: the epic journey of two Mantsinen 300ES cranes'",
+    "url": "https://utcoverseas.com/from-finland-to-vietnam-the-epic-journey-of-two-mantsinen-300es-cranes/ https://www.yellowpages.com/search?search_terms=freight+forwarder&geo_location_terms=Los+Angeles%2C+CA",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Project case 'From Finland to Vietnam: the epic journey of two Mantsinen 300ES cranes'"
+ },
+ "americancargoinc.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Homepage: 'Branches in USA and Viet Nam'",
+    "url": "https://www.americancargoinc.com/ https://www.yellowpages.com/search?search_terms=freight+forwarder&geo_location_terms=Ontario%2C+CA",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Homepage: 'Branches in USA and Viet Nam'"
+ },
+ "bnxinc.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "road"
+  ],
+  "vn_gateways": [
+   "Hà Nội"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Network headquarters list includes Vietnam; Hanoi contact (bnxlogistics.com)",
+    "url": "https://bnxinc.com/bbs/board.php?bo_table=0306 https://www.yellowpages.com/search?search_terms=freight+forwarder&geo_location_terms=Atlanta%2C+GA",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Network headquarters list includes Vietnam; Hanoi contact (bnxlogistics.com)"
+ },
+ "directexpressinc.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [
+   "Hải Phòng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Export FCL rate list includes 'Haiphong, VI (from LAX)'",
+    "url": "https://directexpressinc.com/ https://www.yellowpages.com/search?search_terms=freight+forwarder&geo_location_terms=Carson%2C+CA",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Export FCL rate list includes 'Haiphong, VI (from LAX)'"
+ },
+ "vipcargoservices.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "Cái Mép"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Trade lanes list 'Asia → … Cai Mep …'",
+    "url": "https://www.vipcargoservices.com/ https://www.yellowpages.com/search?search_terms=freight+forwarder&geo_location_terms=Edison%2C+NJ",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy thấp). Bằng chứng: Trade lanes list 'Asia → … Cai Mep …'"
+ },
+ "cutrans.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Homepage: exclusive offices and partners in Asia incl. Vietnam",
+    "url": "https://cutrans.com/ https://www.yellowpages.com/search?search_terms=freight+forwarder&geo_location_terms=Ontario%2C+CA",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Homepage: exclusive offices and partners in Asia incl. Vietnam"
+ },
+ "royalcargo.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Operates in UK, Vietnam, China, Philippines, Thailand; dedicated Vietnam location page",
+    "url": "https://www.royalcargo.com/vietnam/?continent=AS https://www.yellowpages.com/search?search_terms=freight+forwarder&geo_location_terms=Irvine%2C+CA",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Operates in UK, Vietnam, China, Philippines, Thailand; dedicated Vietnam location page"
+ },
+ "cpworldgroup.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "Hồ Chí Minh",
+   "Hải Phòng",
+   "Hà Nội",
+   "Đà Nẵng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "C P World Co., Ltd (Vietnam) established 2006 in HCMC with branches in Haiphong, Hanoi, Danang (60 staff)",
+    "url": "https://cpworldgroup.com/network/vietnam/ https://www.yellowpages.com.au/tullamarine-vic/freight-forwarders",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: C P World Co., Ltd (Vietnam) established 2006 in HCMC with branches in Haiphong, Hanoi, Danang (60 staff)"
+ },
+ "bcuniversal.com.au": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Homepage: sea freight across Asia–Australia trade lanes with English and Vietnamese support",
+    "url": "https://bcuniversal.com.au/ https://www.yellowpages.com.au/mascot-nsw/freight-forwarders",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Homepage: sea freight across Asia–Australia trade lanes with English and Vietnamese support"
+ },
+ "troylines.com": {
+  "direction": "both",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated service 'Vietnam Direct LCL Export & Import Services'",
+    "url": "https://troylines.com/vietnam-direct-lcl-export-import-services/ https://www.yellowpages.com/search?search_terms=freight+forwarder&geo_location_terms=Charlotte%2C+NC",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Bằng chứng: Dedicated service 'Vietnam Direct LCL Export & Import Services'"
+ },
+ "southeastworldwide.com": {
+  "direction": "both",
+  "modes": [
+   "air",
+   "sea"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "News 'South East World Wide, Ltd. Proud to Offer Extended Services To/From Vietnam'",
+    "url": "https://southeastworldwide.com/news/2018/2/6/south-east-world-wide-ltd-proud-to-offer-services-tofrom-vietnam https://www.yellowpages.com/search?search_terms=freight+forwarder&geo_location_terms=Jamaica%2C+NY",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Bằng chứng: News 'South East World Wide, Ltd. Proud to Offer Extended Services To/From Vietnam'"
+ },
+ "shiplanetransport.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [
+   "Hồ Chí Minh",
+   "Hải Phòng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated pages 'Shipping to Vietnam', Ho Chi Minh and Haiphong",
+    "url": "https://shiplanetransport.com/worldwide-shipping/vietnam https://shiplanetransport.com/worldwide-shipping/haiphong https://www.yellowpages.com/search?search_terms=freight+forwarder&geo_location_terms=Chicago%2C+IL",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Bằng chứng: Dedicated pages 'Shipping to Vietnam', Ho Chi Minh and Haiphong"
+ },
+ "wcshipping.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated page 'Ship a Car to Vietnam From the USA: Instant Rates'",
+    "url": "https://www.wcshipping.com/vietnam https://www.yellowpages.com/search?search_terms=freight+forwarder&geo_location_terms=Oakland%2C+CA",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Bằng chứng: Dedicated page 'Ship a Car to Vietnam From the USA: Instant Rates'"
+ },
+ "sangrupo.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [
+   "Hải Phòng",
+   "Hồ Chí Minh"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Route pages 'From Hai Phong to Manzanillo', 'From Ho Chi Minh to Manzanillo', 'Port of Hai Phong'",
+    "url": "https://sangrupo.com/from-hai-phong-to-manzanillo/ https://sangrupo.com/from-ho-chi-minh-to-manzanillo/ https://www.yellowpages.com/search?search_terms=freight+forwarder&geo_location_terms=Ontario%2C+CA",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy cao). Bằng chứng: Route pages 'From Hai Phong to Manzanillo', 'From Ho Chi Minh to Manzanillo', 'Port of Hai Phong'"
+ },
+ "cifglobal.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "News 'New agency in Vietnam' (sitemap, EN/ES/FR)",
+    "url": "https://cifglobal.com/new-agency-in-vietnam/ https://www.yellowpages.com/search?search_terms=freight+forwarder&geo_location_terms=Doral%2C+FL",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy thấp). Bằng chứng: News 'New agency in Vietnam' (sitemap, EN/ES/FR)"
+ },
+ "cargotransinc.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Blog 'Vietnam Tariffs: 12.5% duty, furniture 232 and transshipment' for US importers",
+    "url": "https://cargotransinc.com/blog/vietnam-tariffs/ https://www.yellowpages.com/search?search_terms=freight+forwarder&geo_location_terms=New+York%2C+NY",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy thấp). Bằng chứng: Blog 'Vietnam Tariffs: 12.5% duty, furniture 232 and transshipment' for US importers"
+ },
+ "cafworldwide.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "air",
+   "sea"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Blog '6 Considerations Before Shifting Your Supply Chain to Vietnam'",
+    "url": "https://cafworldwide.com/blog/6-considerations-before-shifting-your-supply-chain-to-vietnam https://www.yellowpages.com/search?search_terms=freight+forwarder&geo_location_terms=Jamaica%2C+NY",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy thấp). Bằng chứng: Blog '6 Considerations Before Shifting Your Supply Chain to Vietnam'"
+ },
+ "bws.net": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [
+   "Hồ Chí Minh"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Own Vietnam offices incl. Ho Chi Minh; news 'Celebrating a decade of Blue Water Vietnam'",
+    "url": "https://www.bws.net/contact/vietnam/ho-chi-minh https://www.yellowpages.com/search?search_terms=freight+forwarder&geo_location_terms=Houston%2C+TX",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Own Vietnam offices incl. Ho Chi Minh; news 'Celebrating a decade of Blue Water Vietnam'"
+ }
+}
