@@ -1,0 +1,268 @@
+{
+ "goglobex.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated page 'Vietnam to Canada Ocean & Air Freight'",
+    "url": "https://www.goglobex.com/vietnam-to-canada-ocean-air-freight.html https://www.yellowpages.ca/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy cao). Bằng chứng: Dedicated page 'Vietnam to Canada Ocean & Air Freight'"
+ },
+ "transconshipping.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "Hồ Chí Minh",
+   "Hà Nội"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "International network pages for Vietnam – Ho Chi Minh and Hanoi (agent: Super Cargo Service Co., Ltd.)",
+    "url": "https://transconshipping.com/2017/09/20/vietnam-ho-chi-minh/ https://transconshipping.com/2018/04/10/vietnam-hanoi/ https://www.yellowpages.com/search?search_terms=freight+forwarder&geo_location_terms=Secaucus%2C+NJ",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Bằng chứng: International network pages for Vietnam – Ho Chi Minh and Hanoi (agent: Super Cargo Service Co., Ltd.)"
+ },
+ "wearewarp.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Air freight page: locked rates from real flights out of China, Vietnam, India, Taiwan, South Korea",
+    "url": "https://www.wearewarp.com/air https://www.yellowpages.com/search?search_terms=freight+forwarder&geo_location_terms=Los+Angeles%2C+CA",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Air freight page: locked rates from real flights out of China, Vietnam, India, Taiwan, South Korea"
+ },
+ "moalogistic.com": {
+  "direction": "both",
+  "modes": [
+   "air",
+   "sea",
+   "road"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Homepage: branches in the United States, China, Vietnam and Korea",
+    "url": "https://moalogistic.com/ https://www.yellowpages.com/search?search_terms=freight+forwarder&geo_location_terms=Los+Angeles%2C+CA",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Homepage: branches in the United States, China, Vietnam and Korea"
+ },
+ "e-freightgroup.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [
+   "Hồ Chí Minh"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Offices: Toronto and Ho Chi Minh City (VRG Building, 177 Hai Ba Trung, District 3)",
+    "url": "https://e-freightgroup.com/ https://www.yellowpages.com/search?search_terms=freight+forwarder&geo_location_terms=Alhambra%2C+CA",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Offices: Toronto and Ho Chi Minh City (VRG Building, 177 Hai Ba Trung, District 3)"
+ },
+ "7seas-scm.com": {
+  "direction": "both",
+  "modes": [
+   "air",
+   "sea"
+  ],
+  "vn_gateways": [
+   "Hồ Chí Minh"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Office list incl. Ho Chi Minh (Anh Thu Citilight Tower, 45 Vo Thi Sau, District 1)",
+    "url": "https://7seas-scm.com/ https://www.yellowpages.com/search?search_terms=freight+forwarder&geo_location_terms=Valley+Stream%2C+NY",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Office list incl. Ho Chi Minh (Anh Thu Citilight Tower, 45 Vo Thi Sau, District 1)"
+ },
+ "benline.com": {
+  "direction": "both",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [
+   "Nghi Sơn"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Office spotlight 'Nghi Son, Vietnam port agency & logistics'; Ben Line Logistics Vietnam",
+    "url": "https://benline.com/news/detail/ben-line-office-spotlight-nghi-son-vietnam-port-agency-logistics https://www.yellowpages.com/search?search_terms=freight+forwarder&geo_location_terms=Long+Beach%2C+CA",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Office spotlight 'Nghi Son, Vietnam port agency & logistics'; Ben Line Logistics Vietnam"
+ },
+ "worldwidelogisticsltd.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "News 'Worldwide Logistics Group opens second branch in Vietnam' (2023)",
+    "url": "https://worldwidelogisticsltd.com/2023/01/12/worldwide-logistics-group-opens-second-branch-in-vietnam/ https://www.yellowpages.com/search?search_terms=freight+forwarder&geo_location_terms=Long+Beach%2C+CA",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: News 'Worldwide Logistics Group opens second branch in Vietnam' (2023)"
+ },
+ "mtlworld.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea"
+  ],
+  "vn_gateways": [
+   "Hải Phòng",
+   "Đà Nẵng"
+  ],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Destination port list includes Haiphong and Da Nang",
+    "url": "https://mtlworld.com/ https://www.yellowpages.com/search?search_terms=freight+forwarder&geo_location_terms=New+York%2C+NY",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy thấp). Bằng chứng: Destination port list includes Haiphong and Da Nang"
+ },
+ "import-export-logistics.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Network/rate coverage list includes Vietnam",
+    "url": "https://www.import-export-logistics.com/ https://www.yellowpages.com/search?search_terms=freight+forwarder&geo_location_terms=Medley%2C+FL",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy thấp). Bằng chứng: Network/rate coverage list includes Vietnam"
+ },
+ "uniglobekisco.com": {
+  "direction": "both",
+  "modes": [
+   "air",
+   "sea"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Blog category 'Vietnam' (Vietnam archives)",
+    "url": "https://uniglobekisco.com/category/vietnam https://www.yellowpages.com/search?search_terms=freight+forwarder&geo_location_terms=San+Jose%2C+CA",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy thấp). Bằng chứng: Blog category 'Vietnam' (Vietnam archives)"
+ }
+}

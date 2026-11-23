@@ -1,0 +1,152 @@
+{
+ "goglobex.com": {
+  "score": 63,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy cao). Bằng chứng: Dedicated page 'Vietnam to Canada Ocean & Air Freight'",
+  "recommended_services": [],
+  "outreach_angle": "VN→Canada: offer VN origin pickup, CFS & export customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-24: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "transconshipping.com": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Bằng chứng: International network pages for Vietnam – Ho Chi Minh and Hanoi (agent: Super Cargo Service Co., Ltd.)",
+  "recommended_services": [],
+  "outreach_angle": "Has VN agent: offer competitive alternative / backup",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-24: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "wearewarp.com": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Air freight page: locked rates from real flights out of China, Vietnam, India, Taiwan, South Korea",
+  "recommended_services": [],
+  "outreach_angle": "VN→US air: offer VN airport handling & export customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-24: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "moalogistic.com": {
+  "score": 53,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Homepage: branches in the United States, China, Vietnam and Korea",
+  "recommended_services": [],
+  "outreach_angle": "Has VN branch: offer north VN/Hai Phong support",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-24: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "e-freightgroup.com": {
+  "score": 53,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Offices: Toronto and Ho Chi Minh City (VRG Building, 177 Hai Ba Trung, District 3)",
+  "recommended_services": [],
+  "outreach_angle": "Has HCMC office: offer north VN coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-24: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "7seas-scm.com": {
+  "score": 70,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Office list incl. Ho Chi Minh (Anh Thu Citilight Tower, 45 Vo Thi Sau, District 1)",
+  "recommended_services": [],
+  "outreach_angle": "Has HCMC office: offer Hai Phong/north VN support",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-24: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "benline.com": {
+  "score": 70,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Office spotlight 'Nghi Son, Vietnam port agency & logistics'; Ben Line Logistics Vietnam",
+  "recommended_services": [],
+  "outreach_angle": "Has VN offices: offer specialised trucking/customs",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-24: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "worldwidelogisticsltd.com": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: News 'Worldwide Logistics Group opens second branch in Vietnam' (2023)",
+  "recommended_services": [],
+  "outreach_angle": "Has VN branches: offer overflow trucking/customs",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-24: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "mtlworld.com": {
+  "score": 50,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy thấp). Bằng chứng: Destination port list includes Haiphong and Da Nang",
+  "recommended_services": [],
+  "outreach_angle": "US→VN ports: offer VN destination clearance",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-24: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "import-export-logistics.com": {
+  "score": 83,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy thấp). Bằng chứng: Network/rate coverage list includes Vietnam",
+  "recommended_services": [],
+  "outreach_angle": "VN in coverage: offer partner services",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-24: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "uniglobekisco.com": {
+  "score": 63,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy thấp). Bằng chứng: Blog category 'Vietnam' (Vietnam archives)",
+  "recommended_services": [],
+  "outreach_angle": "Covers VN: offer partner services",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-24: rubric scoring by Claude Code (mode B)"
+  ]
+ }
+}
