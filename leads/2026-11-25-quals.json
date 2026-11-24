@@ -1,0 +1,30 @@
+{
+ "ship4wd.com": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy cao). Bằng chứng: Dedicated lane pages 'Shipping from Vietnam to USA' and 'Shipping from Vietnam to Canada' (LCL/FCL)",
+  "recommended_services": [],
+  "outreach_angle": "VN→US/CA SMB lanes: offer VN origin pickup, CFS & export customs",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-25: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "shipper.id": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Freight forwarding page: export/import to and from China, Thailand, Vietnam, Japan, Australia by air or sea",
+  "recommended_services": [],
+  "outreach_angle": "ID↔VN lanes: offer VN origin/destination partner",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-25: rubric scoring by Claude Code (mode B)"
+  ]
+ }
+}

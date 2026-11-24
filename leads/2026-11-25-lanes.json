@@ -1,0 +1,48 @@
+{
+ "ship4wd.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Dedicated lane pages 'Shipping from Vietnam to USA' and 'Shipping from Vietnam to Canada' (LCL/FCL)",
+    "url": "https://ship4wd.com/shipping/vietnam-to-us https://ship4wd.com/shipping/vietnam-to-canada-shipping",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy cao). Bằng chứng: Dedicated lane pages 'Shipping from Vietnam to USA' and 'Shipping from Vietnam to Canada' (LCL/FCL)"
+ },
+ "shipper.id": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Freight forwarding page: export/import to and from China, Thailand, Vietnam, Japan, Australia by air or sea",
+    "url": "https://shipper.id/en/services/freight-forwarding/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Freight forwarding page: export/import to and from China, Thailand, Vietnam, Japan, Australia by air or sea"
+ }
+}
