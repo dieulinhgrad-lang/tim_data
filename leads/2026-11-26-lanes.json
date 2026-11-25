@@ -1,0 +1,1520 @@
+{
+ "cubeship.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'e Middle East. CN China AE Dubai HK Hong Kong IN India MX Mexico TW Taiwan TH Thailand VN Vietnam US HQ How It Works YOUR CARGO'S JOURNEY Supplier / Origin Ocean / Air Transit Customs Cub'",
+    "url": "https://www.cubeship.com/office-vietnam https://cargolinked.com/directory/dxb-cubeship-llc-48cf30ce",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'e Middle East. CN China AE Dubai HK Hong Kong IN India MX Mexico TW Taiwan TH Thailand VN Vietnam US HQ How It Works YOUR CARGO'S JOURNEY Supplier / O"
+ },
+ "msj-agency.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'Liner(NVOCC) BREAK-BULK AND PROJECT CARGO CIS BULK LIQUID SOLUTIONS Tracking Contact Vietnam Haiphong Ho chi minh Thailand Malaysia Network × Our Services Contact Now Our'",
+    "url": "https://msj-agency.com/contact.html https://msj-agency.com/haiphong_contact.html https://cargolinked.com/directory/msj-agency-sdn-bhd-756e0045",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'Liner(NVOCC) BREAK-BULK AND PROJECT CARGO CIS BULK LIQUID SOLUTIONS Tracking Contact Vietnam Haiphong Ho chi minh Thailand Malaysia Network × Our Serv"
+ },
+ "dexpell.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: '→ İstanbul ETD 28 Nov 2026 Cut-off 27 Nov 2026 View Route Closing Soon Air Consolidation Hanoi → İstanbul ETD 28 Nov 2026 Cut-off 27 Nov 2026 Get a Quote Closing Soon Air Consolidation'",
+    "url": "https://www.dexpell.com/en/turkey-to-vietnam-cargo?sailing=%C4%B0stanbul%20%E2%86%92%20Hanoi%20%C2%B7%20Turkish%20Cargo%20Kargo%20U%C3%A7a%C4%9F%C4%B1%20%C2%B7%20B777F%20%2F%20TK6232%20%C2%B7%20ETD%2028%20Nov%202026 https://cargolinked.com/directory/dexpell-logistics-699dc5d0",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy cao). Bằng chứng: Website: '→ İstanbul ETD 28 Nov 2026 Cut-off 27 Nov 2026 View Route Closing Soon Air Consolidation Hanoi → İstanbul ETD 28 Nov 2026 Cut-off 27 Nov 2026 Get a Qu"
+ },
+ "couriersandfreight.com.au": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'eight to Singapore Air Freight to New Zealand Air Freight to Malaysia Air Freight to/from Vietnam Air Freight to/from Pakistan Air Freight to Japan Air Freight to Indonesia Air Freight to'",
+    "url": "https://www.couriersandfreight.com.au/air-freight-courier/air-freight-to-from-vietnam https://cargolinked.com/directory/couriers-and-freight-abab3d5e",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Bằng chứng: Website: 'eight to Singapore Air Freight to New Zealand Air Freight to Malaysia Air Freight to/from Vietnam Air Freight to/from Pakistan Air Freight to Japan Ai"
+ },
+ "shitijlogistics.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 't destinations for Indian.. Read More shitijlogistics June 23, 2026 Blog How to Export to Vietnam from India: The Ultimate Guide Vietnam has emerged as one of the fastest-growing economie'",
+    "url": "https://shitijlogistics.com/how-to-export-to-vietnam-from-india-the-ultimate-guide/ https://cargolinked.com/directory/shitij-logistics-42509958",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Website: 't destinations for Indian.. Read More shitijlogistics June 23, 2026 Blog How to Export to Vietnam from India: The Ultimate Guide Vietnam has emerged a"
+ },
+ "indoexpress.co.id": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'HK Bangkok (BKK/LCB) USD 6 / kg 3-5 HK USD 10 / CBM 10-15 HK USD 750 / container 8-13 HK Ho Chi Minh (SGN) USD 5 / kg 3-5 HK USD 75 / CBM 10-15 HK USD 515 / container 8-13 HK Guangzhou/Fosha'",
+    "url": "https://www.indoexpress.co.id/shipping-from-vietnam-to-indonesia.html https://cargolinked.com/directory/pt-indoexpress-logistics-cc298518",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy cao). Bằng chứng: Website: 'HK Bangkok (BKK/LCB) USD 6 / kg 3-5 HK USD 10 / CBM 10-15 HK USD 750 / container 8-13 HK Ho Chi Minh (SGN) USD 5 / kg 3-5 HK USD 75 / CBM 10-15 HK USD"
+ },
+ "velonex-hk.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'ia Japan Malaysia New Zealand Philippines Singapore South Korea Sri Lanka Taiwan Thailand Vietnam Velonex Global Logistics • Air, sea and road under one partner. Fewer moving parts, clear'",
+    "url": "https://velonex-hk.com/shipping-to/vietnam https://cargolinked.com/directory/velonex-global-logistics-4bd68b72",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Bằng chứng: Website: 'ia Japan Malaysia New Zealand Philippines Singapore South Korea Sri Lanka Taiwan Thailand Vietnam Velonex Global Logistics • Air, sea and road under o"
+ },
+ "totalmovements.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'ents   Successful Air shipment of ODCs by Total Movements from India to Vietnam | Total Movement GET A QUOTE WHAT WE DO? SUCCESS STORIES CAREERS ABOUT US CUSTOMISED'",
+    "url": "https://totalmovements.com/news/successful-air-shipment-of-odcs-by-total-movements-from-india-to-vietnam/ https://cargolinked.com/directory/total-movements-02f7609a",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Website: 'ents   Successful Air shipment of ODCs by Total Movements from India to Vietnam | Total Movement GET A QUOTE WHAT WE DO? SUCCESS STORIES CAREERS ABOUT"
+ },
+ "freightsupport.nl": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'aleisië Luchtvracht Thailand Luchtvracht Nieuw-Zeeland Luchtvracht Zuid-Korea Luchtvracht Vietnam Parcel Service Pakket versturen naar Amerika Pakket versturen naar Australië Pakket verst'",
+    "url": "https://www.freightsupport.nl/luchtvracht-naar-en-van-vietnam https://www.freightsupport.nl/pakket-versturen-naar-vietnam https://cargolinked.com/directory/freight-support-cae003d7",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Bằng chứng: Website: 'aleisië Luchtvracht Thailand Luchtvracht Nieuw-Zeeland Luchtvracht Zuid-Korea Luchtvracht Vietnam Parcel Service Pakket versturen naar Amerika Pakket "
+ },
+ "rogers-asia.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'Asia is an alliance of Rogers Companies from Indonesia, Malaysia, Thailand, Singapore and Vietnam. This cohesive grouping of Rogers Companies brings together the best practices of each co'",
+    "url": "https://www.rogers-asia.com/about-rogers-asia-vietnam/ https://rogers-asia.com/about-rogers-asia-vietnam/ https://cargolinked.com/directory/rogers-asia-777a9f3a",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'Asia is an alliance of Rogers Companies from Indonesia, Malaysia, Thailand, Singapore and Vietnam. This cohesive grouping of Rogers Companies brings t"
+ },
+ "fpt-global.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'Banglamung Chonburi 20150, Thailand 3rd Floor, Smart View Building, 163-165 Tran Hung Dao Ho Chi Minh City, Vietnam Home Sectors Agriculture Automotive FMCG Oil & Gas Ports Renewables Service'",
+    "url": "https://fpt-global.com/vietnam-government-supports-development-of-renewable-energy-sources/ https://cargolinked.com/directory/fpt-global-e576e319",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'Banglamung Chonburi 20150, Thailand 3rd Floor, Smart View Building, 163-165 Tran Hung Dao Ho Chi Minh City, Vietnam Home Sectors Agriculture Automotiv"
+ },
+ "sinolyg.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: '适合设备、工程物资、建材等长期出口客户。 墨西哥、智利与秘鲁航线指南 巴西与阿根廷航线指南 中美洲与加勒比航线指南 04 中国到东南亚 Lianyungang / Qingdao Vietnam · Thailand · Philippines · Indonesia · Malaysia 从连云港或青岛出运，按目的港、货物和备货时间核对航线、单证及费用。 越南 泰国 菲'",
+    "url": "https://www.sinolyg.com/routes/china-to-vietnam-shipping https://cargolinked.com/directory/qingdao-global-view-logistics-co-ltd-lianyungang-branch-gwl-336b16e1",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Bằng chứng: Website: '适合设备、工程物资、建材等长期出口客户。 墨西哥、智利与秘鲁航线指南 巴西与阿根廷航线指南 中美洲与加勒比航线指南 04 中国到东南亚 Lianyungang / Qingdao Vietnam · Thailand · Philippines · Indonesia · Malaysia 从连云港"
+ },
+ "merzario-logistics.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'ario Shenzhen Merzario Xiamen Merzario Shanghai Merzario Ningbo Merzario Qingdao Merzario Vietnam Werken bij 1 MyMerzario Contact Offerte aanvragen Login Uw partner in logistiek Expediteu'",
+    "url": "https://merzario-logistics.com/kantoren/merzario-vietnam/ https://cargolinked.com/directory/merzario-your-partner-in-logistics-4c8d8976",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'ario Shenzhen Merzario Xiamen Merzario Shanghai Merzario Ningbo Merzario Qingdao Merzario Vietnam Werken bij 1 MyMerzario Contact Offerte aanvragen Lo"
+ },
+ "prestocargo.com.tr": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'ı Deniz Ningbo — Ambarlı Deniz Uzak Doğu — Türkiye Uzak Doğu Havayolu Uzak Doğu Denizyolu Vietnam — Türkiye Güney Kore — Türkiye Tayvan — Türkiye Diğer hatlar Avrupa Karayolu Orta Asya Ka'",
+    "url": "https://prestocargo.com.tr/rotalar/vietnam-turkiye-konteyner https://cargolinked.com/directory/presto-cargo-solutions-8d28dd3b",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy cao). Bằng chứng: Website: 'ı Deniz Ningbo — Ambarlı Deniz Uzak Doğu — Türkiye Uzak Doğu Havayolu Uzak Doğu Denizyolu Vietnam — Türkiye Güney Kore — Türkiye Tayvan — Türkiye Diğe"
+ },
+ "nvdasia.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'g Sea Freight Air Freight Rail Freight Warehousing Origin and Booking Chongqing Guangzhou Ho Chi Minh City Hong Kong Malaysia Ningbo Qingdao Shanghai Shenzhen Singapore Taiwan Tianjin Taipei'",
+    "url": "https://www.nvdasia.com/location-ho-chi-minh-city/ https://cargolinked.com/directory/nvd-asia-adba4bb9",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'g Sea Freight Air Freight Rail Freight Warehousing Origin and Booking Chongqing Guangzhou Ho Chi Minh City Hong Kong Malaysia Ningbo Qingdao Shanghai "
+ },
+ "shantoulogistics.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'xhibition News Industry News Blog Send Inquiry New Service Ocean Freight from Shenzhen to Ho Chi Minh Contact Us Ocean Shipping from Shenzhen to Manila Philippines Contact Us Ocean Shipping f'",
+    "url": "https://www.shantoulogistics.com/sea-freight-to-southest-asia/68676682.html https://www.shantoulogistics.com/lcl-consolidation/68703267.html https://cargolinked.com/directory/shantou-yi-tong-logistics-9e54c0b8",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy cao). Bằng chứng: Website: 'xhibition News Industry News Blog Send Inquiry New Service Ocean Freight from Shenzhen to Ho Chi Minh Contact Us Ocean Shipping from Shenzhen to Manil"
+ },
+ "angkatph.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'a region to see its warehouses. 🇨🇳 China 3 🇭🇰 Hong Kong 1 🇰🇷 South Korea 1 🇹🇼 Taiwan 1 🇻🇳 Vietnam 2 🇵🇭 Philippines 2 🇨🇳 China Origin Three consolidation warehouses across China's biggest'",
+    "url": "https://angkatph.com/blog/where-to-source-china-korea-taiwan-hong-kong.html https://cargolinked.com/directory/angkat-ph-34e0ce56",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Website: 'a region to see its warehouses. 🇨🇳 China 3 🇭🇰 Hong Kong 1 🇰🇷 South Korea 1 🇹🇼 Taiwan 1 🇻🇳 Vietnam 2 🇵🇭 Philippines 2 🇨🇳 China Origin Three consolidati"
+ },
+ "transport-dr.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'ery within 25 days) Read More = 1350px Huajian Heavy Industry's Steel Rebar Export in Vietnam Affordable Housing Project In March 2025, Huajian Heavy Industry, a domestic building mat'",
+    "url": "https://www.transport-dr.com/application/huajian-heavy-industry-s-steel-rebar-export.html https://cargolinked.com/directory/dalian-dingran-logistics-freight-forwarding-co-ltd-975f4472",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Website: 'ery within 25 days) Read More = 1350px Huajian Heavy Industry's Steel Rebar Export in Vietnam Affordable Housing Project In March 2025, Huajian Heavy "
+ },
+ "zbzglobal.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'LOGISTICS – Moving Your Business Forward Malaysia Office Malaysia Office Indonesia Office Vietnam Office Philippines Office CALL FREE: +603 33245660 info@zbzglobal.com Mon —Fri: 9AM — 6PM'",
+    "url": "https://zbzglobal.com/ https://cargolinked.com/directory/zbz-global-logistics-pt-2ac8eb8c",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'LOGISTICS – Moving Your Business Forward Malaysia Office Malaysia Office Indonesia Office Vietnam Office Philippines Office CALL FREE: +603 33245660 i"
+ },
+ "b-greenlogistics.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'ependable interface between cargo and the gateway. NAIA · Seaports Project spotlight From Vietnam to Lucena A heavy-lift project cargo move handled end to end — mobile harbour cranes load'",
+    "url": "https://www.b-greenlogistics.com/ https://cargolinked.com/directory/b-green-logistics-philippines-inc-44209d96",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Website: 'ependable interface between cargo and the gateway. NAIA · Seaports Project spotlight From Vietnam to Lucena A heavy-lift project cargo move handled en"
+ },
+ "investacklogistics.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'a to Bangladesh China to Australia India to USA India to UK India to Germany India to UAE Vietnam to USA Vietnam to UK Vietnam to Germany Warehousing solution Investack 360 Close Investac'",
+    "url": "https://investacklogistics.com/ https://cargolinked.com/directory/investack-logistics-bd4caa26",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Website: 'a to Bangladesh China to Australia India to USA India to UK India to Germany India to UAE Vietnam to USA Vietnam to UK Vietnam to Germany Warehousing "
+ },
+ "creo-logistics.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: '0 Paya Lebar Road, #07-04, AZ @ Paya Lebar, Singapore 409015 Branch Office Creo Logistics Vietnam Co., Ltd. Room 17-11, Floor 17, Vincom Center Dong Khoi, 72 Le Thanh Ton St., Sai Gon War'",
+    "url": "https://www.creo-logistics.com/ https://cargolinked.com/directory/creo-logistics-pte-ltd-85945827",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: '0 Paya Lebar Road, #07-04, AZ @ Paya Lebar, Singapore 409015 Branch Office Creo Logistics Vietnam Co., Ltd. Room 17-11, Floor 17, Vincom Center Dong K"
+ },
+ "yidaship.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'Solution & Verification Global Network 20+ owned offices in USA (NJ, CA), Germany (FRA), Vietnam (Hanoi), UAE (DXB). (view more) Speed You Can Rely On • 3-day air to USA (DHL/UPS partner'",
+    "url": "https://yidaship.com/ https://cargolinked.com/directory/yida-international-freight-forwarding-co-ltd-c0c1ae13",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'Solution & Verification Global Network 20+ owned offices in USA (NJ, CA), Germany (FRA), Vietnam (Hanoi), UAE (DXB). (view more) Speed You Can Rely On"
+ },
+ "castlegateforwarding.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'global logistics network. Origin Trucking Origin trucking across China's major ports plus Vietnam and Malaysia, with competitive rates and real-time tracking. Origin Consolidation Service'",
+    "url": "https://www.castlegateforwarding.com/services/origin-trucking https://cargolinked.com/directory/castlegate-forwarding-0fc86423",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Website: 'global logistics network. Origin Trucking Origin trucking across China's major ports plus Vietnam and Malaysia, with competitive rates and real-time t"
+ },
+ "fpsrtm.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'hanghai (2 sailings per week) Direct import service from Dubai Direct import service from Haiphong Latest news All news 23 nov Direct Weekly LCL Service – EX Jakarta to Rotterdam Streamlin'",
+    "url": "https://fpsrtm.com/ https://cargolinked.com/directory/fps-germany-5653ea44",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy cao). Bằng chứng: Website: 'hanghai (2 sailings per week) Direct import service from Dubai Direct import service from Haiphong Latest news All news 23 nov Direct Weekly LCL Servi"
+ },
+ "ftl-group.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'arted 2 years ago in Singapore has now established their offices in Indo China (Thailand, Vietnam, Cambodia, Laos), Japan, Malaysia and Singapore as Headquarters. “It is encouraging to se'",
+    "url": "https://www.ftl-group.com/ https://cargolinked.com/directory/ftl-group-cf5370ba",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'arted 2 years ago in Singapore has now established their offices in Indo China (Thailand, Vietnam, Cambodia, Laos), Japan, Malaysia and Singapore as H"
+ },
+ "matrixsupplychain.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'r is in Singapore, and we have a large network of branches in India (Chennai), Indonesia, Vietnam, and Singapore. Our offices and warehouses strategically utilize their locations by opera'",
+    "url": "https://matrixsupplychain.com/ https://cargolinked.com/directory/matrix-freight-forwarders-pte-ltd-df1f3872",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'r is in Singapore, and we have a large network of branches in India (Chennai), Indonesia, Vietnam, and Singapore. Our offices and warehouses strategic"
+ },
+ "resourcesfreight.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'ity. Discover Our Shipments Process Contact Our International Office Singapore Philipines Vietnam Awards & Affiliations Stay Connected © Resources Freight Pte Ltd. Website by Creative eWo'",
+    "url": "https://resourcesfreight.com/ https://cargolinked.com/directory/resources-freight-pte-ltd-417aec12",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'ity. Discover Our Shipments Process Contact Our International Office Singapore Philipines Vietnam Awards & Affiliations Stay Connected © Resources Fre"
+ },
+ "tbclog.sg": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'he island (Bonded warehouse with TradeFIRST enhanced Band) Agent and Offices in Malaysia, Vietnam, Thailand, Shanghai, Australia, Indonesia & Philippines logistics and supply chain operat'",
+    "url": "https://tbclog.sg/ https://cargolinked.com/directory/t-b-c-transportation-trading-pte-ltd-5d114e69",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Website: 'he island (Bonded warehouse with TradeFIRST enhanced Band) Agent and Offices in Malaysia, Vietnam, Thailand, Shanghai, Australia, Indonesia & Philippi"
+ },
+ "logimark-group.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'ka 🇧🇩 Chittagong 🇧🇩 Chittagong 🇧🇩 Chittagong 🇰🇭 Phnom Penh 🇰🇭 Phnom Penh 🇰🇭 Phnom Penh 🇻🇳 Ha Noi 🇻🇳 Ha Noi 🇻🇳 Ha Noi 🇻🇳 Ho Chi Minh 🇻🇳 Ho Chi Minh 🇻🇳 Ho Chi Minh 🇹🇭 Bangkok 🇹🇭 Bangkok 🇹🇭'",
+    "url": "https://www.logimark-group.com/network/ha-noi https://www.logimark-group.com/network/ho-chi-minh https://cargolinked.com/directory/logimark-international-limited-fd6ff479",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'ka 🇧🇩 Chittagong 🇧🇩 Chittagong 🇧🇩 Chittagong 🇰🇭 Phnom Penh 🇰🇭 Phnom Penh 🇰🇭 Phnom Penh 🇻🇳 Ha Noi 🇻🇳 Ha Noi 🇻🇳 Ha Noi 🇻🇳 Ho Chi Minh 🇻🇳 Ho Chi Minh 🇻🇳 "
+ },
+ "premiere-logistics.info": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'Ningbo Beijing Tianjin Qingdao Chongqing Hong Kong Taiwan Singapore Indonesia Netherland Vietnam Sweden Malaysia Newsletter News & Media Careers Recruitment Management Traniee Program Co'",
+    "url": "https://www.premiere-logistics.info/copy-of-offices-11 https://cargolinked.com/directory/premiere-logistics-netherlands-b-v-ca24d18a",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'Ningbo Beijing Tianjin Qingdao Chongqing Hong Kong Taiwan Singapore Indonesia Netherland Vietnam Sweden Malaysia Newsletter News & Media Careers Recru"
+ },
+ "shground.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'nd Inventory Management We provide state-of-the-art warehousing services in Singapore and Vietnam, including temperature-controlled storage and 24/7 CCTV surveillance. Our 3PL logistics f'",
+    "url": "https://shground.com/our-services/warehousing/ https://cargolinked.com/directory/sh-ground-services-d5828c35",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'nd Inventory Management We provide state-of-the-art warehousing services in Singapore and Vietnam, including temperature-controlled storage and 24/7 C"
+ },
+ "wingtrans.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'sia in Hong Kong, Shanghai, Shenzhen, Taipei, Guangzhou, Xiamen, Qingdao, Tianjin, Seoul, Ho Chi Minh City, and Hanoi, we ensure seamless and efficient logistics solutions tailored to your sp'",
+    "url": "https://www.wingtrans.com/ https://cargolinked.com/directory/wing-trans-logistics-hk-ltd-2463b1c9",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'sia in Hong Kong, Shanghai, Shenzhen, Taipei, Guangzhou, Xiamen, Qingdao, Tianjin, Seoul, Ho Chi Minh City, and Hanoi, we ensure seamless and efficien"
+ },
+ "linkpasipik.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'rvices Schedules Our Office Service Import Export Air Freight SOC From Laem Chabang (THA) Ho Chi Minh (VNM) Ningbo (CHN) Hongkong (HKG) Shanghai (CHN) Port Kelang (MYS) Shenzen (CHN) Tianjin'",
+    "url": "https://linkpasipik.com/ https://cargolinked.com/directory/link-pacific-logistics-c4b771a8",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Website: 'rvices Schedules Our Office Service Import Export Air Freight SOC From Laem Chabang (THA) Ho Chi Minh (VNM) Ningbo (CHN) Hongkong (HKG) Shanghai (CHN)"
+ },
+ "aabiport.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'e, Plot No. – 5, Sector -12, Dwarka, New Delhi 110077 Address(VN) : CONG TY TNHH AABIPORT VIETNAM HQ Songha Building No. 10, Street 33, An Khanh Ward Ho Chi Minh City, Vietnam Tel(IN): +9'",
+    "url": "https://aabiport.com/ https://cargolinked.com/directory/aabiport-2394b182",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'e, Plot No. – 5, Sector -12, Dwarka, New Delhi 110077 Address(VN) : CONG TY TNHH AABIPORT VIETNAM HQ Songha Building No. 10, Street 33, An Khanh Ward "
+ },
+ "primerich.com.hk": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'hen City, Guangdong Province, China. Tel: (86) 0755-2372-2580 Email: priszop02@prilogi.cn Vietnam - Hanoi Branch 18/F, Icon4 Tower, 243A De La Thanh, Lang Thuong Ward, Dong Da District, H'",
+    "url": "https://primerich.com.hk/ https://cargolinked.com/directory/prime-rich-international-logistics-limited-e79d653d",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'hen City, Guangdong Province, China. Tel: (86) 0755-2372-2580 Email: priszop02@prilogi.cn Vietnam - Hanoi Branch 18/F, Icon4 Tower, 243A De La Thanh, "
+ },
+ "keyslogistics.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'ock B8, Phu Ma Duong building 79/1 Hoang Van Thai street, Tan Phu Ward, District 7, HCMC, Vietnam 9/F, Block A, Hong Kong Industrial Centre, No. 489 – 491 Castle Peak Road, Kowloon, Hong'",
+    "url": "https://keyslogistics.com/ https://cargolinked.com/directory/keys-logistics-ltd-75df8c20",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'ock B8, Phu Ma Duong building 79/1 Hoang Van Thai street, Tan Phu Ward, District 7, HCMC, Vietnam 9/F, Block A, Hong Kong Industrial Centre, No. 489 –"
+ },
+ "hazelwrights.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: '32 L W Jeanjaquet Manager Email: william@hazelwrights.com A Gallardo Documentation Email: Vietnam Hazel Wrights (VN) Logistics Co. Ltd. 4th Fl., 103 Pham Viet Chanh St., Ward 19, Binh Tha'",
+    "url": "https://hazelwrights.com/ https://cargolinked.com/directory/hazel-wrights-logistics-pte-ltd-9f2284c4",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: '32 L W Jeanjaquet Manager Email: william@hazelwrights.com A Gallardo Documentation Email: Vietnam Hazel Wrights (VN) Logistics Co. Ltd. 4th Fl., 103 P"
+ },
+ "futurefreight.co.th": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'nit • Inland Trucking by border of Thailand to Cambodia, Malaysia, Myanmar, Singapore and Vietnam • In-Transit shipment by border of Thailand to Laos, PDR • Full logistics provider of Pro'",
+    "url": "https://futurefreight.co.th/ https://cargolinked.com/directory/future-freight-co-ltd-8e0b2c8a",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Website: 'nit • Inland Trucking by border of Thailand to Cambodia, Malaysia, Myanmar, Singapore and Vietnam • In-Transit shipment by border of Thailand to Laos,"
+ },
+ "engthai.com.my": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'ecting Borders ENG THAI - Connecting Borders Malaysia | Thailand | Singapore | Cambodia | Vietnam | Laos | Myanmar | China Our Services Contact Us Myanmar Laos China Thailand Cambodia Vie'",
+    "url": "https://engthai.com.my/ https://cargolinked.com/directory/eng-thai-transport-sdn-bhd-c5d41657",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Website: 'ecting Borders ENG THAI - Connecting Borders Malaysia | Thailand | Singapore | Cambodia | Vietnam | Laos | Myanmar | China Our Services Contact Us Mya"
+ },
+ "gateway-id.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'n Building Road North 6, North Reclamation Area Cebu City, Philippines 6000 Visit website Vietnam, Ho Chi Minh Gateway Container Line Co.,Ltd 50 Huỳnh Khương Ninh, Đa Kao, Quận 1, Thành p'",
+    "url": "https://gateway-id.com/ https://cargolinked.com/directory/pt-gateway-container-line-8e4f43f8",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'n Building Road North 6, North Reclamation Area Cebu City, Philippines 6000 Visit website Vietnam, Ho Chi Minh Gateway Container Line Co.,Ltd 50 Huỳnh"
+ },
+ "sunshinelogistics.ca": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'i Ningbo Shenzhen Guangzhou Tianjin Qingdao Xiamen Hong Kong Dalian Busan Tokyo Kaohsiung Haiphong Ho Chi Minh Laem Chabang Singapore Port Klang Jakarta Manila Melbourne Taipei / Keelung O'",
+    "url": "https://www.sunshinelogistics.ca/ https://cargolinked.com/directory/sunshine-logistics-canada-inc-dafed82e",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Website: 'i Ningbo Shenzhen Guangzhou Tianjin Qingdao Xiamen Hong Kong Dalian Busan Tokyo Kaohsiung Haiphong Ho Chi Minh Laem Chabang Singapore Port Klang Jakar"
+ },
+ "impocforwarding.mx": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'ino a escala global Shanghái → Ningbo → Shenzhen → Qingdao → Yantian → Singapur → Busan → Ho Chi Minh → Port Klang → Kaohsiung → Rotterdam → Amberes → Hamburgo → Valencia → Le Havre → Los Áng'",
+    "url": "https://impocforwarding.mx/ https://cargolinked.com/directory/impoc-forwarding-bf1b0056",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy thấp). Bằng chứng: Website: 'ino a escala global Shanghái → Ningbo → Shenzhen → Qingdao → Yantian → Singapur → Busan → Ho Chi Minh → Port Klang → Kaohsiung → Rotterdam → Amberes →"
+ },
+ "maefreight.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'y chains stable and cost-effective. Today, we manage tyre shipments from China, Thailand, Vietnam, Cambodia, Indonesia, Japan, South Korea, Taiwan, and Singapore to key destinations in Eu'",
+    "url": "https://www.maefreight.com/ https://cargolinked.com/directory/mae-international-logistics-2c8d93e3",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Website: 'y chains stable and cost-effective. Today, we manage tyre shipments from China, Thailand, Vietnam, Cambodia, Indonesia, Japan, South Korea, Taiwan, an"
+ },
+ "8-freight.net": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'wnload Company Profile CONTACT US The 8 Freight Group Switzerland – Australia – Germany – Vietnam – Italy Privacy and cookie Please insert your best email to let us send you our presentat'",
+    "url": "https://8-freight.net/ https://cargolinked.com/directory/8-freight-global-946c3a8c",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'wnload Company Profile CONTACT US The 8 Freight Group Switzerland – Australia – Germany – Vietnam – Italy Privacy and cookie Please insert your best e"
+ },
+ "ingo-gallmeister.de": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'r stärkste Markt für uns mit täglichen Verladungen, aber auch aus den USA, von Indien und Vietnam haben wir sehr regelmäßige Luftfrachten. Im Export können wir die Sendungen bereits in Ih'",
+    "url": "https://www.ingo-gallmeister.de/ https://cargolinked.com/directory/ingo-e-gallmeister-gmbh-ba66fb0d",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Website: 'r stärkste Markt für uns mit täglichen Verladungen, aber auch aus den USA, von Indien und Vietnam haben wir sehr regelmäßige Luftfrachten. Im Export k"
+ },
+ "auklogistics.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'with an office network across APAC — Melbourne, Hong Kong, Taiwan, Malaysia, Thailand and Vietnam. Our people bring an average of 15+ years across freight forwarding, shipping lines, airl'",
+    "url": "https://auklogistics.com/ https://cargolinked.com/directory/auk-logistics-380c1615",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'with an office network across APAC — Melbourne, Hong Kong, Taiwan, Malaysia, Thailand and Vietnam. Our people bring an average of 15+ years across fre"
+ },
+ "evolines.com.sg": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'VO Lines operates globally with a presence in 13 countries, including Malaysia, Thailand, Vietnam, Indonesia, China, Hong Kong, Taiwan, Japan, Australia, Singapore, Korea, Europe and the'",
+    "url": "https://evolines.com.sg/ https://cargolinked.com/directory/evo-lines-s-pte-ltd-3ce4f96a",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'VO Lines operates globally with a presence in 13 countries, including Malaysia, Thailand, Vietnam, Indonesia, China, Hong Kong, Taiwan, Japan, Austral"
+ },
+ "ftforwarding.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'al, #04-33, S159836 Mon-Fri (9:30am - 2:30pm) UEN: 202318849N FAST TRACK FORWARDING GROUP HO CHI MINH | SINGAPORE | HONG KONG | SHENZHEN Coppyright Delivey. 2022 All Right Reserved Coppyright'",
+    "url": "https://ftforwarding.com/ https://cargolinked.com/directory/fast-track-forwarding-group-fd3adbe2",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'al, #04-33, S159836 Mon-Fri (9:30am - 2:30pm) UEN: 202318849N FAST TRACK FORWARDING GROUP HO CHI MINH | SINGAPORE | HONG KONG | SHENZHEN Coppyright De"
+ },
+ "gnlgroup.net": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'ation Line || We Deliver on Time, Every Time UAE +971 54 5729433 Thailand +66 99 351 1996 Vietnam +84 33 627 6560 United Kingdom +44 7466 670215 Home About Us Our Services NVOCC Freight F'",
+    "url": "https://gnlgroup.net/ https://cargolinked.com/directory/global-navigation-line-b5419957",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'ation Line || We Deliver on Time, Every Time UAE +971 54 5729433 Thailand +66 99 351 1996 Vietnam +84 33 627 6560 United Kingdom +44 7466 670215 Home "
+ },
+ "mattroy.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'we are located in various countries across Asia ; Singapore, Indonesia, Malaysia, China, Vietnam, Hong Kong, Taiwan, Myanmar & Sri Lanka. Contact Us Our Services Slide World class qualit'",
+    "url": "https://mattroy.com/ https://cargolinked.com/directory/mattroy-logistics-pte-ltd-2dd6e851",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'we are located in various countries across Asia ; Singapore, Indonesia, Malaysia, China, Vietnam, Hong Kong, Taiwan, Myanmar & Sri Lanka. Contact Us O"
+ },
+ "gfxth.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'n southern China, the Greater Mekong countries and Thailand, by air, sea or road. China · Vietnam · Laos · Myanmar · Cambodia Southeast Asia Gateway Onward routing to the straits and the'",
+    "url": "https://www.gfxth.com/ https://cargolinked.com/directory/grand-freight-x-solutions-co-ltd-60273e11",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Website: 'n southern China, the Greater Mekong countries and Thailand, by air, sea or road. China · Vietnam · Laos · Myanmar · Cambodia Southeast Asia Gateway O"
+ },
+ "iccl.com.my": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'd Asean Extensive Coverage - From China to ASEAN including the Mainland China, Hong Kong, Vietnam, Thailand, Myanmar, Laos, Cambodia, Malaysia and Singapore. Reliability - A network of hu'",
+    "url": "https://iccl.com.my/ https://cargolinked.com/directory/integrated-cold-chain-logistics-sdn-bhd-eceb3cf1",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Website: 'd Asean Extensive Coverage - From China to ASEAN including the Mainland China, Hong Kong, Vietnam, Thailand, Myanmar, Laos, Cambodia, Malaysia and Sin"
+ },
+ "izzyship.my": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'providing simple, reliable and efficient shipping services from China, Taiwan, Indonesia, Vietnam, Philippines and Thailand to Malaysia, with a commitment to ensuring the highest level of'",
+    "url": "https://www.izzyship.my/ https://cargolinked.com/directory/izzyship-d50e5383",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Website: 'providing simple, reliable and efficient shipping services from China, Taiwan, Indonesia, Vietnam, Philippines and Thailand to Malaysia, with a commit"
+ },
+ "aminlogistics.id": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'import barang dari berbagai negara asia lainnya seperti: Hongkong, Jepang, Korea, Taiwan, Vietnam, Thailand, Singapore. Dan kami akan memproses Customs Clearance untuk selanjutnya mendist'",
+    "url": "https://aminlogistics.id/ https://cargolinked.com/directory/amin-logistics-85da1b9f",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy thấp). Bằng chứng: Website: 'import barang dari berbagai negara asia lainnya seperti: Hongkong, Jepang, Korea, Taiwan, Vietnam, Thailand, Singapore. Dan kami akan memproses Custom"
+ },
+ "seamaster.co.id": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'export barang dari berbagai negara asia seperti: China, Hongkong, Jepang, Korea, Taiwan, Vietnam, Thailand, Singapore. Dan kami akan memproses Customs Clearance untuk selanjutnya mendist'",
+    "url": "https://seamaster.co.id/ https://cargolinked.com/directory/seamaster-logistics-8db93161",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy thấp). Bằng chứng: Website: 'export barang dari berbagai negara asia seperti: China, Hongkong, Jepang, Korea, Taiwan, Vietnam, Thailand, Singapore. Dan kami akan memproses Customs"
+ },
+ "geneveshipping.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: '50 439 1285 Email: [email protected] our presence UAE India Singapore SRI LANKA Malaysia Vietnam Cambodia Headquarters 101, Bay Square- 06, Business Bay , Dubai, UAE Instagram Facebook L'",
+    "url": "https://geneveshipping.com/ https://cargolinked.com/directory/geneve-shipping-ea1a89ff",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: '50 439 1285 Email: [email protected] our presence UAE India Singapore SRI LANKA Malaysia Vietnam Cambodia Headquarters 101, Bay Square- 06, Business B"
+ },
+ "eztranslogistics.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'd air freight from major Chinese ports and airports, and from other Asian origins such as Vietnam, Thailand, South Korea, Japan, and Taiwan, clear Canadian customs, transload at Vancouver'",
+    "url": "https://www.eztranslogistics.com/ https://cargolinked.com/directory/eztrans-logistics-ltd-304c3287",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Website: 'd air freight from major Chinese ports and airports, and from other Asian origins such as Vietnam, Thailand, South Korea, Japan, and Taiwan, clear Can"
+ },
+ "kdsgroup.net": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'co | enquiries@bffl.co Bffl agent (Shenzhen) www.bffl.co | enquiries@bffl.co Bffl agent (Hai phong) www.bffl.co | enquiries@bffl.co Bffl agent (Jakarta) www.bffl.co | enquiries@bffl.co Bff'",
+    "url": "https://kdsgroup.net/ https://cargolinked.com/directory/kds-logistics-ltd-5669caf0",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Website: 'co | enquiries@bffl.co Bffl agent (Shenzhen) www.bffl.co | enquiries@bffl.co Bffl agent (Hai phong) www.bffl.co | enquiries@bffl.co Bffl agent (Jakart"
+ },
+ "frtconsol.com.sg": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'ht Consolidators connects local expertise with global reach. Singapore Malaysia Indonesia Vietnam Singapore Malaysia Indonesia Vietnam Ready to Move Cargo? Get in touch with our team for'",
+    "url": "https://frtconsol.com.sg/ https://cargolinked.com/directory/freight-consolidators-pte-ltd-832e1b81",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'ht Consolidators connects local expertise with global reach. Singapore Malaysia Indonesia Vietnam Singapore Malaysia Indonesia Vietnam Ready to Move C"
+ },
+ "avastrid.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'd, Air & Rail freight to all CIS sectors from UAE, India, China, USA, Europe, Indonesia & Vietnam. Door-to-Door Deliveries to Africa Complete best-mile logistics to African Interlands — n'",
+    "url": "https://avastrid.com/ https://cargolinked.com/directory/astrid-sea-shipping-co-llc-e0de908d",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Website: 'd, Air & Rail freight to all CIS sectors from UAE, India, China, USA, Europe, Indonesia & Vietnam. Door-to-Door Deliveries to Africa Complete best-mil"
+ },
+ "abhamfreight.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'avannah → Istanbul Montreal → Port Qasim Houston → Port Said Norfolk → Mundra Vancouver → Haiphong Los Angeles → Penang Toronto → Nhava Sheva Chicago → Port Klang Savannah → Istanbul Montr'",
+    "url": "https://abhamfreight.com/ https://cargolinked.com/directory/abham-freight-c9f58e09",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy thấp). Bằng chứng: Website: 'avannah → Istanbul Montreal → Port Qasim Houston → Port Said Norfolk → Mundra Vancouver → Haiphong Los Angeles → Penang Toronto → Nhava Sheva Chicago "
+ },
+ "shifl.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 're in New York with offices around the world. Currently in China, India, the Philippines, Vietnam, Bangladesh, and Georgia. We are your direct connection. Why shifl? Shifl makes it effici'",
+    "url": "https://shifl.com/ https://cargolinked.com/directory/shifl-a421b482",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 're in New York with offices around the world. Currently in China, India, the Philippines, Vietnam, Bangladesh, and Georgia. We are your direct connect"
+ },
+ "centralcargo.mx": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'ea, Filipinas, Hong Kong, India, Indonesia, Japón, Malasia, Singapur, Tailandia, Taiwán y Vietnam. Oceanía / África Angola, Argelia, Australia, Egipto, Nigeria, Nueva Zelanda y Sudán. Nue'",
+    "url": "https://centralcargo.mx/ https://cargolinked.com/directory/central-cargo-66cc71bc",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy thấp). Bằng chứng: Website: 'ea, Filipinas, Hong Kong, India, Indonesia, Japón, Malasia, Singapur, Tailandia, Taiwán y Vietnam. Oceanía / África Angola, Argelia, Australia, Egipto"
+ },
+ "sameli.com.mx": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'comerciales globales. Alianzas con carriers internacionales. Asia → México China, Corea, Vietnam Europa → México España, Alemania, Italia USA → México LTL, FTL, Cross-border Nacional Tod'",
+    "url": "https://www.sameli.com.mx/ https://cargolinked.com/directory/sameli-logistics-57149522",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy thấp). Bằng chứng: Website: 'comerciales globales. Alianzas con carriers internacionales. Asia → México China, Corea, Vietnam Europa → México España, Alemania, Italia USA → México"
+ },
+ "farinafreight.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'íses Bajos España Portugal Italia Polonia Finlandia Suecia Suiza Asia: ​China Corea Japón Vietnam Malasia Indonesia Filipinas India Tailandia Taiwan Bangladesh Oceanía: Australia Nueva Ze'",
+    "url": "https://www.farinafreight.com/ https://cargolinked.com/directory/farina-international-24f37687",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy thấp). Bằng chứng: Website: 'íses Bajos España Portugal Italia Polonia Finlandia Suecia Suiza Asia: ​China Corea Japón Vietnam Malasia Indonesia Filipinas India Tailandia Taiwan B"
+ }
+}

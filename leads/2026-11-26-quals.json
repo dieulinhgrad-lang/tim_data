@@ -1,0 +1,884 @@
+{
+ "cubeship.com": {
+  "score": 70,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'e Middle East. CN China AE Dubai HK Hong Kong IN India MX Mexico TW Taiwan TH Thailand VN Vietnam US HQ How It Works YOUR CARGO'S JOURNEY Supplier / O",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "msj-agency.com": {
+  "score": 45,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'Liner(NVOCC) BREAK-BULK AND PROJECT CARGO CIS BULK LIQUID SOLUTIONS Tracking Contact Vietnam Haiphong Ho chi minh Thailand Malaysia Network × Our Serv",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "dexpell.com": {
+  "score": 80,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy cao). Bằng chứng: Website: '→ İstanbul ETD 28 Nov 2026 Cut-off 27 Nov 2026 View Route Closing Soon Air Consolidation Hanoi → İstanbul ETD 28 Nov 2026 Cut-off 27 Nov 2026 Get a Qu",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-VN: offer VN origin pickup, consolidation & export customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "couriersandfreight.com.au": {
+  "score": 60,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Bằng chứng: Website: 'eight to Singapore Air Freight to New Zealand Air Freight to Malaysia Air Freight to/from Vietnam Air Freight to/from Pakistan Air Freight to Japan Ai",
+  "recommended_services": [],
+  "outreach_angle": "VN lane both ways: offer VN partner services",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "shitijlogistics.com": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Website: 't destinations for Indian.. Read More shitijlogistics June 23, 2026 Blog How to Export to Vietnam from India: The Ultimate Guide Vietnam has emerged a",
+  "recommended_services": [],
+  "outreach_angle": "Ships to VN: offer VN destination clearance & delivery",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "indoexpress.co.id": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy cao). Bằng chứng: Website: 'HK Bangkok (BKK/LCB) USD 6 / kg 3-5 HK USD 10 / CBM 10-15 HK USD 750 / container 8-13 HK Ho Chi Minh (SGN) USD 5 / kg 3-5 HK USD 75 / CBM 10-15 HK USD",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-VN: offer VN origin pickup, consolidation & export customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "velonex-hk.com": {
+  "score": 80,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy cao). Bằng chứng: Website: 'ia Japan Malaysia New Zealand Philippines Singapore South Korea Sri Lanka Taiwan Thailand Vietnam Velonex Global Logistics • Air, sea and road under o",
+  "recommended_services": [],
+  "outreach_angle": "Ships to VN: offer VN destination clearance & delivery",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "totalmovements.com": {
+  "score": 70,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Website: 'ents   Successful Air shipment of ODCs by Total Movements from India to Vietnam | Total Movement GET A QUOTE WHAT WE DO? SUCCESS STORIES CAREERS ABOUT",
+  "recommended_services": [],
+  "outreach_angle": "Ships to VN: offer VN destination clearance & delivery",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "freightsupport.nl": {
+  "score": 70,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Bằng chứng: Website: 'aleisië Luchtvracht Thailand Luchtvracht Nieuw-Zeeland Luchtvracht Zuid-Korea Luchtvracht Vietnam Parcel Service Pakket versturen naar Amerika Pakket ",
+  "recommended_services": [],
+  "outreach_angle": "VN lane both ways: offer VN partner services",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "rogers-asia.com": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'Asia is an alliance of Rogers Companies from Indonesia, Malaysia, Thailand, Singapore and Vietnam. This cohesive grouping of Rogers Companies brings t",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "fpt-global.com": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'Banglamung Chonburi 20150, Thailand 3rd Floor, Smart View Building, 163-165 Tran Hung Dao Ho Chi Minh City, Vietnam Home Sectors Agriculture Automotiv",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "sinolyg.com": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy cao). Bằng chứng: Website: '适合设备、工程物资、建材等长期出口客户。 墨西哥、智利与秘鲁航线指南 巴西与阿根廷航线指南 中美洲与加勒比航线指南 04 中国到东南亚 Lianyungang / Qingdao Vietnam · Thailand · Philippines · Indonesia · Malaysia 从连云港",
+  "recommended_services": [],
+  "outreach_angle": "Ships to VN: offer VN destination clearance & delivery",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "merzario-logistics.com": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'ario Shenzhen Merzario Xiamen Merzario Shanghai Merzario Ningbo Merzario Qingdao Merzario Vietnam Werken bij 1 MyMerzario Contact Offerte aanvragen Lo",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "prestocargo.com.tr": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy cao). Bằng chứng: Website: 'ı Deniz Ningbo — Ambarlı Deniz Uzak Doğu — Türkiye Uzak Doğu Havayolu Uzak Doğu Denizyolu Vietnam — Türkiye Güney Kore — Türkiye Tayvan — Türkiye Diğe",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-VN: offer VN origin pickup, consolidation & export customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "nvdasia.com": {
+  "score": 45,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'g Sea Freight Air Freight Rail Freight Warehousing Origin and Booking Chongqing Guangzhou Ho Chi Minh City Hong Kong Malaysia Ningbo Qingdao Shanghai ",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "shantoulogistics.com": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy cao). Bằng chứng: Website: 'xhibition News Industry News Blog Send Inquiry New Service Ocean Freight from Shenzhen to Ho Chi Minh Contact Us Ocean Shipping from Shenzhen to Manil",
+  "recommended_services": [],
+  "outreach_angle": "Ships to VN: offer VN destination clearance & delivery",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "angkatph.com": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Website: 'a region to see its warehouses. 🇨🇳 China 3 🇭🇰 Hong Kong 1 🇰🇷 South Korea 1 🇹🇼 Taiwan 1 🇻🇳 Vietnam 2 🇵🇭 Philippines 2 🇨🇳 China Origin Three consolidati",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-VN: offer VN origin pickup, consolidation & export customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "transport-dr.com": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Website: 'ery within 25 days) Read More = 1350px Huajian Heavy Industry's Steel Rebar Export in Vietnam Affordable Housing Project In March 2025, Huajian Heavy ",
+  "recommended_services": [],
+  "outreach_angle": "Ships to VN: offer VN destination clearance & delivery",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "zbzglobal.com": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'LOGISTICS – Moving Your Business Forward Malaysia Office Malaysia Office Indonesia Office Vietnam Office Philippines Office CALL FREE: +603 33245660 i",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "b-greenlogistics.com": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Website: 'ependable interface between cargo and the gateway. NAIA · Seaports Project spotlight From Vietnam to Lucena A heavy-lift project cargo move handled en",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-VN: offer VN origin pickup, consolidation & export customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "investacklogistics.com": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Website: 'a to Bangladesh China to Australia India to USA India to UK India to Germany India to UAE Vietnam to USA Vietnam to UK Vietnam to Germany Warehousing ",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-VN: offer VN origin pickup, consolidation & export customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "creo-logistics.com": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: '0 Paya Lebar Road, #07-04, AZ @ Paya Lebar, Singapore 409015 Branch Office Creo Logistics Vietnam Co., Ltd. Room 17-11, Floor 17, Vincom Center Dong K",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "yidaship.com": {
+  "score": 60,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'Solution & Verification Global Network 20+ owned offices in USA (NJ, CA), Germany (FRA), Vietnam (Hanoi), UAE (DXB). (view more) Speed You Can Rely On",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "castlegateforwarding.com": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Website: 'global logistics network. Origin Trucking Origin trucking across China's major ports plus Vietnam and Malaysia, with competitive rates and real-time t",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-VN: offer VN origin pickup, consolidation & export customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "fpsrtm.com": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy cao). Bằng chứng: Website: 'hanghai (2 sailings per week) Direct import service from Dubai Direct import service from Haiphong Latest news All news 23 nov Direct Weekly LCL Servi",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-VN: offer VN origin pickup, consolidation & export customs",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "ftl-group.com": {
+  "score": 45,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'arted 2 years ago in Singapore has now established their offices in Indo China (Thailand, Vietnam, Cambodia, Laos), Japan, Malaysia and Singapore as H",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "matrixsupplychain.com": {
+  "score": 45,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'r is in Singapore, and we have a large network of branches in India (Chennai), Indonesia, Vietnam, and Singapore. Our offices and warehouses strategic",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "resourcesfreight.com": {
+  "score": 45,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'ity. Discover Our Shipments Process Contact Our International Office Singapore Philipines Vietnam Awards & Affiliations Stay Connected © Resources Fre",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "tbclog.sg": {
+  "score": 70,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Website: 'he island (Bonded warehouse with TradeFIRST enhanced Band) Agent and Offices in Malaysia, Vietnam, Thailand, Shanghai, Australia, Indonesia & Philippi",
+  "recommended_services": [],
+  "outreach_angle": "VN lane both ways: offer VN partner services",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "logimark-group.com": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'ka 🇧🇩 Chittagong 🇧🇩 Chittagong 🇧🇩 Chittagong 🇰🇭 Phnom Penh 🇰🇭 Phnom Penh 🇰🇭 Phnom Penh 🇻🇳 Ha Noi 🇻🇳 Ha Noi 🇻🇳 Ha Noi 🇻🇳 Ho Chi Minh 🇻🇳 Ho Chi Minh 🇻🇳 ",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "premiere-logistics.info": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'Ningbo Beijing Tianjin Qingdao Chongqing Hong Kong Taiwan Singapore Indonesia Netherland Vietnam Sweden Malaysia Newsletter News & Media Careers Recru",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "shground.com": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'nd Inventory Management We provide state-of-the-art warehousing services in Singapore and Vietnam, including temperature-controlled storage and 24/7 C",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "wingtrans.com": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'sia in Hong Kong, Shanghai, Shenzhen, Taipei, Guangzhou, Xiamen, Qingdao, Tianjin, Seoul, Ho Chi Minh City, and Hanoi, we ensure seamless and efficien",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "linkpasipik.com": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Website: 'rvices Schedules Our Office Service Import Export Air Freight SOC From Laem Chabang (THA) Ho Chi Minh (VNM) Ningbo (CHN) Hongkong (HKG) Shanghai (CHN)",
+  "recommended_services": [],
+  "outreach_angle": "Ships to VN: offer VN destination clearance & delivery",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "aabiport.com": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'e, Plot No. – 5, Sector -12, Dwarka, New Delhi 110077 Address(VN) : CONG TY TNHH AABIPORT VIETNAM HQ Songha Building No. 10, Street 33, An Khanh Ward ",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "primerich.com.hk": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'hen City, Guangdong Province, China. Tel: (86) 0755-2372-2580 Email: priszop02@prilogi.cn Vietnam - Hanoi Branch 18/F, Icon4 Tower, 243A De La Thanh, ",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "keyslogistics.com": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'ock B8, Phu Ma Duong building 79/1 Hoang Van Thai street, Tan Phu Ward, District 7, HCMC, Vietnam 9/F, Block A, Hong Kong Industrial Centre, No. 489 –",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "hazelwrights.com": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: '32 L W Jeanjaquet Manager Email: william@hazelwrights.com A Gallardo Documentation Email: Vietnam Hazel Wrights (VN) Logistics Co. Ltd. 4th Fl., 103 P",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "futurefreight.co.th": {
+  "score": 70,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Website: 'nit • Inland Trucking by border of Thailand to Cambodia, Malaysia, Myanmar, Singapore and Vietnam • In-Transit shipment by border of Thailand to Laos,",
+  "recommended_services": [],
+  "outreach_angle": "VN lane both ways: offer VN partner services",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "engthai.com.my": {
+  "score": 60,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Website: 'ecting Borders ENG THAI - Connecting Borders Malaysia | Thailand | Singapore | Cambodia | Vietnam | Laos | Myanmar | China Our Services Contact Us Mya",
+  "recommended_services": [],
+  "outreach_angle": "VN lane both ways: offer VN partner services",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "gateway-id.com": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'n Building Road North 6, North Reclamation Area Cebu City, Philippines 6000 Visit website Vietnam, Ho Chi Minh Gateway Container Line Co.,Ltd 50 Huỳnh",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "sunshinelogistics.ca": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Website: 'i Ningbo Shenzhen Guangzhou Tianjin Qingdao Xiamen Hong Kong Dalian Busan Tokyo Kaohsiung Haiphong Ho Chi Minh Laem Chabang Singapore Port Klang Jakar",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-VN: offer VN origin pickup, consolidation & export customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "impocforwarding.mx": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy thấp). Bằng chứng: Website: 'ino a escala global Shanghái → Ningbo → Shenzhen → Qingdao → Yantian → Singapur → Busan → Ho Chi Minh → Port Klang → Kaohsiung → Rotterdam → Amberes →",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-VN: offer VN origin pickup, consolidation & export customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "maefreight.com": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Website: 'y chains stable and cost-effective. Today, we manage tyre shipments from China, Thailand, Vietnam, Cambodia, Indonesia, Japan, South Korea, Taiwan, an",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-VN: offer VN origin pickup, consolidation & export customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "8-freight.net": {
+  "score": 45,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'wnload Company Profile CONTACT US The 8 Freight Group Switzerland – Australia – Germany – Vietnam – Italy Privacy and cookie Please insert your best e",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "ingo-gallmeister.de": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Website: 'r stärkste Markt für uns mit täglichen Verladungen, aber auch aus den USA, von Indien und Vietnam haben wir sehr regelmäßige Luftfrachten. Im Export k",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-VN: offer VN origin pickup, consolidation & export customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "auklogistics.com": {
+  "score": 45,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'with an office network across APAC — Melbourne, Hong Kong, Taiwan, Malaysia, Thailand and Vietnam. Our people bring an average of 15+ years across fre",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "evolines.com.sg": {
+  "score": 45,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'VO Lines operates globally with a presence in 13 countries, including Malaysia, Thailand, Vietnam, Indonesia, China, Hong Kong, Taiwan, Japan, Austral",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "ftforwarding.com": {
+  "score": 45,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'al, #04-33, S159836 Mon-Fri (9:30am - 2:30pm) UEN: 202318849N FAST TRACK FORWARDING GROUP HO CHI MINH | SINGAPORE | HONG KONG | SHENZHEN Coppyright De",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "gnlgroup.net": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'ation Line || We Deliver on Time, Every Time UAE +971 54 5729433 Thailand +66 99 351 1996 Vietnam +84 33 627 6560 United Kingdom +44 7466 670215 Home ",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "mattroy.com": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'we are located in various countries across Asia ; Singapore, Indonesia, Malaysia, China, Vietnam, Hong Kong, Taiwan, Myanmar & Sri Lanka. Contact Us O",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "gfxth.com": {
+  "score": 70,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Website: 'n southern China, the Greater Mekong countries and Thailand, by air, sea or road. China · Vietnam · Laos · Myanmar · Cambodia Southeast Asia Gateway O",
+  "recommended_services": [],
+  "outreach_angle": "VN lane both ways: offer VN partner services",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "iccl.com.my": {
+  "score": 60,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Website: 'd Asean Extensive Coverage - From China to ASEAN including the Mainland China, Hong Kong, Vietnam, Thailand, Myanmar, Laos, Cambodia, Malaysia and Sin",
+  "recommended_services": [],
+  "outreach_angle": "VN lane both ways: offer VN partner services",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "izzyship.my": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Website: 'providing simple, reliable and efficient shipping services from China, Taiwan, Indonesia, Vietnam, Philippines and Thailand to Malaysia, with a commit",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-VN: offer VN origin pickup, consolidation & export customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "aminlogistics.id": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy thấp). Bằng chứng: Website: 'import barang dari berbagai negara asia lainnya seperti: Hongkong, Jepang, Korea, Taiwan, Vietnam, Thailand, Singapore. Dan kami akan memproses Custom",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-VN: offer VN origin pickup, consolidation & export customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "seamaster.co.id": {
+  "score": 45,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy thấp). Bằng chứng: Website: 'export barang dari berbagai negara asia seperti: China, Hongkong, Jepang, Korea, Taiwan, Vietnam, Thailand, Singapore. Dan kami akan memproses Customs",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-VN: offer VN origin pickup, consolidation & export customs",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "geneveshipping.com": {
+  "score": 45,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: '50 439 1285 Email: [email protected] our presence UAE India Singapore SRI LANKA Malaysia Vietnam Cambodia Headquarters 101, Bay Square- 06, Business B",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "eztranslogistics.com": {
+  "score": 80,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Website: 'd air freight from major Chinese ports and airports, and from other Asian origins such as Vietnam, Thailand, South Korea, Japan, and Taiwan, clear Can",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-VN: offer VN origin pickup, consolidation & export customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "kdsgroup.net": {
+  "score": 70,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Website: 'co | enquiries@bffl.co Bffl agent (Shenzhen) www.bffl.co | enquiries@bffl.co Bffl agent (Hai phong) www.bffl.co | enquiries@bffl.co Bffl agent (Jakart",
+  "recommended_services": [],
+  "outreach_angle": "VN lane both ways: offer VN partner services",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "frtconsol.com.sg": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'ht Consolidators connects local expertise with global reach. Singapore Malaysia Indonesia Vietnam Singapore Malaysia Indonesia Vietnam Ready to Move C",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "avastrid.com": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Website: 'd, Air & Rail freight to all CIS sectors from UAE, India, China, USA, Europe, Indonesia & Vietnam. Door-to-Door Deliveries to Africa Complete best-mil",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-VN: offer VN origin pickup, consolidation & export customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "abhamfreight.com": {
+  "score": 60,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy thấp). Bằng chứng: Website: 'avannah → Istanbul Montreal → Port Qasim Houston → Port Said Norfolk → Mundra Vancouver → Haiphong Los Angeles → Penang Toronto → Nhava Sheva Chicago ",
+  "recommended_services": [],
+  "outreach_angle": "Ships to VN: offer VN destination clearance & delivery",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "shifl.com": {
+  "score": 45,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 're in New York with offices around the world. Currently in China, India, the Philippines, Vietnam, Bangladesh, and Georgia. We are your direct connect",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam",
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "centralcargo.mx": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy thấp). Bằng chứng: Website: 'ea, Filipinas, Hong Kong, India, Indonesia, Japón, Malasia, Singapur, Tailandia, Taiwán y Vietnam. Oceanía / África Angola, Argelia, Australia, Egipto",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-VN: offer VN origin pickup, consolidation & export customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "sameli.com.mx": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy thấp). Bằng chứng: Website: 'comerciales globales. Alianzas con carriers internacionales. Asia → México China, Corea, Vietnam Europa → México España, Alemania, Italia USA → México",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-VN: offer VN origin pickup, consolidation & export customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "farinafreight.com": {
+  "score": 45,
+  "tier": "C",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy thấp). Bằng chứng: Website: 'íses Bajos España Portugal Italia Polonia Finlandia Suecia Suiza Asia: ​China Corea Japón Vietnam Malasia Indonesia Filipinas India Tailandia Taiwan B",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-VN: offer VN origin pickup, consolidation & export customs",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-26: rubric scoring by Claude Code (mode B)"
+  ]
+ }
+}
