@@ -1,0 +1,186 @@
+{
+ "zeenfreight.co.za": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'es We manage end-to-end logistics across our primary trade lanes, including China, India, Vietnam, Turkey, the UAE, Germany, Italy, the Netherlands, the UK and the USA to South Africa, pl'",
+    "url": "https://www.zeenfreight.co.za/trade-lanes/vietnam-south-africa https://cargolinked.com/directory/zeen-freight-110d5066",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy cao). Bằng chứng: Website: 'es We manage end-to-end logistics across our primary trade lanes, including China, India, Vietnam, Turkey, the UAE, Germany, Italy, the Netherlands, t"
+ },
+ "romanianshipping.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'nianshipping.com DESTINATII CHINA AMERICA CANADA AUSTRALIA MIDDLE EAST UK INDIA ALTE TARI VIETNAM COREEA DE SUD JAPONIA TAIWAN SINGAPORE FILIPINE SERVICII Transport Aerian Transport Marit'",
+    "url": "https://romanianshipping.com/vietnam-romania/ https://cargolinked.com/directory/romanian-shipping-f3cfae9b",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy cao). Bằng chứng: Website: 'nianshipping.com DESTINATII CHINA AMERICA CANADA AUSTRALIA MIDDLE EAST UK INDIA ALTE TARI VIETNAM COREEA DE SUD JAPONIA TAIWAN SINGAPORE FILIPINE SERV"
+ },
+ "international-link.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'China Busan , South Korea Yokohama , Japan Singapore , Singapore Port Klang , Malaysia Ho Chi Minh City , Vietnam Laem Chabang , Thailand Jakarta , Indonesia Nhava Sheva (Mumbai) , India M'",
+    "url": "https://www.international-link.com/en https://cargolinked.com/directory/international-link-bbaeba3c",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy thấp). Bằng chứng: Website: 'China Busan , South Korea Yokohama , Japan Singapore , Singapore Port Klang , Malaysia Ho Chi Minh City , Vietnam Laem Chabang , Thailand Jakarta , In"
+ },
+ "capital-log.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'rcial, Of. 221-226, Callao, Perú. + (511) 708 7888 Anexo 111 mcarmelo@capital-corp.com.pe Vietnam Dong Phuong Service & Trading Co. Ltd. No.184 Quan Tho Dong Da, Hanoi Vietnam +84 24 3537'",
+    "url": "https://capital-log.com/ https://cargolinked.com/directory/capital-log-stics-5bb6ffff",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'rcial, Of. 221-226, Callao, Perú. + (511) 708 7888 Anexo 111 mcarmelo@capital-corp.com.pe Vietnam Dong Phuong Service & Trading Co. Ltd. No.184 Quan T"
+ },
+ "andrexaglobal.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: ': (95) 1 377502 Philippines (Manila): (63) 2 86331649 Thailand (Bangkok): (66) 2 080 9000 Vietnam (Ho Chi Minh City): (84) 28 38221166 News & Events Q4 2024 - Q1 2025 Updates Andrexa Glob'",
+    "url": "https://andrexaglobal.com/ https://cargolinked.com/directory/andrexa-global-nigeria-limited-5671eba6",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy thấp). Bằng chứng: Website: ': (95) 1 377502 Philippines (Manila): (63) 2 86331649 Thailand (Bangkok): (66) 2 080 9000 Vietnam (Ho Chi Minh City): (84) 28 38221166 News & Events Q"
+ },
+ "swiftcargomaroc.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'maritime Fret aérien Fret routier Casablanca Turquie Fret maritime Fret aérien Casablanca Vietnam Fret maritime Fret aérien Casablanca Australie Fret maritime Fret aérien Membre des résea'",
+    "url": "https://swiftcargomaroc.com/ https://cargolinked.com/directory/swift-cargo-maroc-49d0f4c9",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Website: 'maritime Fret aérien Fret routier Casablanca Turquie Fret maritime Fret aérien Casablanca Vietnam Fret maritime Fret aérien Casablanca Australie Fret "
+ },
+ "yasailogistics.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'hips cover all major trade lanes feeding into the Uae: • Asia — China, India, Bangladesh, Vietnam, South Korea, Japan, Hong Kong, Singapore, Thailand • Europe — Germany, Italy, France, UK'",
+    "url": "https://yasailogistics.com/ https://cargolinked.com/directory/yasai-logistics-dd76822b",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy thấp). Bằng chứng: Website: 'hips cover all major trade lanes feeding into the Uae: • Asia — China, India, Bangladesh, Vietnam, South Korea, Japan, Hong Kong, Singapore, Thailand "
+ },
+ "dp-aviation.com": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'E.22, RT.007/RW.003, Pekayon Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17148 Indonesia Vietnam Room 403, 4 Floor, SCSC Office Building 30 Phan Thuc Duyen, Ward 4, Tan Binh District Ho'",
+    "url": "https://www.dp-aviation.com/ https://www.iata.org/en/publications/directories/cargolink/directory/dp-aviation-partners-pte-ltd/357/",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'E.22, RT.007/RW.003, Pekayon Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17148 Indonesia Vietnam Room 403, 4 Floor, SCSC Office Building 30 Phan Thuc"
+ }
+}

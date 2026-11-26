@@ -1,0 +1,104 @@
+{
+ "zeenfreight.co.za": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy cao). Bằng chứng: Website: 'es We manage end-to-end logistics across our primary trade lanes, including China, India, Vietnam, Turkey, the UAE, Germany, Italy, the Netherlands, t",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-VN: offer VN origin pickup, consolidation & export customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-27: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "romanianshipping.com": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy cao). Bằng chứng: Website: 'nianshipping.com DESTINATII CHINA AMERICA CANADA AUSTRALIA MIDDLE EAST UK INDIA ALTE TARI VIETNAM COREEA DE SUD JAPONIA TAIWAN SINGAPORE FILIPINE SERV",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-VN: offer VN origin pickup, consolidation & export customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-27: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "international-link.com": {
+  "score": 70,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy thấp). Bằng chứng: Website: 'China Busan , South Korea Yokohama , Japan Singapore , Singapore Port Klang , Malaysia Ho Chi Minh City , Vietnam Laem Chabang , Thailand Jakarta , In",
+  "recommended_services": [],
+  "outreach_angle": "Ships to VN: offer VN destination clearance & delivery",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-27: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "capital-log.com": {
+  "score": 70,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'rcial, Of. 221-226, Callao, Perú. + (511) 708 7888 Anexo 111 mcarmelo@capital-corp.com.pe Vietnam Dong Phuong Service & Trading Co. Ltd. No.184 Quan T",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-27: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "andrexaglobal.com": {
+  "score": 70,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy thấp). Bằng chứng: Website: ': (95) 1 377502 Philippines (Manila): (63) 2 86331649 Thailand (Bangkok): (66) 2 080 9000 Vietnam (Ho Chi Minh City): (84) 28 38221166 News & Events Q",
+  "recommended_services": [],
+  "outreach_angle": "VN lane both ways: offer VN partner services",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-27: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "swiftcargomaroc.com": {
+  "score": 75,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy trung bình). Bằng chứng: Website: 'maritime Fret aérien Fret routier Casablanca Turquie Fret maritime Fret aérien Casablanca Vietnam Fret maritime Fret aérien Casablanca Australie Fret ",
+  "recommended_services": [],
+  "outreach_angle": "VN lane both ways: offer VN partner services",
+  "red_flags": [
+   "No public email found"
+  ],
+  "reasons": [
+   "daily run 2026-11-27: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "yasailogistics.com": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy thấp). Bằng chứng: Website: 'hips cover all major trade lanes feeding into the Uae: • Asia — China, India, Bangladesh, Vietnam, South Korea, Japan, Hong Kong, Singapore, Thailand ",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-VN: offer VN origin pickup, consolidation & export customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-27: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "dp-aviation.com": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'E.22, RT.007/RW.003, Pekayon Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17148 Indonesia Vietnam Room 403, 4 Floor, SCSC Office Building 30 Phan Thuc",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-27: rubric scoring by Claude Code (mode B)"
+  ]
+ }
+}
