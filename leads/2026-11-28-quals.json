@@ -1,0 +1,64 @@
+{
+ "sdtransfreight.com": {
+  "score": 65,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Website: 'hipment to Dar es Salaam, Tanzania. “Thank you very much we have received our shipment in Hanoi” Mrs. Tran Thi Thu Thin Embassy of Vietnam - Shipment ",
+  "recommended_services": [],
+  "outreach_angle": "Ships to VN: offer VN destination clearance & delivery",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-28: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "doyleshipping.ie": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'l contact info Austria Reception P: +43 6604 811845 E: SGaar@dsg.ie View all contact info Ho Chi Minh Reception P: +84 3933 22796 E: cmccann@dsg-asia.",
+  "recommended_services": [],
+  "outreach_angle": "Has own VN presence: offer overflow/backup trucking, customs & north/south coverage",
+  "red_flags": [
+   "Already has own office/subsidiary in Vietnam"
+  ],
+  "reasons": [
+   "daily run 2026-11-28: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "smartlogisticschile.com": {
+  "score": 55,
+  "tier": "B",
+  "is_forwarder": true,
+  "vietnam_fit": "Nhập vào VN (tin cậy thấp). Bằng chứng: Website: 'aeropuertos: Europa Amsterdam, Frankfurt, Londres, Madrid, Milan y Paris. Asia Hong Kong, Ho Chi Minh, Kuala Lumpur, Shanghai y Seoul. Centro y Sudame",
+  "recommended_services": [],
+  "outreach_angle": "Ships to VN: offer VN destination clearance & delivery",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-28: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "hebenlogistics.com": {
+  "score": 80,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Website: 'from Shanghai, Ningbo, Shenzhen to Mombasa 25-35 days Asia → Africa Singapore, Malaysia, Vietnam to key African ports 30-40 days Europe → Africa Rotte",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-VN: offer VN origin pickup, consolidation & export customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-28: rubric scoring by Claude Code (mode B)"
+  ]
+ },
+ "dynafreit.com": {
+  "score": 80,
+  "tier": "A",
+  "is_forwarder": true,
+  "vietnam_fit": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Website: 'iew All Global Trade Routes →] Emerging & Strategi Lanes Brazil → Nigeria Japan → Nigeria Vietnam → Nigeria Belgium → Nigeria South Africa → Nigeria N",
+  "recommended_services": [],
+  "outreach_angle": "Ships ex-VN: offer VN origin pickup, consolidation & export customs",
+  "red_flags": [],
+  "reasons": [
+   "daily run 2026-11-28: rubric scoring by Claude Code (mode B)"
+  ]
+ }
+}

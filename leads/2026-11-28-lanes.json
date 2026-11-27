@@ -1,0 +1,117 @@
+{
+ "sdtransfreight.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'hipment to Dar es Salaam, Tanzania. “Thank you very much we have received our shipment in Hanoi” Mrs. Tran Thi Thu Thin Embassy of Vietnam - Shipment to Hanoi, Vietnam. “You have the be'",
+    "url": "https://www.sdtransfreight.com/ https://www.freightnet.com/profile/262788.htm",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy trung bình). Bằng chứng: Website: 'hipment to Dar es Salaam, Tanzania. “Thank you very much we have received our shipment in Hanoi” Mrs. Tran Thi Thu Thin Embassy of Vietnam - Shipment "
+ },
+ "doyleshipping.ie": {
+  "direction": "both",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": true,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'l contact info Austria Reception P: +43 6604 811845 E: SGaar@dsg.ie View all contact info Ho Chi Minh Reception P: +84 3933 22796 E: cmccann@dsg-asia.com View all contact info We provide port'",
+    "url": "https://www.doyleshipping.ie/ https://www.freightnet.com/profile/166990.htm",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "high",
+  "sources_agree": null,
+  "summary_vi": "Cả nhập & xuất (tin cậy cao). Đã có văn phòng/đối tác riêng tại VN. Bằng chứng: Website: 'l contact info Austria Reception P: +43 6604 811845 E: SGaar@dsg.ie View all contact info Ho Chi Minh Reception P: +84 3933 22796 E: cmccann@dsg-asia."
+ },
+ "smartlogisticschile.com": {
+  "direction": "import_to_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'aeropuertos: Europa Amsterdam, Frankfurt, Londres, Madrid, Milan y Paris. Asia Hong Kong, Ho Chi Minh, Kuala Lumpur, Shanghai y Seoul. Centro y Sudamerica Asunción, Bogota, Buenos Aires, Guay'",
+    "url": "https://WWW.SMARTLOGISTICSCHILE.COM/ https://www.freightnet.com/profile/137559.htm",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "low",
+  "sources_agree": null,
+  "summary_vi": "Nhập vào VN (tin cậy thấp). Bằng chứng: Website: 'aeropuertos: Europa Amsterdam, Frankfurt, Londres, Madrid, Milan y Paris. Asia Hong Kong, Ho Chi Minh, Kuala Lumpur, Shanghai y Seoul. Centro y Sudame"
+ },
+ "hebenlogistics.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'from Shanghai, Ningbo, Shenzhen to Mombasa 25-35 days Asia → Africa Singapore, Malaysia, Vietnam to key African ports 30-40 days Europe → Africa Rotterdam, Hamburg, Antwerp to Dar es Sal'",
+    "url": "https://hebenlogistics.com/ https://www.freightnet.com/profile/266878.htm",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Website: 'from Shanghai, Ningbo, Shenzhen to Mombasa 25-35 days Asia → Africa Singapore, Malaysia, Vietnam to key African ports 30-40 days Europe → Africa Rotte"
+ },
+ "dynafreit.com": {
+  "direction": "export_from_vn",
+  "modes": [
+   "sea",
+   "air"
+  ],
+  "vn_gateways": [],
+  "counterpart_gateways": [],
+  "commodities": [],
+  "frequency_hint": null,
+  "has_vietnam_office": false,
+  "vietnam_partners": [],
+  "evidence": [
+   {
+    "claim": "Website: 'iew All Global Trade Routes →] Emerging & Strategi Lanes Brazil → Nigeria Japan → Nigeria Vietnam → Nigeria Belgium → Nigeria South Africa → Nigeria Netherlands → Nigeria Malaysia → Niger'",
+    "url": "https://dynafreit.com/ https://www.freightnet.com/profile/269789.htm",
+    "source": "company_site"
+   }
+  ],
+  "confidence": "medium",
+  "sources_agree": null,
+  "summary_vi": "Xuất từ VN (tin cậy trung bình). Bằng chứng: Website: 'iew All Global Trade Routes →] Emerging & Strategi Lanes Brazil → Nigeria Japan → Nigeria Vietnam → Nigeria Belgium → Nigeria South Africa → Nigeria N"
+ }
+}
